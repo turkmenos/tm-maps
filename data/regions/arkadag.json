@@ -1,0 +1,46 @@
+[
+  {
+    "slug": "turkmenistan-arkadag",
+    "name_tm": "Arkadag",
+    "name_en": "Arkadag",
+    "name_ru": "Аркадаг",
+    "type": "independent_city",
+    "latitude": null,
+    "longitude": null,
+    "parent_slug": "turkmenistan",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "turkmenistan-arkadag-gorjaw",
+    "name_tm": "Gorjaw",
+    "name_en": "Gorjaw",
+    "name_ru": "Горжав",
+    "type": "etrap",
+    "latitude": null,
+    "longitude": null,
+    "parent_slug": "turkmenistan-arkadag",
+    "verification_status": "verification_required"
+  },
+  {
+    "slug": "turkmenistan-arkadag-karizek",
+    "name_tm": "Kärizek",
+    "name_en": "Kärizek",
+    "name_ru": "Каризек",
+    "type": "etrap",
+    "latitude": null,
+    "longitude": null,
+    "parent_slug": "turkmenistan-arkadag",
+    "verification_status": "verification_required"
+  },
+  {
+    "slug": "turkmenistan-arkadag-aba-annayew",
+    "name_tm": "Aba Annaýew",
+    "name_en": "Aba Annaýew",
+    "name_ru": "Аба аннайев",
+    "type": "town",
+    "latitude": null,
+    "longitude": null,
+    "parent_slug": "turkmenistan-arkadag",
+    "verification_status": "verification_required"
+  }
+]

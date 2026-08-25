@@ -1,0 +1,57 @@
+[
+  {
+    "slug": "turkmenistan-asgabat",
+    "name_tm": "Aşgabat",
+    "name_en": "Ashgabat",
+    "name_ru": "Ашхабад",
+    "type": "independent_city",
+    "latitude": 37.9600769999999983,
+    "longitude": 58.32606299999999778,
+    "parent_slug": "turkmenistan",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "turkmenistan-asgabat-bagtyyarlyk",
+    "name_tm": "Bagtyýarlyk",
+    "name_en": "Bagtyýarlyk",
+    "name_ru": "Багтыярлык",
+    "type": "etrap",
+    "latitude": null,
+    "longitude": null,
+    "parent_slug": "turkmenistan-asgabat",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "turkmenistan-asgabat-berkararlyk",
+    "name_tm": "Berkararlyk",
+    "name_en": "Berkararlyk",
+    "name_ru": "Беркарарлык",
+    "type": "etrap",
+    "latitude": null,
+    "longitude": null,
+    "parent_slug": "turkmenistan-asgabat",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "turkmenistan-asgabat-buzmeyin",
+    "name_tm": "Büzmeýin",
+    "name_en": "Büzmeýin",
+    "name_ru": "Бузмейин",
+    "type": "etrap",
+    "latitude": null,
+    "longitude": null,
+    "parent_slug": "turkmenistan-asgabat",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "turkmenistan-asgabat-kopetdag",
+    "name_tm": "Köpetdag",
+    "name_en": "Köpetdag",
+    "name_ru": "Копетдаг",
+    "type": "etrap",
+    "latitude": null,
+    "longitude": null,
+    "parent_slug": "turkmenistan-asgabat",
+    "verification_status": "verified"
+  }
+]
