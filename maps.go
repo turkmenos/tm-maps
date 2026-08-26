@@ -127,19 +127,23 @@ func Search(query string) ([]Settlement, error) {
 		if strings.Contains(strings.ToLower(record.NameTM), query) ||
 			strings.Contains(strings.ToLower(record.NameEN), query) ||
 			strings.Contains(strings.ToLower(record.NameRU), query) {
-			results = append(results, Settlement{
-				Slug:      record.Slug,
-				NameTM:    record.NameTM,
-				NameEN:    record.NameEN,
-				NameRU:    record.NameRU,
-				Type:      record.Type,
-				Latitude:  record.Latitude,
-				Longitude: record.Longitude,
-				Region:    settlementRegion(record, bySlug),
-			})
+			results = append(results, settlementFromRecord(record, bySlug))
 		}
 	}
 	return results, nil
+}
+
+func settlementFromRecord(record *Region, bySlug map[string]*Region) Settlement {
+	return Settlement{
+		Slug:      record.Slug,
+		NameTM:    record.NameTM,
+		NameEN:    record.NameEN,
+		NameRU:    record.NameRU,
+		Type:      record.Type,
+		Latitude:  record.Latitude,
+		Longitude: record.Longitude,
+		Region:    settlementRegion(record, bySlug),
+	}
 }
 
 func isSettlementType(regionType string) bool {
