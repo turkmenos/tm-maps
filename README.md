@@ -83,6 +83,20 @@ boundaries return `ErrRegionNotFound`; both can be checked with `errors.Is`.
 The parameters use `(latitude, longitude)` order. GeoJSON coordinates are converted
 internally from their standard `[longitude, latitude]` order.
 
+`Contains` checks a coordinate against one specific welaýat. Points directly on
+the boundary are considered contained:
+
+```go
+inside, err := tmmaps.Contains("ahal", 37.960077, 58.326063)
+if err != nil {
+	panic(err)
+}
+fmt.Println(inside) // true
+```
+
+An unsupported welaýat slug returns `ErrUnknownRegion`. Like `RegionAt`, this
+operation uses only the boundary data embedded in the package.
+
 ## Data Coverage
 
 The administrative boundaries are sourced from the geoBoundaries `TKM-ADM1-27578892` dataset and represent boundaries from **2007**.

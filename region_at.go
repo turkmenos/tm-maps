@@ -11,6 +11,8 @@ import (
 var (
 	// ErrInvalidCoordinate indicates latitude or longitude outside its valid range.
 	ErrInvalidCoordinate = errors.New("invalid coordinate")
+	// ErrUnknownRegion indicates that no boundary exists for a requested welaýat slug.
+	ErrUnknownRegion = errors.New("unknown welaýat")
 	// ErrRegionNotFound indicates a coordinate outside the available welaýat boundaries.
 	ErrRegionNotFound = errors.New("coordinate is outside available boundaries")
 )
@@ -40,10 +42,8 @@ var (
 // RegionAt returns the welaýat containing latitude and longitude.
 // Boundary points are treated as contained. The lookup is entirely offline.
 func RegionAt(latitude, longitude float64) (*Region, error) {
-	if math.IsNaN(latitude) || math.IsNaN(longitude) ||
-		math.IsInf(latitude, 0) || math.IsInf(longitude, 0) ||
-		latitude < -90 || latitude > 90 || longitude < -180 || longitude > 180 {
-		return nil, fmt.Errorf("%w: latitude=%v longitude=%v", ErrInvalidCoordinate, latitude, longitude)
+	if err := validateCoordinate(latitude, longitude); err != nil {
+		return nil, err
 	}
 
 	boundaries, err := loadBoundaries()
@@ -61,6 +61,49 @@ func RegionAt(latitude, longitude float64) (*Region, error) {
 		}
 	}
 	return nil, ErrRegionNotFound
+}
+
+// Contains reports whether latitude and longitude are covered by the requested
+// welaýat. Boundary points are treated as contained. The lookup is entirely
+// offline and slug must be one of ahal, balkan, dasoguz, lebap, or mary.
+func Contains(slug string, latitude, longitude float64) (bool, error) {
+	wantedSlug := "turkmenistan-" + slug
+	switch slug {
+	case "ahal", "balkan", "dasoguz", "lebap", "mary":
+	default:
+		return false, fmt.Errorf("%w: %s", ErrUnknownRegion, slug)
+	}
+	if err := validateCoordinate(latitude, longitude); err != nil {
+		return false, err
+	}
+
+	boundaries, err := loadBoundaries()
+	if err != nil {
+		return false, err
+	}
+	point := [2]float64{longitude, latitude}
+	for _, feature := range boundaries {
+		if feature.Properties.Slug != wantedSlug {
+			continue
+		}
+		inside, err := geometryContains(feature.Geometry, point)
+		if err != nil {
+			return false, fmt.Errorf("check boundary %s: %w", slug, err)
+		}
+		if inside {
+			return true, nil
+		}
+	}
+	return false, nil
+}
+
+func validateCoordinate(latitude, longitude float64) error {
+	if math.IsNaN(latitude) || math.IsNaN(longitude) ||
+		math.IsInf(latitude, 0) || math.IsInf(longitude, 0) ||
+		latitude < -90 || latitude > 90 || longitude < -180 || longitude > 180 {
+		return fmt.Errorf("%w: latitude=%v longitude=%v", ErrInvalidCoordinate, latitude, longitude)
+	}
+	return nil
 }
 
 func loadBoundaries() ([]boundaryFeature, error) {
