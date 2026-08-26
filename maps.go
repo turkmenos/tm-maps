@@ -29,6 +29,29 @@ type Region struct {
 	VerificationStatus string   `json:"verification_status"`
 }
 
+// Settlement is a named populated place in the bundled geographic dataset.
+// Latitude and Longitude are nil when coordinates are not available.
+type Settlement struct {
+	Slug      string            `json:"slug"`
+	NameTM    string            `json:"name_tm"`
+	NameEN    string            `json:"name_en"`
+	NameRU    string            `json:"name_ru"`
+	Type      string            `json:"type"`
+	Latitude  *float64          `json:"latitude"`
+	Longitude *float64          `json:"longitude"`
+	Region    *SettlementRegion `json:"region,omitempty"`
+}
+
+// SettlementRegion identifies the top-level welaýat or independent city that
+// contains a settlement. It is nil when the source record has no region assigned.
+type SettlementRegion struct {
+	Slug   string `json:"slug"`
+	NameTM string `json:"name_tm"`
+	NameEN string `json:"name_en"`
+	NameRU string `json:"name_ru"`
+	Type   string `json:"type"`
+}
+
 func Welaýat(name string) ([]byte, error) {
 	switch name {
 	case "ahal", "balkan", "dasoguz", "lebap", "mary":
@@ -78,23 +101,69 @@ func Children(parentSlug string) ([]Region, error) {
 	}
 	return children, nil
 }
-func Search(query string) ([]Region, error) {
+
+// Search finds settlements whose Turkmen, English, or Russian name contains
+// query. Matching is case-insensitive and uses only the embedded dataset.
+func Search(query string) ([]Settlement, error) {
 	query = strings.ToLower(strings.TrimSpace(query))
 	if query == "" {
-		return []Region{}, nil
+		return []Settlement{}, nil
 	}
 	regions, err := Regions()
 	if err != nil {
 		return nil, err
 	}
-	results := make([]Region, 0)
-	for _, region := range regions {
-		if strings.Contains(strings.ToLower(region.NameTM), query) ||
-			strings.Contains(strings.ToLower(region.NameEN), query) ||
-			strings.Contains(strings.ToLower(region.NameRU), query) ||
-			strings.Contains(strings.ToLower(region.Slug), query) {
-			results = append(results, region)
+	bySlug := make(map[string]*Region, len(regions))
+	for i := range regions {
+		bySlug[regions[i].Slug] = &regions[i]
+	}
+
+	results := make([]Settlement, 0)
+	for i := range regions {
+		record := &regions[i]
+		if !isSettlementType(record.Type) {
+			continue
+		}
+		if strings.Contains(strings.ToLower(record.NameTM), query) ||
+			strings.Contains(strings.ToLower(record.NameEN), query) ||
+			strings.Contains(strings.ToLower(record.NameRU), query) {
+			results = append(results, Settlement{
+				Slug:      record.Slug,
+				NameTM:    record.NameTM,
+				NameEN:    record.NameEN,
+				NameRU:    record.NameRU,
+				Type:      record.Type,
+				Latitude:  record.Latitude,
+				Longitude: record.Longitude,
+				Region:    settlementRegion(record, bySlug),
+			})
 		}
 	}
 	return results, nil
+}
+
+func isSettlementType(regionType string) bool {
+	switch regionType {
+	case "city", "town", "village", "independent_city":
+		return true
+	default:
+		return false
+	}
+}
+
+func settlementRegion(settlement *Region, bySlug map[string]*Region) *SettlementRegion {
+	current := settlement
+	for current != nil {
+		if current.Type == "welayat" || current.Type == "independent_city" {
+			return &SettlementRegion{
+				Slug:   current.Slug,
+				NameTM: current.NameTM,
+				NameEN: current.NameEN,
+				NameRU: current.NameRU,
+				Type:   current.Type,
+			}
+		}
+		current = bySlug[current.ParentSlug]
+	}
+	return nil
 }

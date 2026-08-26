@@ -65,6 +65,29 @@ func main() {
 
 The geographic data is embedded in the Go package, so no external files or network requests are required at runtime.
 
+### Settlement search
+
+`Search` finds settlements by their Turkmen, English, or Russian name. Matching
+is case-insensitive, supports Turkmen Unicode characters, and works entirely
+offline:
+
+```go
+results, err := tmmaps.Search("Mary")
+if err != nil {
+	panic(err)
+}
+for _, settlement := range results {
+	fmt.Println(settlement.NameTM, settlement.Latitude, settlement.Longitude)
+	if settlement.Region != nil {
+		fmt.Println(settlement.Region.NameTM)
+	}
+}
+```
+
+Results are `Settlement` values and include coordinates when available, plus
+the containing welaýat or independent-city information when assigned in the
+source dataset. A query with no matches returns an empty slice.
+
 ### Coordinate lookup
 
 `RegionAt` returns the welaýat containing a latitude and longitude:
