@@ -76,19 +76,43 @@ func TestChildren(t *testing.T) {
 }
 
 func TestSearch(t *testing.T) {
-	results, err := Search("Bereket")
+	results, err := Search("Mary")
 	if err != nil {
 		t.Fatal(err)
 	}
 	if len(results) == 0 {
-		t.Fatal("Search() returned no results for Bereket")
+		t.Fatal("Search() returned no results for Mary")
+	}
+	for _, result := range results {
+		if !isSettlementType(result.Type) {
+			t.Fatalf("Search() returned non-settlement type %q", result.Type)
+		}
+		if result.Region == nil || result.Region.Slug != "turkmenistan-mary" {
+			t.Fatalf("Search() result has unexpected region: %+v", result.Region)
+		}
 	}
 
-	empty, err := Search("   ")
+	unicodeResults, err := Search("äNEW")
+	if err != nil {
+		t.Fatal(err)
+	}
+	if len(unicodeResults) == 0 || unicodeResults[0].NameTM != "Änew" {
+		t.Fatalf("Search() did not match Turkmen Unicode case-insensitively: %+v", unicodeResults)
+	}
+
+	coordinateResults, err := Search("aşgabat")
+	if err != nil {
+		t.Fatal(err)
+	}
+	if len(coordinateResults) == 0 || coordinateResults[0].Latitude == nil || coordinateResults[0].Longitude == nil {
+		t.Fatalf("Search() did not include available coordinates: %+v", coordinateResults)
+	}
+
+	empty, err := Search("no-such-settlement-xyz")
 	if err != nil {
 		t.Fatal(err)
 	}
 	if len(empty) != 0 {
-		t.Fatalf("Search() returned %d results for an empty query", len(empty))
+		t.Fatalf("Search() returned %d results for an unknown query", len(empty))
 	}
 }

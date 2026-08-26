@@ -65,6 +65,45 @@ func main() {
 
 The geographic data is embedded in the Go package, so no external files or network requests are required at runtime.
 
+### Settlement search
+
+`Search` finds settlements by their Turkmen, English, or Russian name. Matching
+is case-insensitive, supports Turkmen Unicode characters, and works entirely
+offline:
+
+```go
+results, err := tmmaps.Search("Mary")
+if err != nil {
+	panic(err)
+}
+for _, settlement := range results {
+	fmt.Println(settlement.NameTM, settlement.Latitude, settlement.Longitude)
+	if settlement.Region != nil {
+		fmt.Println(settlement.Region.NameTM)
+	}
+}
+```
+
+Results are `Settlement` values and include coordinates when available, plus
+the containing welaýat or independent-city information when assigned in the
+source dataset. A query with no matches returns an empty slice.
+
+### Nearest settlement
+
+`Nearest` returns the closest settlement that has coordinates in the embedded
+dataset. The result includes the Haversine distance in kilometres:
+
+```go
+place, err := tmmaps.Nearest(37.960077, 58.326063)
+if err != nil {
+	panic(err)
+}
+fmt.Println(place.NameTM)     // Aşgabat
+fmt.Println(place.DistanceKM) // approximately 0
+```
+
+Invalid latitude or longitude values return `ErrInvalidCoordinate`.
+
 ### Coordinate lookup
 
 `RegionAt` returns the welaýat containing a latitude and longitude:
