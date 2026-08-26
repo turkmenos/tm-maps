@@ -2,6 +2,14 @@
 
 WGS84 (EPSG:4326) GeoJSON boundaries and geographic data for Turkmenistan, with a Go API for easy access.
 
+## Live Demo
+
+Try all public functions in the interactive web demo:
+
+<https://tm-maps-demo-ten.vercel.app/>
+
+Demo source: [`dayanchm/tm-maps-demo`](https://github.com/dayanchm/tm-maps-demo)
+
 ## GeoJSON
 
 - `data/geojson/turkmenistan-welayatlar.geojson` — all welaýats in a single FeatureCollection
