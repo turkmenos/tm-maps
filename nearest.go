@@ -2,7 +2,6 @@ package tmmaps
 
 import (
 	"errors"
-	"fmt"
 	"math"
 )
 
@@ -23,8 +22,8 @@ type NearestResult struct {
 // coordinates from the embedded dataset. DistanceKM is calculated with the
 // Haversine formula.
 func Nearest(latitude, longitude float64) (*NearestResult, error) {
-	if !validNearestCoordinate(latitude, longitude) {
-		return nil, fmt.Errorf("%w: latitude=%v longitude=%v", ErrInvalidCoordinate, latitude, longitude)
+	if err := validateCoordinate(latitude, longitude); err != nil {
+		return nil, err
 	}
 	records, err := Regions()
 	if err != nil {
@@ -55,12 +54,6 @@ func Nearest(latitude, longitude float64) (*NearestResult, error) {
 		Settlement: settlementFromRecord(nearest, bySlug),
 		DistanceKM: minimumDistance,
 	}, nil
-}
-
-func validNearestCoordinate(latitude, longitude float64) bool {
-	return !math.IsNaN(latitude) && !math.IsNaN(longitude) &&
-		!math.IsInf(latitude, 0) && !math.IsInf(longitude, 0) &&
-		latitude >= -90 && latitude <= 90 && longitude >= -180 && longitude <= 180
 }
 
 func haversineKM(latitude1, longitude1, latitude2, longitude2 float64) float64 {

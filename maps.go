@@ -4,9 +4,13 @@ package tmmaps
 import (
 	"embed"
 	"encoding/json"
+	"errors"
 	"fmt"
 	"strings"
 	"sync"
+
+	"golang.org/x/text/cases"
+	"golang.org/x/text/unicode/norm"
 )
 
 //go:embed data/regions.json data/geojson/welayatlar/*.geojson
@@ -51,6 +55,17 @@ type SettlementRegion struct {
 	NameRU string `json:"name_ru"`
 	Type   string `json:"type"`
 }
+
+// SearchOptions controls settlement search filtering. A zero Limit means no
+// limit. RegionSlug uses the full region slug, for example turkmenistan-mary.
+type SearchOptions struct {
+	Limit      int
+	Types      []string
+	RegionSlug string
+}
+
+// ErrInvalidSearchOptions indicates an invalid limit or settlement type.
+var ErrInvalidSearchOptions = errors.New("invalid search options")
 
 func Welaýat(name string) ([]byte, error) {
 	switch name {
@@ -105,7 +120,24 @@ func Children(parentSlug string) ([]Region, error) {
 // Search finds settlements whose Turkmen, English, or Russian name contains
 // query. Matching is case-insensitive and uses only the embedded dataset.
 func Search(query string) ([]Settlement, error) {
-	query = strings.ToLower(strings.TrimSpace(query))
+	return SearchWithOptions(query, SearchOptions{})
+}
+
+// SearchWithOptions finds settlements by name and applies result, type, and
+// region filters. Matching is case-insensitive and Unicode-normalized.
+func SearchWithOptions(query string, options SearchOptions) ([]Settlement, error) {
+	if options.Limit < 0 {
+		return nil, fmt.Errorf("%w: limit must not be negative", ErrInvalidSearchOptions)
+	}
+	typeFilter := make(map[string]struct{}, len(options.Types))
+	for _, settlementType := range options.Types {
+		if !isSettlementType(settlementType) {
+			return nil, fmt.Errorf("%w: unknown settlement type %q", ErrInvalidSearchOptions, settlementType)
+		}
+		typeFilter[settlementType] = struct{}{}
+	}
+
+	query = normalizeSearchText(strings.TrimSpace(query))
 	if query == "" {
 		return []Settlement{}, nil
 	}
@@ -124,13 +156,30 @@ func Search(query string) ([]Settlement, error) {
 		if !isSettlementType(record.Type) {
 			continue
 		}
-		if strings.Contains(strings.ToLower(record.NameTM), query) ||
-			strings.Contains(strings.ToLower(record.NameEN), query) ||
-			strings.Contains(strings.ToLower(record.NameRU), query) {
-			results = append(results, settlementFromRecord(record, bySlug))
+		if len(typeFilter) > 0 {
+			if _, ok := typeFilter[record.Type]; !ok {
+				continue
+			}
+		}
+		if !strings.Contains(normalizeSearchText(record.NameTM), query) &&
+			!strings.Contains(normalizeSearchText(record.NameEN), query) &&
+			!strings.Contains(normalizeSearchText(record.NameRU), query) {
+			continue
+		}
+		settlement := settlementFromRecord(record, bySlug)
+		if options.RegionSlug != "" && (settlement.Region == nil || settlement.Region.Slug != options.RegionSlug) {
+			continue
+		}
+		results = append(results, settlement)
+		if options.Limit > 0 && len(results) == options.Limit {
+			break
 		}
 	}
 	return results, nil
+}
+
+func normalizeSearchText(value string) string {
+	return norm.NFC.String(cases.Fold().String(value))
 }
 
 func settlementFromRecord(record *Region, bySlug map[string]*Region) Settlement {

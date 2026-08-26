@@ -88,6 +88,21 @@ Results are `Settlement` values and include coordinates when available, plus
 the containing welaýat or independent-city information when assigned in the
 source dataset. A query with no matches returns an empty slice.
 
+Use `SearchWithOptions` to limit results or filter by settlement type and
+region. Region filters use the full region slug:
+
+```go
+results, err := tmmaps.SearchWithOptions("a", tmmaps.SearchOptions{
+	Limit:      10,
+	Types:      []string{"city", "village"},
+	RegionSlug: "turkmenistan-mary",
+})
+```
+
+Search text is case-folded and NFC-normalized, so equivalent composed and
+decomposed Turkmen Unicode characters produce the same matches. A negative
+limit or unsupported settlement type returns `ErrInvalidSearchOptions`.
+
 ### Nearest settlement
 
 `Nearest` returns the closest settlement that has coordinates in the embedded
@@ -103,6 +118,22 @@ fmt.Println(place.DistanceKM) // approximately 0
 ```
 
 Invalid latitude or longitude values return `ErrInvalidCoordinate`.
+
+`WithinRadius` returns every known settlement within a distance in kilometres,
+ordered from nearest to farthest:
+
+```go
+places, err := tmmaps.WithinRadius(37.960077, 58.326063, 25)
+if err != nil {
+	panic(err)
+}
+for _, place := range places {
+	fmt.Println(place.NameTM, place.DistanceKM)
+}
+```
+
+The radius must be finite and greater than zero; invalid values return
+`ErrInvalidRadius`.
 
 ### Coordinate lookup
 
