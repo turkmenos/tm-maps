@@ -2,6 +2,7 @@ package tmmaps
 
 import (
 	"encoding/json"
+	"errors"
 	"testing"
 )
 
@@ -99,6 +100,13 @@ func TestSearch(t *testing.T) {
 	if len(unicodeResults) == 0 || unicodeResults[0].NameTM != "Änew" {
 		t.Fatalf("Search() did not match Turkmen Unicode case-insensitively: %+v", unicodeResults)
 	}
+	decomposedResults, err := Search("A\u0308new")
+	if err != nil {
+		t.Fatal(err)
+	}
+	if len(decomposedResults) == 0 || decomposedResults[0].NameTM != "Änew" {
+		t.Fatalf("Search() did not normalize Unicode: %+v", decomposedResults)
+	}
 
 	coordinateResults, err := Search("aşgabat")
 	if err != nil {
@@ -114,5 +122,35 @@ func TestSearch(t *testing.T) {
 	}
 	if len(empty) != 0 {
 		t.Fatalf("Search() returned %d results for an unknown query", len(empty))
+	}
+}
+
+func TestSearchWithOptions(t *testing.T) {
+	results, err := SearchWithOptions("a", SearchOptions{
+		Limit:      3,
+		Types:      []string{"village"},
+		RegionSlug: "turkmenistan-mary",
+	})
+	if err != nil {
+		t.Fatal(err)
+	}
+	if len(results) != 3 {
+		t.Fatalf("SearchWithOptions() returned %d results, want 3", len(results))
+	}
+	for _, result := range results {
+		if result.Type != "village" {
+			t.Fatalf("SearchWithOptions() type = %q, want village", result.Type)
+		}
+		if result.Region == nil || result.Region.Slug != "turkmenistan-mary" {
+			t.Fatalf("SearchWithOptions() region = %+v, want turkmenistan-mary", result.Region)
+		}
+	}
+}
+
+func TestSearchWithOptionsInvalid(t *testing.T) {
+	for _, options := range []SearchOptions{{Limit: -1}, {Types: []string{"etrap"}}} {
+		if _, err := SearchWithOptions("Mary", options); !errors.Is(err, ErrInvalidSearchOptions) {
+			t.Errorf("SearchWithOptions() error = %v, want ErrInvalidSearchOptions", err)
+		}
 	}
 }

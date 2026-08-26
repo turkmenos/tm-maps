@@ -2,8 +2,6 @@
 
 WGS84 (EPSG:4326) GeoJSON boundaries and geographic data for Turkmenistan, with a Go API for easy access.
 
-**Version: v0.1**
-
 ## GeoJSON
 
 - `data/geojson/turkmenistan-welayatlar.geojson` — all welaýats in a single FeatureCollection
@@ -28,70 +26,205 @@ Each boundary feature contains:
 
 GeoJSON coordinates follow the standard `[longitude, latitude]` order.
 
-## Go
+## Go API
 
-Install:
+Install the package:
 
-```bash id="y9k7f3"
+```bash
 go get github.com/turkmenos/tm-maps
 ```
 
-Usage:
+Import it with:
 
-```go id="2eq9pd"
-package main
+```go
+import tmmaps "github.com/turkmenos/tm-maps"
+```
 
-import (
-	"fmt"
+All data is embedded in the Go package. Every function works offline and does
+not require external files, databases, or network services.
 
-	tmmaps "github.com/turkmenos/tm-maps"
-)
+Geographic lookup functions accept coordinates in `(latitude, longitude)`
+order. Raw GeoJSON follows the GeoJSON standard `[longitude, latitude]` order.
 
-func main() {
-	all, err := tmmaps.All()
-	if err != nil {
-		panic(err)
-	}
+### `Welaýat`
 
-	ahal, err := tmmaps.Welaýat("ahal")
-	if err != nil {
-		panic(err)
-	}
+```go
+func Welaýat(name string) ([]byte, error)
+```
 
-	fmt.Println(len(all))
-	fmt.Println(len(ahal))
+Returns the raw GeoJSON `FeatureCollection` for one welaýat. Supported names
+are `ahal`, `balkan`, `dasoguz`, `lebap`, and `mary`.
+
+```go
+data, err := tmmaps.Welaýat("ahal")
+if err != nil {
+	panic(err)
+}
+fmt.Println(string(data))
+```
+
+### `Regions`
+
+```go
+func Regions() ([]Region, error)
+```
+
+Returns all bundled country, welaýat, district, council, and settlement records
+as structured `Region` values.
+
+```go
+regions, err := tmmaps.Regions()
+if err != nil {
+	panic(err)
+}
+for _, region := range regions {
+	fmt.Println(region.Slug, region.NameTM, region.Type)
 }
 ```
 
-The geographic data is embedded in the Go package, so no external files or network requests are required at runtime.
+### `FindRegion`
 
-### Settlement search
+```go
+func FindRegion(slug string) (*Region, error)
+```
 
-`Search` finds settlements by their Turkmen, English, or Russian name. Matching
-is case-insensitive, supports Turkmen Unicode characters, and works entirely
-offline:
+Finds one record by its full slug.
+
+```go
+region, err := tmmaps.FindRegion("turkmenistan-mary")
+if err != nil {
+	panic(err)
+}
+fmt.Println(region.NameTM) // Mary
+```
+
+### `Children`
+
+```go
+func Children(parentSlug string) ([]Region, error)
+```
+
+Returns records whose direct parent matches `parentSlug`.
+
+```go
+children, err := tmmaps.Children("turkmenistan-dasoguz")
+if err != nil {
+	panic(err)
+}
+for _, child := range children {
+	fmt.Println(child.NameTM, child.Type)
+}
+```
+
+### `Search`
+
+```go
+func Search(query string) ([]Settlement, error)
+```
+
+Searches settlement names in Turkmen, English, and Russian. Matching is
+case-insensitive and NFC-normalized. A query with no matches returns an empty
+slice.
 
 ```go
 results, err := tmmaps.Search("Mary")
 if err != nil {
 	panic(err)
 }
-for _, settlement := range results {
-	fmt.Println(settlement.NameTM, settlement.Latitude, settlement.Longitude)
-	if settlement.Region != nil {
-		fmt.Println(settlement.Region.NameTM)
+for _, place := range results {
+	fmt.Println(place.NameTM, place.Type)
+	if place.Latitude != nil && place.Longitude != nil {
+		fmt.Println(*place.Latitude, *place.Longitude)
+	}
+	if place.Region != nil {
+		fmt.Println(place.Region.NameTM)
 	}
 }
 ```
 
-Results are `Settlement` values and include coordinates when available, plus
-the containing welaýat or independent-city information when assigned in the
-source dataset. A query with no matches returns an empty slice.
+Equivalent Unicode representations match the same settlement:
 
-### Nearest settlement
+```go
+results, _ := tmmaps.Search("Änew")
+results, _ = tmmaps.Search("äNEW")
+results, _ = tmmaps.Search("A\u0308new")
+```
 
-`Nearest` returns the closest settlement that has coordinates in the embedded
-dataset. The result includes the Haversine distance in kilometres:
+### `SearchWithOptions`
+
+```go
+func SearchWithOptions(query string, options SearchOptions) ([]Settlement, error)
+```
+
+Searches settlements with an optional result limit, settlement-type filter,
+and region filter. A zero limit means unlimited results. Supported types are
+`city`, `town`, `village`, and `independent_city`. `RegionSlug` uses a full slug.
+
+```go
+results, err := tmmaps.SearchWithOptions("a", tmmaps.SearchOptions{
+	Limit:      10,
+	Types:      []string{"city", "village"},
+	RegionSlug: "turkmenistan-mary",
+})
+if err != nil {
+	panic(err)
+}
+for _, place := range results {
+	fmt.Println(place.NameTM)
+}
+```
+
+A negative limit or unsupported type returns `ErrInvalidSearchOptions`.
+
+### `RegionAt`
+
+```go
+func RegionAt(latitude, longitude float64) (*Region, error)
+```
+
+Returns the welaýat that covers a coordinate. Polygon boundary points count as
+contained.
+
+```go
+region, err := tmmaps.RegionAt(37.960077, 58.326063)
+if err != nil {
+	panic(err)
+}
+fmt.Println(region.NameTM) // Ahal in the current boundary dataset
+```
+
+Invalid coordinates return `ErrInvalidCoordinate`. A coordinate outside the
+available boundaries returns `ErrRegionNotFound`.
+
+### `Contains`
+
+```go
+func Contains(slug string, latitude, longitude float64) (bool, error)
+```
+
+Reports whether a coordinate is covered by a specific welaýat. Use the short
+slug: `ahal`, `balkan`, `dasoguz`, `lebap`, or `mary`. Boundary points return
+`true`.
+
+```go
+inside, err := tmmaps.Contains("ahal", 37.960077, 58.326063)
+if err != nil {
+	panic(err)
+}
+fmt.Println(inside) // true
+```
+
+An unsupported slug returns `ErrUnknownRegion`. Invalid coordinates return
+`ErrInvalidCoordinate`.
+
+### `Nearest`
+
+```go
+func Nearest(latitude, longitude float64) (*NearestResult, error)
+```
+
+Returns the nearest settlement with known coordinates. `DistanceKM` contains
+the Haversine distance in kilometres.
 
 ```go
 place, err := tmmaps.Nearest(37.960077, 58.326063)
@@ -102,39 +235,64 @@ fmt.Println(place.NameTM)     // Aşgabat
 fmt.Println(place.DistanceKM) // approximately 0
 ```
 
-Invalid latitude or longitude values return `ErrInvalidCoordinate`.
+Invalid coordinates return `ErrInvalidCoordinate`. If no settlement coordinate
+is available, the function returns `ErrNoSettlementCoordinates`.
 
-### Coordinate lookup
-
-`RegionAt` returns the welaýat containing a latitude and longitude:
+### `WithinRadius`
 
 ```go
-region, err := tmmaps.RegionAt(37.960077, 58.326063)
+func WithinRadius(latitude, longitude, radiusKM float64) ([]NearbySettlement, error)
+```
+
+Returns settlements within `radiusKM`, ordered from nearest to farthest. Each
+result includes `DistanceKM`. No matches produce an empty slice.
+
+```go
+places, err := tmmaps.WithinRadius(37.960077, 58.326063, 25)
 if err != nil {
 	panic(err)
 }
-fmt.Println(region.NameTM) // Ahal
+for _, place := range places {
+	fmt.Println(place.NameTM, place.DistanceKM)
+}
 ```
 
-Invalid coordinates return `ErrInvalidCoordinate`. Coordinates outside the available
-boundaries return `ErrRegionNotFound`; both can be checked with `errors.Is`.
+Invalid coordinates return `ErrInvalidCoordinate`. A zero, negative, NaN, or
+infinite radius returns `ErrInvalidRadius`.
 
-The parameters use `(latitude, longitude)` order. GeoJSON coordinates are converted
-internally from their standard `[longitude, latitude]` order.
+### Result types
 
-`Contains` checks a coordinate against one specific welaýat. Points directly on
-the boundary are considered contained:
+- `Region` represents any administrative or settlement record.
+- `Settlement` represents a populated place and its optional coordinates and
+  containing region.
+- `SettlementRegion` describes the top-level welaýat or independent city for a
+  settlement.
+- `NearestResult` embeds `Settlement` and adds `DistanceKM`.
+- `NearbySettlement` embeds `Settlement` and adds `DistanceKM`.
+- `SearchOptions` provides `Limit`, `Types`, and `RegionSlug` filters.
+
+Coordinate fields are pointers because some source records do not have known
+coordinates. Check them for `nil` before dereferencing.
+
+### Errors
+
+Errors can be checked with `errors.Is`:
 
 ```go
-inside, err := tmmaps.Contains("ahal", 37.960077, 58.326063)
-if err != nil {
-	panic(err)
+place, err := tmmaps.Nearest(91, 0)
+if errors.Is(err, tmmaps.ErrInvalidCoordinate) {
+	fmt.Println("invalid latitude or longitude")
 }
-fmt.Println(inside) // true
 ```
 
-An unsupported welaýat slug returns `ErrUnknownRegion`. Like `RegionAt`, this
-operation uses only the boundary data embedded in the package.
+| Error | Meaning |
+| --- | --- |
+| `ErrInvalidCoordinate` | Latitude or longitude is outside its valid range, NaN, or infinite. |
+| `ErrUnknownRegion` | `Contains` received an unsupported welaýat slug. |
+| `ErrRegionNotFound` | A coordinate is outside the available boundary polygons. |
+| `ErrNoSettlementCoordinates` | No settlement with usable coordinates is available. |
+| `ErrInvalidRadius` | Radius is zero, negative, NaN, or infinite. |
+| `ErrInvalidSearchOptions` | Search limit or settlement type is invalid. |
 
 ## Data Coverage
 
@@ -142,7 +300,8 @@ The administrative boundaries are sourced from the geoBoundaries `TKM-ADM1-27578
 
 Aşgabat is not represented as a separate ADM1 polygon in the source dataset and appears within Ahal. Arkadag, established as a city in 2023, is also not represented separately because the geometry dataset predates its creation.
 
-For this reason, **v0.1 includes boundary geometries for the five welaýats:**
+For this reason, the current dataset includes boundary geometries for five
+welaýats:
 
 - Ahal
 - Balkan
