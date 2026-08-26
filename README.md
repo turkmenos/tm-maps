@@ -33,7 +33,7 @@ GeoJSON coordinates follow the standard `[longitude, latitude]` order.
 Install:
 
 ```bash id="y9k7f3"
-go get github.com/dayanchm/tm-maps
+go get github.com/turkmenos/tm-maps
 ```
 
 Usage:
@@ -44,7 +44,7 @@ package main
 import (
 	"fmt"
 
-	tmmaps "github.com/dayanchm/tm-maps"
+	tmmaps "github.com/turkmenos/tm-maps"
 )
 
 func main() {
@@ -64,6 +64,24 @@ func main() {
 ```
 
 The geographic data is embedded in the Go package, so no external files or network requests are required at runtime.
+
+### Coordinate lookup
+
+`RegionAt` returns the welaýat containing a latitude and longitude:
+
+```go
+region, err := tmmaps.RegionAt(37.960077, 58.326063)
+if err != nil {
+	panic(err)
+}
+fmt.Println(region.NameTM) // Ahal
+```
+
+Invalid coordinates return `ErrInvalidCoordinate`. Coordinates outside the available
+boundaries return `ErrRegionNotFound`; both can be checked with `errors.Is`.
+
+The parameters use `(latitude, longitude)` order. GeoJSON coordinates are converted
+internally from their standard `[longitude, latitude]` order.
 
 ## Data Coverage
 

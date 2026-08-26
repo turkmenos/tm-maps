@@ -1,3 +1,3 @@
-module github.com/dayanchm/tm-maps
+module github.com/turkmenos/tm-maps
 
 go 1.27.0
