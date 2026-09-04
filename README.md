@@ -54,6 +54,38 @@ not require external files, databases, or network services.
 Geographic lookup functions accept coordinates in `(latitude, longitude)`
 order. Raw GeoJSON follows the GeoJSON standard `[longitude, latitude]` order.
 
+## CLI
+
+The repository also includes a small command-line tool:
+
+```bash
+go run ./cmd/tm-maps help
+go run ./cmd/tm-maps search -limit 5 Mary
+go run ./cmd/tm-maps nearest 37.960077 58.326063
+go run ./cmd/tm-maps poi-search -category hotels dayanc
+go run ./cmd/tm-maps poi-nearby -category cafes 37.960077 58.326063 10
+```
+
+CLI output is formatted JSON, and it uses the same embedded offline dataset as
+the Go API.
+
+## Project Layout
+
+```text
+.
+├── cmd/tm-maps/        # CLI entrypoint
+├── internal/cli/       # CLI parsing and command handling
+├── data/               # Embedded GeoJSON and region datasets
+├── scripts/            # Data import and maintenance scripts
+├── *.go                # Public tm-maps Go package
+└── *_test.go           # Package and CLI tests
+```
+
+The root package exposes the reusable Go API. The command-line app stays under
+`cmd/tm-maps`, while CLI-only implementation details live in `internal/cli`.
+Bundled datasets stay under `data/` and are embedded by the package at build
+time.
+
 ### `Welaýat`
 
 ```go

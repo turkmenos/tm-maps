@@ -1,0 +1,3440 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-09-01T10:23:51Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/251116152",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.6564447,
+          37.6629424
+        ]
+      },
+      "id": "way/251116152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/261623761",
+        "addr:street": "Alagoz obasyna giden YOL",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "APTEKA",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5274648,
+          39.0253029
+        ]
+      },
+      "id": "way/261623761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/264396526",
+        "addr:city": "Turkmenabat",
+        "addr:street": "Gurbansoltan Eje köçesi",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5758747,
+          39.0965265
+        ]
+      },
+      "id": "way/264396526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/264859182",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "Dermanhana",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5875082,
+          39.0778588
+        ]
+      },
+      "id": "way/264859182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/305047173",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3490034,
+          39.5143794
+        ]
+      },
+      "id": "way/305047173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/316664926",
+        "addr:city": "Dänew",
+        "addr:street": "S.A. Nyýazow şaýoly",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.1889678,
+          39.2598861
+        ]
+      },
+      "id": "way/316664926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/327307645",
+        "addr:city": "Ashgabat",
+        "addr:street": "Bitarap Türkmenistan (2002) şaýoly",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "Dermanhana",
+        "opening_hours": "24/7",
+        "phone": "+99312950172",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3606679,
+          37.9225016
+        ]
+      },
+      "id": "way/327307645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/371889614",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "Pharmacy 24/7",
+        "name:en": "Pharmacy N18",
+        "name:ru": "Аптека N18",
+        "opening_hours": "24/7",
+        "phone": "+99312322892",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.1839456,
+          38.0593559
+        ]
+      },
+      "id": "way/371889614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398766001",
+        "addr:city": "Ashgabat",
+        "addr:street": "1nji Oguzhan gecelgesi",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4099794,
+          37.9116668
+        ]
+      },
+      "id": "way/398766001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/410844110",
+        "addr:city": "Ashgabat",
+        "addr:street": "Bekrewe (2072) kocesi",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3384413,
+          37.9497095
+        ]
+      },
+      "id": "way/410844110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/441936560",
+        "addr:city": "Daşoguz",
+        "addr:district": "Merkez 1",
+        "addr:housenumber": "21",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name:ru": "1-ое аптека",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.9703812,
+          41.8256255
+        ]
+      },
+      "id": "way/441936560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/442021171",
+        "addr:city": "Daşoguz",
+        "addr:street": "Saparmyrat Türkmenbaşy şaýoly",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "building:levels": "4",
+        "name": "Bir El Dermanhana",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.9625602,
+          41.8438126
+        ]
+      },
+      "id": "way/442021171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/442088502",
+        "addr:street": "Gurbansoltan Eje köçesi",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5758187,
+          39.0962923
+        ]
+      },
+      "id": "way/442088502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/487459979",
+        "addr:city": "Ashgabat",
+        "addr:street": "Görogly (2009) köçesi",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3633529,
+          37.9422883
+        ]
+      },
+      "id": "way/487459979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/488863962",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "Enem Dermanhana",
+        "opening_hours": "Mo-Sa 09:00-23:00; Su 09:00-20:00",
+        "phone": "+99312331333",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.152651,
+          38.0562794
+        ]
+      },
+      "id": "way/488863962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/490534621",
+        "addr:city": "Abadan",
+        "addr:street": "Ýeniş Seýilgähi",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "Dermanhana",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.1866647,
+          38.0553573
+        ]
+      },
+      "id": "way/490534621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/491879027",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "1",
+        "addr:street": "Gokdere (2080) kocesi",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "Dermanhana",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3316755,
+          37.9572368
+        ]
+      },
+      "id": "way/491879027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/518846259",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "Dermanhana",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3015298,
+          38.0043113
+        ]
+      },
+      "id": "way/518846259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/566348293",
+        "addr:city": "Ashgabat",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.2491477,
+          37.9787172
+        ]
+      },
+      "id": "way/566348293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593058000",
+        "addr:city": "Dashoguz",
+        "addr:housenumber": "127",
+        "addr:street": "Bitaraplyk köçesi",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana",
+        "shop": "chemist",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.923281,
+          41.8309041
+        ]
+      },
+      "id": "way/593058000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/679220447",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana 1",
+        "name:en": "Pharmacy1",
+        "name:ru": "Аптека 1",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.28927,
+          38.435267
+        ]
+      },
+      "id": "way/679220447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/680297991",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana",
+        "name:en": "City Pharmacy",
+        "name:ru": "Центральная Аптека",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.1630865,
+          42.3224599
+        ]
+      },
+      "id": "way/680297991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/681851596",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.1630501,
+          42.3224943
+        ]
+      },
+      "id": "way/681851596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1552019073",
+        "addr:city": "Änew",
+        "addr:street": "Gurban Soltan Eje (2043)",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana",
+        "name:ru": "Аптека",
+        "name:tk": "Dermanhana",
+        "opening_hours": "24/7",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4900578,
+          37.9112262
+        ]
+      },
+      "id": "way/1552019073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1858164523",
+        "addr:city": "Ashgabat",
+        "addr:street": "Atamyrat Nyýazow (2038) şaýoly",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana Nyyazow sayoly",
+        "name:ru": "Аптека #2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3941063,
+          37.9212515
+        ]
+      },
+      "id": "node/1858164523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1930365195",
+        "addr:city": "Туркменабат",
+        "addr:housename": "торговый комплекс \"Алтын Ай\"",
+        "addr:street": "ул.Мукаддес Рухнама",
+        "amenity": "pharmacy",
+        "name": "АПТЕКА",
+        "operator": "ИП \"Айдовлет\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.6021781,
+          39.0768707
+        ]
+      },
+      "id": "node/1930365195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2268122332",
+        "addr:city": "Tejen",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Merkez Dermanhana",
+        "name:en": "Central Pharmacy",
+        "name:ru": "Центральная аптека",
+        "name:tk": "Merkez Dermanhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5123558,
+          37.3842194
+        ]
+      },
+      "id": "node/2268122332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2498835747",
+        "amenity": "pharmacy",
+        "name": "Dermanhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.9090801,
+          38.6505324
+        ]
+      },
+      "id": "node/2498835747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3231663223",
+        "addr:place": "144 kw.",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Центральная Аптека"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3660211,
+          39.505755
+        ]
+      },
+      "id": "node/3231663223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3576693054",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "186",
+        "addr:street": "Atamyrat Nyýazow (2038) şaýoly",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana",
+        "name:ru": "Аптека Красный Крест",
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "phone": "+993-12-414-444, -41-45-45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3644603,
+          37.9362575
+        ]
+      },
+      "id": "node/3576693054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3728660529",
+        "amenity": "pharmacy",
+        "name": "Pharmacy on Abadancylyk",
+        "name:en": "Pharmacy Shypaly",
+        "name:ru": "Аптека Шыпалы",
+        "name:tk": "Dermanhana Аbadançylykta",
+        "phone": "+99312481404"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3521536,
+          37.9002389
+        ]
+      },
+      "id": "node/3728660529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3735582437",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "40",
+        "addr:street": "Nowaýy (2022) köçesi",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "1-nji Dermanhana",
+        "name:en": "Pharmacy No. 1",
+        "name:ru": "Аптека №1",
+        "name:tk": "1-nji Dermanhana",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3765324,
+          37.9451155
+        ]
+      },
+      "id": "node/3735582437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3735740658",
+        "addr:city": "Ashgabat",
+        "addr:street": "Nowaýy (2022) köçesi",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dermahana Nowayy kocesi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3761603,
+          37.9426744
+        ]
+      },
+      "id": "node/3735740658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3735913978",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "155",
+        "addr:street": "Magtymguly (2033) şaýoly",
+        "amenity": "pharmacy",
+        "name": "Dermanhana No. 6",
+        "name:en": "Pharmacy No. 6",
+        "name:ru": "Аптека №6",
+        "name:tk": "Dermanhana No. 6",
+        "opening_hours": "24/7",
+        "phone": "+99312360369"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3617376,
+          37.9557417
+        ]
+      },
+      "id": "node/3735913978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3736933371",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "76",
+        "addr:street": "Döwletmämed Azady (Engels, 2011) köçesi",
+        "amenity": "pharmacy",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana Akrap Holding",
+        "name:en": "Pharmacy Akrap Holding",
+        "name:ru": "Аптека Akrap Holding",
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "operator": "Akrap Holding",
+        "phone": "(+993-12) 93-22-88;932299"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3777461,
+          37.9428894
+        ]
+      },
+      "id": "node/3736933371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3737091751",
+        "addr:city": "Ashgabat",
+        "addr:district": "Parahat 4",
+        "addr:housenumber": "70",
+        "addr:street": "Nurmuhammet Andalyp (1958) köçesi",
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana",
+        "name:ru": "Аптека",
+        "name:tk": "Dermanhana",
+        "opening_hours": "8:00 - 23:00",
+        "phone": "(+993-12) 47-17-05;(+993-12) 47-17-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3892115,
+          37.9012057
+        ]
+      },
+      "id": "node/3737091751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3755380130",
+        "addr:city": "Ashgabat",
+        "addr:district": "Parahat 4",
+        "addr:street": "Yunus Emre (1951) kocesi",
+        "amenity": "pharmacy",
+        "name": "Tebip Dermanhana",
+        "name:en": "Tebip Pharmacy",
+        "name:ru": "Аптека Тебип",
+        "name:tk": "Tebip Dermanhana",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "phone": "(+993-12) 47-54-44, 47-54-46"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3957089,
+          37.9017177
+        ]
+      },
+      "id": "node/3755380130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3770191242",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "80",
+        "addr:street": "Atatürk (1972) köçesi",
+        "amenity": "pharmacy",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana",
+        "name:en": "Pharmacy at Berkarar",
+        "name:tk": "Dermanhana",
+        "phone": "(+993-12) 46-99-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3699958,
+          37.8935687
+        ]
+      },
+      "id": "node/3770191242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3904469349",
+        "addr:city": "Ashgabat",
+        "addr:street": "Görogly (2009) köçesi",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana",
+        "name:ru": "Аптека",
+        "name:tk": "Dermanhana",
+        "shop": "chemist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3973507,
+          37.9321308
+        ]
+      },
+      "id": "node/3904469349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3904515697",
+        "addr:city": "Ashgabat",
+        "addr:street": "Libkneht (2016) kocesi",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana No. 4",
+        "name:en": "Pharmacy No. 4",
+        "name:ru": "Аптека №4",
+        "name:tk": "Dermanhana No. 4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3796,
+          37.942862
+        ]
+      },
+      "id": "node/3904515697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3954813952",
+        "addr:city": "Ashgabat",
+        "addr:street": "Magtymguly (2033) sayoly",
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "drive_through": "no",
+        "email": "atig.hj.dermanhana@gmail.com",
+        "healthcare": "pharmacy",
+        "mobile": "+99365418418",
+        "name": "ATIG Dermanhana",
+        "opening_hours": "08:00-23:00",
+        "operator": "\"Asuda Türkmenistanyň Ili Garaşsyz\" HJ",
+        "phone": "+99312934848"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3770511,
+          37.9476644
+        ]
+      },
+      "id": "node/3954813952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974087173",
+        "addr:city": "Ashgabat",
+        "addr:street": "Gowsudow (2028) kocesi",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Teke Bazaar Pharmacy",
+        "name:tk": "Dermanhana Teke Bazary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3711828,
+          37.9429479
+        ]
+      },
+      "id": "node/3974087173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974091294",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "98",
+        "addr:street": "Magtymguly (2033) sayoly",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana No. 11",
+        "name:en": "Pharmacy No. 11",
+        "name:ru": "Аптека №11",
+        "name:tk": "11-nji Dermanhana",
+        "opening_hours": "08:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3794528,
+          37.9468833
+        ]
+      },
+      "id": "node/3974091294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3991886366",
+        "addr:city": "Ashgabat",
+        "addr:street": "Görogly (2009) köçesi",
+        "amenity": "pharmacy",
+        "name": "Dermanhana",
+        "name:en": "Pharmacy Boybodron",
+        "name:ru": "Аптека Бойбодрон",
+        "phone": "+99312970303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3353839,
+          37.9520018
+        ]
+      },
+      "id": "node/3991886366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4019843728",
+        "addr:city": "Ashgabat",
+        "addr:street": "Atamyrat Nyyazow (2038) sayoly",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana Ak Yol Bazary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.430687,
+          37.9187276
+        ]
+      },
+      "id": "node/4019843728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4022451232",
+        "addr:city": "Türkmenbashy",
+        "addr:street": "Şagadam köçesi",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana",
+        "name:ru": "Аптека"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.9979879,
+          40.0070953
+        ]
+      },
+      "id": "node/4022451232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4030147172",
+        "addr:city": "Ashgabat",
+        "addr:street": "10 Etrap",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana Oguzhanda",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4168661,
+          37.910409
+        ]
+      },
+      "id": "node/4030147172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4030816206",
+        "addr:city": "Ashgabat",
+        "addr:district": "6 Etrap",
+        "addr:street": "Baba Annanow (1916) kocesi",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana Baba Annanow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4232489,
+          37.9199465
+        ]
+      },
+      "id": "node/4030816206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4159016595",
+        "addr:city": "Turkmenabat",
+        "addr:street": "S.A. Nyýazow köçesi",
+        "amenity": "pharmacy",
+        "name": "Dermanhana",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5813411,
+          39.0347464
+        ]
+      },
+      "id": "node/4159016595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4293488199",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "108",
+        "addr:street": "Bitarap Türkmenistan (2002) şaýoly",
+        "amenity": "pharmacy",
+        "description": "Inside Çandybil Shopping Center, ground floor, near the Belarusian store",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana 30 Sahamça 1",
+        "name:tk": "Dermanhana 30 Sahamça 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3387679,
+          37.9046614
+        ]
+      },
+      "id": "node/4293488199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4299809285",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.8336046,
+          37.5924504
+        ]
+      },
+      "id": "node/4299809285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4299858666",
+        "addr:city": "Mary",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.8466691,
+          37.5964463
+        ]
+      },
+      "id": "node/4299858666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4316903653",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "110",
+        "addr:street": "Döwletmämed Azady (Engels, 2011) köçesi",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Derman Lukman Gurallary",
+        "name:tk": "Derman Lukman Gurallary",
+        "phone": "(+993-12) 97-21-24, 97-10-80"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3635158,
+          37.9450464
+        ]
+      },
+      "id": "node/4316903653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4370711829",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "28",
+        "addr:street": "Aga Berdiýew (2087) köçesi",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana",
+        "opening_hours": "Mo-Sa 08:00-23:00; Su 10:00-16:00",
+        "phone": "(+993-12) 75-52-02, 42-52-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.398244,
+          37.9473737
+        ]
+      },
+      "id": "node/4370711829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4381100589",
+        "addr:city": "Hazar",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana",
+        "name:ru": "Аптека 7/24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.131124,
+          39.4078993
+        ]
+      },
+      "id": "node/4381100589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4412613390",
+        "addr:city": "Ashgabat",
+        "addr:street": "Atamyrat Nyyazow (2038) sayoly",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name:ru": "AB Dermanhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4267694,
+          37.9181078
+        ]
+      },
+      "id": "node/4412613390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4441593489",
+        "addr:city": "Ashgabat",
+        "amenity": "pharmacy",
+        "name": "Dermanhana",
+        "name:ru": "Аптека",
+        "name:tk": "Dermanhana",
+        "shop": "chemist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4048492,
+          37.9167922
+        ]
+      },
+      "id": "node/4441593489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4449376925",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "36",
+        "addr:street": "Baba Japbarow (1993) kocesi",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana Girman",
+        "opening_hours": "Mo-Sa 08:30-20:20; Su closed",
+        "phone": "(+993-12) 26-79-87"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3917805,
+          37.9258855
+        ]
+      },
+      "id": "node/4449376925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4450049991",
+        "addr:city": "Ashgabat",
+        "addr:street": "Atamyrat Nyyazow (2038) sayoly",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4266343,
+          37.9181291
+        ]
+      },
+      "id": "node/4450049991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4602549589",
+        "addr:city": "Ashgabat",
+        "addr:street": "Nurmuhamed Andalyb (1958) kocesi",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3876669,
+          37.8962344
+        ]
+      },
+      "id": "node/4602549589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4681676889",
+        "addr:street": "пионерский",
+        "amenity": "pharmacy",
+        "name": "Центральная Аптека"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.1629942,
+          42.3224542
+        ]
+      },
+      "id": "node/4681676889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4713278589",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name:ru": "Аптека Dermanhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5664723,
+          39.0941291
+        ]
+      },
+      "id": "node/4713278589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4724332189",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4047755,
+          37.9452254
+        ]
+      },
+      "id": "node/4724332189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4741707655",
+        "addr:city": "Ashgabat",
+        "addr:street": "Nurmuhammet Andalyp (1958) köçesi",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana",
+        "opening_hours": "24/7",
+        "outdoor_seating": "no",
+        "phone": "+99312472914"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3890468,
+          37.8990004
+        ]
+      },
+      "id": "node/4741707655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4746924361",
+        "addr:city": "Mary",
+        "addr:street": "Magtymguly Köçesi",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana №8",
+        "name:ru": "Аптека №8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.8390885,
+          37.588351
+        ]
+      },
+      "id": "node/4746924361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4750655925",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Garry Lukman",
+        "name:ru": "GARRY Lukman",
+        "name:tk": "Garry Lukman",
+        "phone": "(+993-12) 26-03-08",
+        "shop": "chemist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3983591,
+          37.9140249
+        ]
+      },
+      "id": "node/4750655925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4754180248",
+        "amenity": "pharmacy",
+        "name": "Dermanhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.9429488,
+          42.0776156
+        ]
+      },
+      "id": "node/4754180248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4754435442",
+        "amenity": "pharmacy",
+        "name": "Dermanhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.9718294,
+          41.8327335
+        ]
+      },
+      "id": "node/4754435442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4757467622",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4232605,
+          37.9150202
+        ]
+      },
+      "id": "node/4757467622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4778019127",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "26",
+        "addr:postcode": "425648",
+        "addr:street": "Nurberdi Han (Lewitan) köçesi",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "phone": "260880"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4038725,
+          37.9248286
+        ]
+      },
+      "id": "node/4778019127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4778027727",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name:ru": "Аптека",
+        "phone": "286344"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4148769,
+          37.9254862
+        ]
+      },
+      "id": "node/4778027727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4793481921",
+        "addr:city": "Ashgabat",
+        "addr:street": "Görogly (2009) köçesi",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana",
+        "name:ru": "Аптека",
+        "name:tk": "Dermanhana",
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "shop": "chemist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3913229,
+          37.9353504
+        ]
+      },
+      "id": "node/4793481921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4793640525",
+        "amenity": "pharmacy",
+        "name:en": "Dermanhana",
+        "name:ru": "Аптека",
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "phone": "+99312975007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3332654,
+          37.9690907
+        ]
+      },
+      "id": "node/4793640525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4795093686",
+        "addr:city": "Ashgabat",
+        "addr:street": "Kamillik yoly (Sirotnaya Taslama)",
+        "amenity": "pharmacy",
+        "name": "Dermanhana No. 8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3309532,
+          37.9701889
+        ]
+      },
+      "id": "node/4795093686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4811596353",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "5",
+        "addr:neighbourhood": "Büzmeýin",
+        "addr:street": "Azatlyk köçesi",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana No. 21",
+        "phone": "33-09-41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.1549277,
+          38.0612359
+        ]
+      },
+      "id": "node/4811596353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4838434825",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "55/1",
+        "addr:street": "Atamyrat Nyýazow (2038) şaýoly",
+        "amenity": "pharmacy",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana Behiştli Dünýä",
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "phone": "(+993-12) 28-80-80;(+993-12) 28-80-88"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4190725,
+          37.9187156
+        ]
+      },
+      "id": "node/4838434825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4862609821",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name:en": "Nurana Bedew",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "phone": "492121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4078834,
+          37.9096106
+        ]
+      },
+      "id": "node/4862609821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4986424277",
+        "addr:city": "Ashgabat",
+        "addr:street": "Nurberdi Pomma (2008) kocesi",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana No. 19 Şahamça 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3748631,
+          37.9341798
+        ]
+      },
+      "id": "node/4986424277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5042894222",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name:en": "Gumry",
+        "name:ru": "Гумры"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3828087,
+          37.9127137
+        ]
+      },
+      "id": "node/5042894222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5059984024",
+        "addr:housenumber": "117",
+        "addr:street": "Gorogly (2009) kocesi",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name:en": "Pharmacy Ak Maya",
+        "name:ru": "Аптека Ак Майа",
+        "phone": "+99312368585"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3595387,
+          37.9437227
+        ]
+      },
+      "id": "node/5059984024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5064268721",
+        "addr:housenumber": "23 “K”",
+        "addr:street": "Oguz han",
+        "amenity": "pharmacy",
+        "name:en": "Pharmacy IE Kebelek",
+        "name:ru": "Аптека ХО Кебелек",
+        "opening_hours": "Mo-Su 09:00-23:00",
+        "phone": "+99312332300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.1521556,
+          38.0575997
+        ]
+      },
+      "id": "node/5064268721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5123755822",
+        "addr:city": "Ashgabat",
+        "addr:street": "10 ýyl Abadançylyk (1945) şaýoly",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana 10-njy Saglyk Öýi",
+        "name:ru": "Аптека при поликлинике №10",
+        "name:tk": "Dermanhana 10-njy Saglyk Öýi",
+        "phone": "(+993-65) 55-61-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3554332,
+          37.9001718
+        ]
+      },
+      "id": "node/5123755822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5158209124",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4048803,
+          38.0286242
+        ]
+      },
+      "id": "node/5158209124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5229401721",
+        "amenity": "pharmacy",
+        "name:en": "Dermanhana",
+        "phone": "227822"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.383668,
+          37.9182926
+        ]
+      },
+      "id": "node/5229401721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5229401722",
+        "addr:city": "Ashgabat",
+        "addr:street": "Atamyrat Nyýazow (2038) şaýoly",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "DMD Dermanhana",
+        "name:tk": "DMD Dermanhana",
+        "phone": "360805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3688765,
+          37.9513888
+        ]
+      },
+      "id": "node/5229401722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5253288621",
+        "addr:postcode": "716100",
+        "addr:street": "С.А.Ниязов",
+        "amenity": "pharmacy",
+        "name": "Dermanhana",
+        "name:en": "Pharmacy",
+        "name:ru": "Аптека",
+        "name:tk": "Dermanhana",
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "phone": "(+993422) 1-77-99;1-78-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5815844,
+          39.0560011
+        ]
+      },
+      "id": "node/5253288621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5272992821",
+        "amenity": "pharmacy",
+        "shop": "chemist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5778245,
+          39.0823045
+        ]
+      },
+      "id": "node/5272992821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5272992827",
+        "amenity": "pharmacy",
+        "name:en": "Dermanhana",
+        "name:ru": "Аптека"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5941144,
+          39.0816858
+        ]
+      },
+      "id": "node/5272992827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5321016921",
+        "addr:city": "Turkmenabat",
+        "addr:street": "S.A. Niýazow köçesi",
+        "amenity": "pharmacy",
+        "name": "Dermanhana",
+        "name:en": "Pharmacy",
+        "name:ru": "Аптека",
+        "name:tk": "Dermanhana",
+        "opening_hours": "Mo-Su 08:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5818625,
+          39.0403234
+        ]
+      },
+      "id": "node/5321016921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5375895025",
+        "addr:street": "Azady köçesi",
+        "amenity": "pharmacy",
+        "name:en": "Dermanhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.9841008,
+          40.0139089
+        ]
+      },
+      "id": "node/5375895025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5392683244",
+        "amenity": "pharmacy",
+        "name": "Dermanhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.9121732,
+          37.8377638
+        ]
+      },
+      "id": "node/5392683244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5425698341",
+        "addr:city": "Garagum geňeşligi",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.1027194,
+          37.8509832
+        ]
+      },
+      "id": "node/5425698341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5482507522",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3850103,
+          37.9041947
+        ]
+      },
+      "id": "node/5482507522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5503060031",
+        "addr:city": "Gökdepe",
+        "addr:street": "Türkmenbaşy şaýoly",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.9635298,
+          38.1558096
+        ]
+      },
+      "id": "node/5503060031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5550122921",
+        "addr:city": "Farap",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana",
+        "name:en": "Pharmacy",
+        "name:ru": "Аптека",
+        "name:tk": "Dermanhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.6082416,
+          39.1722119
+        ]
+      },
+      "id": "node/5550122921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5652138324",
+        "amenity": "pharmacy",
+        "name:en": "Dermanhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.9215276,
+          41.6487288
+        ]
+      },
+      "id": "node/5652138324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5652139221",
+        "amenity": "pharmacy",
+        "name": "Dermanhana",
+        "name:en": "Dermanhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.9446159,
+          41.8437781
+        ]
+      },
+      "id": "node/5652139221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5664328921",
+        "addr:city": "Kerki",
+        "addr:street": "S. Nyýazow köçesi",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana",
+        "name:ru": "Аптека 24/7",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.2097034,
+          37.8388407
+        ]
+      },
+      "id": "node/5664328921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5684711122",
+        "addr:street": "Alp Arslan köçesi",
+        "amenity": "pharmacy",
+        "name:en": "Dermanhana N 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.9650793,
+          41.8396809
+        ]
+      },
+      "id": "node/5684711122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5687893721",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3650404,
+          39.5147605
+        ]
+      },
+      "id": "node/5687893721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5687893921",
+        "amenity": "pharmacy",
+        "name:ru": "Аптека"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3588984,
+          39.5241047
+        ]
+      },
+      "id": "node/5687893921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5687894121",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3639072,
+          39.5182948
+        ]
+      },
+      "id": "node/5687894121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5705792621",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4048959,
+          37.9159281
+        ]
+      },
+      "id": "node/5705792621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5764061743",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "69",
+        "addr:street": "Parahat 5",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana Dükan №173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4036275,
+          37.9095836
+        ]
+      },
+      "id": "node/5764061743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5864950090",
+        "addr:street": "Beýik Saparmyrat Türkmenbaşy (1966) şaýoly",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3909366,
+          37.9371649
+        ]
+      },
+      "id": "node/5864950090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5906495585",
+        "addr:city": "Ashgabat",
+        "addr:street": "Ankara (1946) köçesi",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Sag-Aman",
+        "name:en": "Sag-Aman",
+        "name:ru": "Саг-Аман"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3918079,
+          37.8868074
+        ]
+      },
+      "id": "node/5906495585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5919144385",
+        "amenity": "pharmacy",
+        "name:ru": "Аптека"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.6258187,
+          41.8810393
+        ]
+      },
+      "id": "node/5919144385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6034941887",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name:en": "Dermanhana",
+        "name:ru": "Аптека"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3547359,
+          37.9576361
+        ]
+      },
+      "id": "node/6034941887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6139775785",
+        "amenity": "pharmacy",
+        "name:en": "Pharmacy Mirewe",
+        "name:ru": "Аптека Миреве",
+        "opening_hours": "Mo-Sa 09:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.2169387,
+          37.9689039
+        ]
+      },
+      "id": "node/6139775785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6263118285",
+        "amenity": "pharmacy",
+        "name:en": "Apteka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3810143,
+          37.9083597
+        ]
+      },
+      "id": "node/6263118285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6282471887",
+        "amenity": "pharmacy",
+        "name": "Bejeriş Palçyklaryny we Deniz Duzuny Gaplayan Karhana",
+        "name:en": "Therapeutic Mud and Sea Salt Packing Plant",
+        "name:ru": "Завод по фасовке лечебных глин и морской соли",
+        "phone": "+99322256801",
+        "website": "https://tkm-derman.gov.tm/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.2542473,
+          39.6392538
+        ]
+      },
+      "id": "node/6282471887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6282471993",
+        "amenity": "pharmacy",
+        "name:en": "Dermanhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.2540032,
+          39.6394459
+        ]
+      },
+      "id": "node/6282471993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6308106288",
+        "addr:city": "Boldumsaz",
+        "addr:street": "S.A. Nyýazow köçesi",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana",
+        "name:tk": "Dermanhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.6687632,
+          42.1276565
+        ]
+      },
+      "id": "node/6308106288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6322354785",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "30",
+        "addr:place": "Parahat 7/2",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Sapaly zaman HJ",
+        "name:tk": "Sapaly zaman HJ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4164182,
+          37.8999598
+        ]
+      },
+      "id": "node/6322354785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6346393090",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "178",
+        "addr:street": "Kemine(2035)köçesi,178",
+        "amenity": "pharmacy",
+        "name:en": "Pharmacy 10",
+        "name:ru": "Аптека 10",
+        "name:tk": "Dermanhana N 10",
+        "opening_hours": "Mo-Sa 08:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3697711,
+          37.9534622
+        ]
+      },
+      "id": "node/6346393090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6349764226",
+        "addr:housenumber": "65",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana No 24",
+        "name:en": "Pharmacy 24",
+        "name:ru": "Аптека 24",
+        "name:tk": "Dermanhana 24",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa-Su 08:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3861163,
+          37.9045388
+        ]
+      },
+      "id": "node/6349764226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6349772400",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3836457,
+          37.9093567
+        ]
+      },
+      "id": "node/6349772400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6372548281",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana",
+        "name:ru": "Аптека"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.1680491,
+          42.3279641
+        ]
+      },
+      "id": "node/6372548281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6384855685",
+        "amenity": "pharmacy",
+        "opening_hours": "Mo-Sa 08:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5809183,
+          39.0588736
+        ]
+      },
+      "id": "node/6384855685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6508595785",
+        "amenity": "pharmacy",
+        "name:en": "Dermanhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.429902,
+          38.4256066
+        ]
+      },
+      "id": "node/6508595785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6514748685",
+        "addr:city": "Ruhubelent",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.6966246,
+          41.7401728
+        ]
+      },
+      "id": "node/6514748685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6536948286",
+        "addr:city": "Ashgabat",
+        "addr:postcode": "844042",
+        "addr:street": "Sahat Myradow (Razin, 1922) köçesi",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Şypaly Çomuç Dermanhanasy",
+        "name:ar": "صيدلية شيبالي تشوموش",
+        "name:en": "Shypaly Chomuch Pharmacy",
+        "name:ru": "Аптека Шипалы Чомуч",
+        "name:tr": "Shipali Chomuch Eczanesi",
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "payment:cash": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "(+993-12) 28-80-04, (+993-12) 28-80-05, (+993-12) 28-52-00, (+993-12) 28-65-00, (+993-12) 28-80-30, (+993-12) 28-80-33",
+        "website": "https://lalezar-apteka.com.tm/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4139642,
+          37.9203839
+        ]
+      },
+      "id": "node/6536948286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6540184785",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name:ru": "Аптека"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.7419259,
+          38.9227097
+        ]
+      },
+      "id": "node/6540184785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6588105886",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dostluk Dunyasi Dermanhana",
+        "name:en": "Dermanhana",
+        "name:ru": "Аптека",
+        "phone": "+99312340131, +99312340812"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3549611,
+          37.9576328
+        ]
+      },
+      "id": "node/6588105886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6674222479",
+        "addr:city": "Turkmenbashy",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Merkez Dermanhanasy",
+        "name:en": "Central Pharmacy",
+        "name:ru": "Центральная аптека",
+        "name:tk": "Merkez Dermanhanasy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.9859714,
+          40.0009715
+        ]
+      },
+      "id": "node/6674222479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6696619677",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.9695624,
+          39.9997796
+        ]
+      },
+      "id": "node/6696619677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6698417166",
+        "addr:borough": "Awaza",
+        "addr:city": "Turkmenbashy",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana",
+        "name:ru": "Аптека"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8622256,
+          39.9804006
+        ]
+      },
+      "id": "node/6698417166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6742807185",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3508651,
+          39.5200471
+        ]
+      },
+      "id": "node/6742807185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6789625686",
+        "amenity": "pharmacy",
+        "name:en": "Derman",
+        "name:ru": "Дерман",
+        "name:tr": "Derman",
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "phone": "+993 12 95-70-03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3684908,
+          37.9170602
+        ]
+      },
+      "id": "node/6789625686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6873221188",
+        "amenity": "pharmacy",
+        "name:en": "Jera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4686616,
+          37.9098156
+        ]
+      },
+      "id": "node/6873221188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7041975985",
+        "amenity": "pharmacy",
+        "name:ru": "Техаптека"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3917944,
+          37.8868761
+        ]
+      },
+      "id": "node/7041975985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7111485688",
+        "addr:city": "Ashgabat",
+        "addr:street": "Ata Gowşudow (2028) köçesi",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana No. 30",
+        "name:en": "Dermanhana No. 30",
+        "name:ru": "Аптека N 30",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "phone": "+993-12-95-01-72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3714075,
+          37.9421664
+        ]
+      },
+      "id": "node/7111485688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7115039609",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "25",
+        "addr:street": "Gurbannazar Ezizow köçesi",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Saglyk Oty",
+        "name:en": "Saglyk oty",
+        "opening_hours": "Mo-Su 09:00-23:00",
+        "phone": "958499"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3585722,
+          37.9172478
+        ]
+      },
+      "id": "node/7115039609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7243107386",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "10",
+        "addr:place": "Gurtly Ýaşaýyş Toplumy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana Gumry",
+        "name:tk": "Dermanhana Gumry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3333376,
+          37.9814633
+        ]
+      },
+      "id": "node/7243107386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7314937385",
+        "addr:housenumber": "+99342266381",
+        "amenity": "pharmacy",
+        "name:ru": "Аптека",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5909673,
+          39.0749366
+        ]
+      },
+      "id": "node/7314937385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7315137185",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5776924,
+          39.082336
+        ]
+      },
+      "id": "node/7315137185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7429858885",
+        "amenity": "pharmacy",
+        "name": "Şypaly El",
+        "name:ru": "Şypaly el"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.949383,
+          41.8403458
+        ]
+      },
+      "id": "node/7429858885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7569761685",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name:en": "Dermanhana",
+        "name:ru": "Аптека",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "phone": "+993 12 455528"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3848096,
+          37.8967173
+        ]
+      },
+      "id": "node/7569761685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7630116785",
+        "amenity": "pharmacy",
+        "name:en": "Dermanlar",
+        "name:ru": "Дерманлар"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3469036,
+          37.900272
+        ]
+      },
+      "id": "node/7630116785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7744079885",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name:en": "Kumuš Nur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4073994,
+          37.9688427
+        ]
+      },
+      "id": "node/7744079885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7919278285",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name:en": "Dermanhana",
+        "name:ru": "Аптека",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3713265,
+          37.9414987
+        ]
+      },
+      "id": "node/7919278285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7985711288",
+        "amenity": "pharmacy",
+        "name": "Weterinar dermanhana",
+        "name:ru": "Ветиринарная аптека",
+        "opening_hours": "Mo-Su 09:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.1757276,
+          38.0580526
+        ]
+      },
+      "id": "node/7985711288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8041474485",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name:en": "Nazarly ada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3713043,
+          37.9415044
+        ]
+      },
+      "id": "node/8041474485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8099145218",
+        "addr:street": "S.A. Nyýazow köçesi",
+        "amenity": "pharmacy",
+        "name:en": "Gadam H.J. Dermanhana",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "phone": "+99344247799"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5816171,
+          39.0560034
+        ]
+      },
+      "id": "node/8099145218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8104026817",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name:en": "Медтехника"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3915289,
+          37.9421762
+        ]
+      },
+      "id": "node/8104026817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8119247117",
+        "amenity": "pharmacy",
+        "name:en": "Sag Aman",
+        "phone": "478303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3918097,
+          37.8867984
+        ]
+      },
+      "id": "node/8119247117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8334199117",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name:en": "SAGLYK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3892168,
+          37.9012131
+        ]
+      },
+      "id": "node/8334199117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8701516218",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "opening_hours": "Mo-Su 08:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.8343614,
+          37.5922947
+        ]
+      },
+      "id": "node/8701516218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8832561817",
+        "amenity": "pharmacy",
+        "name:en": "MTS aptek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.9689238,
+          41.8224064
+        ]
+      },
+      "id": "node/8832561817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8835639418",
+        "addr:city": "Akdepe",
+        "addr:street": "Ş.Taganow köçesi",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Merkez Dermanhanasy",
+        "name:en": "Central Pharmacy",
+        "name:ru": "Центральная аптека",
+        "name:tk": "Merkez Dermanhanasy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.3894203,
+          42.0495057
+        ]
+      },
+      "id": "node/8835639418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9040020217",
+        "addr:housenumber": "50",
+        "amenity": "pharmacy",
+        "name:ru": "Аптека 6",
+        "opening_hours": "24/7",
+        "phone": "+99312486399"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3663124,
+          37.9042602
+        ]
+      },
+      "id": "node/9040020217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9713012317",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4029931,
+          37.9291594
+        ]
+      },
+      "id": "node/9713012317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9950742117",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana Aptek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.0348057,
+          37.972048
+        ]
+      },
+      "id": "node/9950742117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9950742118",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.0363657,
+          37.9708055
+        ]
+      },
+      "id": "node/9950742118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10047300823",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Аптека",
+        "name:en": "Pharmacy",
+        "name:ru": "Аптека",
+        "name:tk": "Dermanhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.6035532,
+          39.1685279
+        ]
+      },
+      "id": "node/10047300823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10048878544",
+        "addr:city": "Farap",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana",
+        "name:en": "Pharmacy",
+        "name:ru": "Аптека",
+        "name:tk": "Dermanhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.6197687,
+          39.1758546
+        ]
+      },
+      "id": "node/10048878544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10142017917",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4993655,
+          37.9074862
+        ]
+      },
+      "id": "node/10142017917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10312588909",
+        "amenity": "pharmacy",
+        "name:en": "Dermanhana “Saglyk” DK",
+        "phone": "760830"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4186583,
+          37.9432863
+        ]
+      },
+      "id": "node/10312588909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10316818309",
+        "addr:housenumber": "49",
+        "addr:postcode": "744000",
+        "addr:street": "Köşi (Taslama, 2086) köçesi",
+        "amenity": "pharmacy",
+        "email": "makul.dermanhana@gmail.com",
+        "name:en": "“Makul” Dermanhana",
+        "name:ru": "Аптека «Макуль»",
+        "opening_hours": "Su-Sa 08:00-23:00",
+        "phone": "+99312976818"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3345971,
+          37.97053
+        ]
+      },
+      "id": "node/10316818309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10695627705",
+        "addr:street": "Gurban Soltan Eje (2043)",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana",
+        "name:en": "Pharmacy",
+        "name:ru": "Аптека"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3144497,
+          37.9924282
+        ]
+      },
+      "id": "node/10695627705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10716719705",
+        "amenity": "pharmacy",
+        "opening_hours": "Su-Fr 09:00-17:00",
+        "phone": "+99322295388"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.2367755,
+          39.6335061
+        ]
+      },
+      "id": "node/10716719705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10857497005",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.2121692,
+          37.8352197
+        ]
+      },
+      "id": "node/10857497005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10857497405",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.2142238,
+          37.8343171
+        ]
+      },
+      "id": "node/10857497405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10948403306",
+        "amenity": "pharmacy",
+        "name:tr": "Şehir eczanesi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.6164409,
+          37.3433152
+        ]
+      },
+      "id": "node/10948403306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10948404305",
+        "amenity": "pharmacy",
+        "name": "Şäheriň dermanhanasy",
+        "name:tr": "Şehir eczanesi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.6164472,
+          37.3429834
+        ]
+      },
+      "id": "node/10948404305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11619197769",
+        "addr:street": "Görogly köçe",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Аптека IDRIS",
+        "phone": "+99352244477"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.8678493,
+          37.5835155
+        ]
+      },
+      "id": "node/11619197769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11886858769",
+        "addr:city": "Turkmenbashy",
+        "addr:postcode": "745000",
+        "addr:street": "Magtymguly şaýoly",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana",
+        "name:en": "Pharmacy",
+        "name:ru": "Аптека",
+        "name:tk": "Dermanhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.9595357,
+          40.0039354
+        ]
+      },
+      "id": "node/11886858769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12351212301",
+        "amenity": "pharmacy",
+        "name:en": "Dermanhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.2470893,
+          37.2358535
+        ]
+      },
+      "id": "node/12351212301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13013493201",
+        "addr:street": "Arkaç köçesi",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.452749,
+          37.9138622
+        ]
+      },
+      "id": "node/13013493201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13048324701",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4259947,
+          37.9109411
+        ]
+      },
+      "id": "node/13048324701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13073255811",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "22",
+        "addr:street": "Atamyrat Nyýazow (2038) şaýoly",
+        "amenity": "pharmacy",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Dostlukly Zahmet",
+        "opening_hours": "Mo-Su 08:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4337759,
+          37.9180368
+        ]
+      },
+      "id": "node/13073255811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13276952301",
+        "addr:street": "Ata Gowşudow (2028) köçesi",
+        "amenity": "pharmacy",
+        "name": "Dermanhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3710401,
+          37.9425794
+        ]
+      },
+      "id": "node/13276952301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13357341401",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "63",
+        "addr:street": "Gurtly Ýaşaýyş Toplumy",
+        "amenity": "pharmacy",
+        "email": "shirinnabatsatynalysh@mail.ru",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana Shirin Nabat",
+        "name:en": "Pharmacy Shirin Nabat",
+        "name:ru": "Аптека Ширин Набат",
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "phone": "979595,979555"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3235449,
+          37.9738507
+        ]
+      },
+      "id": "node/13357341401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13525569601",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "17A",
+        "addr:street": "Nurberdi Han (Lewitan) köçesi",
+        "amenity": "pharmacy",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Dermanhana Nº2 Sahamça Nº1",
+        "name:en": "Pharmacy 2, Branch No. 1",
+        "name:tk": "Dermanhana Nº2 Sahamça Nº1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3974429,
+          37.9235937
+        ]
+      },
+      "id": "node/13525569601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13531381701",
+        "amenity": "pharmacy",
+        "name": "Pharmacy. Dermanhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3769439,
+          37.9483424
+        ]
+      },
+      "id": "node/13531381701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13729779601",
+        "amenity": "pharmacy",
+        "name": "Аптека 12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3816529,
+          37.9600267
+        ]
+      },
+      "id": "node/13729779601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13731837701",
+        "addr:housenumber": "38",
+        "addr:street": "Gurtly Ýaşaýyş Toplumy",
+        "amenity": "pharmacy",
+        "name": "Baýry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3249571,
+          37.9788613
+        ]
+      },
+      "id": "node/13731837701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14030422988",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4092699,
+          37.9882034
+        ]
+      },
+      "id": "node/14030422988"
+    }
+  ]
+}

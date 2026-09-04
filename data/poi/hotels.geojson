@@ -1,0 +1,3686 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-09-01T10:22:51Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/11903138",
+        "addr:city": "Turkmenbashy",
+        "building": "hotel",
+        "name": "Balkan",
+        "tourism": "hotel",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8282533,
+          39.9807055
+        ]
+      },
+      "id": "relation/11903138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/18282279",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "35",
+        "addr:street": "Arçabil (1939) şaýoly",
+        "building": "yes",
+        "name": "Ahal Hotel",
+        "phone": "+993 12 488 737",
+        "tourism": "hotel",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3607442,
+          37.8849465
+        ]
+      },
+      "id": "relation/18282279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/18282280",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "37",
+        "addr:street": "Arçabil (1939) şaýoly",
+        "building": "yes",
+        "name": "Dayanc Hotel",
+        "name:ru": "Даянч отель",
+        "name:simple": "Dayanch Hotel",
+        "name:tk": "Daýanç Hotel",
+        "note": "fax +993 12 488-148",
+        "phone": "+993 12 480-052, 480-053",
+        "tourism": "hotel",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3592016,
+          37.885931
+        ]
+      },
+      "id": "relation/18282280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/18282281",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "51",
+        "addr:street": "Arçabil (1939) şaýoly",
+        "building": "yes",
+        "name": "Parfiya",
+        "name:en": "Parfiýa",
+        "phone": "+993 12 488 191",
+        "tourism": "hotel",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3492967,
+          37.8907693
+        ]
+      },
+      "id": "relation/18282281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/18282282",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "55",
+        "addr:street": "Arçabil (1939) şaýoly",
+        "building": "yes",
+        "name": "Mizan",
+        "phone": "+993 12 488 641",
+        "tourism": "hotel",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3483701,
+          37.8913635
+        ]
+      },
+      "id": "relation/18282282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/18282283",
+        "addr:city": "Ashgabat",
+        "addr:street": "Arçabil (1939) şaýoly",
+        "building": "yes",
+        "name": "Ýedigen",
+        "name:en": "Yedigen Hotel",
+        "name:ru": "Отель \"Едиген\"",
+        "name:tk": "Ýedigen",
+        "phone": "+993 12 480 093",
+        "tourism": "hotel",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3439368,
+          37.8933806
+        ]
+      },
+      "id": "relation/18282283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/31449702",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "18B",
+        "addr:postcode": "744000",
+        "addr:street": "Galkynyş (1995) köçesi",
+        "building": "yes",
+        "name": "Diwan",
+        "name:en": "Nusay",
+        "name:ru": "Гостиница Диван",
+        "name:simple": "Divan Hotel",
+        "name:tk": "Diwan Myhmanhanasy",
+        "operator": "Presidential Administration",
+        "phone": "+993 12 221 025",
+        "stars": "3",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3866378,
+          37.9294442
+        ]
+      },
+      "id": "way/31449702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/91302865",
+        "addr:city": "Ashgabat",
+        "addr:floor": "2",
+        "addr:housenumber": "74",
+        "addr:street": "Magtymguly (2033) şaýoly",
+        "building": "yes",
+        "name": "Paýtagt Oteli",
+        "name:en": "Paytagt",
+        "name:ru": "Пайтагт отель",
+        "name:tk": "Paýtagt Oteli",
+        "old_name:ru": "Столица (Ашгабат)",
+        "phone": "+993 12 357 075",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3901501,
+          37.9419214
+        ]
+      },
+      "id": "way/91302865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/157540729",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "54",
+        "addr:postcode": "744036",
+        "addr:street": "Arçabil (1939) şaýoly",
+        "builder": "Bouygues",
+        "building": "yes",
+        "description": "A five-star hotel located in south of Asghabat, 10 km from the city centre. Often used by diplomats and officials visiting Turkmenistan, it has 150 rooms spread over 16 floors. He previously named the \"President Hotel\".",
+        "description:en": "A five-star hotel located in south of Asghabat, 10 km from the city centre. Often used by diplomats and officials visiting Turkmenistan, it has 150 rooms spread over 16 floors. He previously named the \"President Hotel\".",
+        "email": "archabilhotel.tm@outlook.com",
+        "fax": "(+993-12) 400-222",
+        "internet_access": "wlan",
+        "name": "Arçabil Oteli",
+        "name:en": "Archabil Hotel",
+        "name:fr": "Hôtel Archabil",
+        "name:ru": "Отель Арчабиль",
+        "name:tk": "Arçabil Oteli",
+        "old_name:en": "President Hotel",
+        "old_name:fr": "Hôtel Président",
+        "old_name:ru": "Президент",
+        "old_name:tk": "Prezident Myhmanhasy",
+        "old_ref": "Prezident",
+        "phone": "+993 12 400 000",
+        "smoking": "no",
+        "source": "http://en.wikipedia.org/wiki/President_Hotel_Ashgabat",
+        "start_date": "2004",
+        "tourism": "hotel",
+        "website": "https://archabilhotel.gov.tm/",
+        "wikidata": "Q3145639",
+        "wikipedia": "tk:Arçabil Oteli",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3456532,
+          37.8892672
+        ]
+      },
+      "id": "way/157540729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/169742903",
+        "addr:city": "Turkmenabat",
+        "addr:street": "Bitarap Türkmenistan şaýoly",
+        "building": "yes",
+        "name": "Türgenler üçin Myhmanhana",
+        "name:tk": "Türgenler üçin Myhmanhana",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5889995,
+          39.0517129
+        ]
+      },
+      "id": "way/169742903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/227238050",
+        "addr:city": "Balkanabat",
+        "addr:street": "Uzboý köçesi",
+        "building": "yes",
+        "internet_access": "wlan",
+        "name": "Nebitçi",
+        "name:en": "Nebitchi",
+        "name:ru": "Небитчи",
+        "name:tk": "Nebitçi",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3595514,
+          39.51463
+        ]
+      },
+      "id": "way/227238050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/229971739",
+        "addr:city": "Türkmenabat",
+        "addr:housename": "Jeyhun Hotel",
+        "addr:housenumber": "106",
+        "addr:street": "Bitarap Türkmenistan şaýoly",
+        "building": "yes",
+        "fax": "+993-422-2-10-41",
+        "internet_access": "no",
+        "name": "Jeýhun",
+        "name:ru": "Джейхун",
+        "name:tk": "Jeýhun",
+        "operator": "Lebapsiyahat",
+        "phone": "+993-422-1-77-48;1-77-51",
+        "stars": "3",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5890529,
+          39.0575692
+        ]
+      },
+      "id": "way/229971739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/235198279",
+        "addr:city": "Türkmenbashy",
+        "addr:street": "Şagadam köçesi",
+        "building": "yes",
+        "email": "turkmenbashyhotel@gmail.com",
+        "fax": "(+993-243) 2-18-18",
+        "internet_access": "yes",
+        "name": "Türkmenbaşy Oteli",
+        "name:en": "Hotel Turkmenbashy",
+        "name:ru": "гостиница Туркменбаши",
+        "name:tk": "Türkmenbaşy Oteli",
+        "phone": "(+993-243) 2-17-17",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.9776313,
+          39.9920437
+        ]
+      },
+      "id": "way/235198279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/238756606",
+        "addr:city": "Turkmenbashy",
+        "building": "hotel",
+        "building:levels": "12",
+        "name": "Watançy Hotel",
+        "name:tk": "Watançy Myhmanhanasy",
+        "source": "Bing",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8610977,
+          39.94918
+        ]
+      },
+      "id": "way/238756606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/241879566",
+        "building": "yes",
+        "name": "Altyn Zaman Hotel",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.2333907,
+          37.2387863
+        ]
+      },
+      "id": "way/241879566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/244038929",
+        "addr:city": "Dashoguz",
+        "addr:housenumber": "19/1",
+        "addr:street": "Saparmyrat Türkmenbaşy şaýoly",
+        "building": "yes",
+        "email": "dtourdash@online.tm",
+        "name": "Uzboý",
+        "name:en": "Uzboy",
+        "name:tk": "Uzboý",
+        "phone": "(+993-322) 2-60-16, 2-60-15",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.9327303,
+          41.8445112
+        ]
+      },
+      "id": "way/244038929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/250277693",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "50",
+        "addr:street": "Görogly (2009) köçesi",
+        "building": "yes",
+        "email": "grandht@onlaine.tm",
+        "internet_access": "wlan",
+        "name": "Grand Türkmen Oteli",
+        "name:en": "Grand Turkmen Hotel",
+        "name:tk": "Grand Türkmen Oteli",
+        "note": "111 rooms. Conference Rooms for 20, 40 and 70 persons.",
+        "operator": "04062019",
+        "phone": "(+993-12) 920-555",
+        "start_date": "1995",
+        "tourism": "hotel",
+        "wikidata": "Q5595193",
+        "wikipedia": "en:Grand Turkmen Hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3777462,
+          37.9400495
+        ]
+      },
+      "id": "way/250277693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/257735039",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "231",
+        "addr:street": "Bitarap Türkmenistan (2002) şaýoly",
+        "alt_name:en": "Sofitel Oguzkent Hotel",
+        "architect": "Ajmi Mimita",
+        "builder": "Bouygues",
+        "building": "yes",
+        "name": "Oguzkent Oteli",
+        "name:en": "Oguzkent Hotel",
+        "name:ru": "гостиница Огузкент",
+        "name:tk": "Oguzkent Oteli",
+        "owner": "Sofitel",
+        "phone": "+993 12 449 502",
+        "start_date": "2010-10",
+        "tourism": "hotel",
+        "wikidata": "Q46595",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3717118,
+          37.9291934
+        ]
+      },
+      "id": "way/257735039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/261604118",
+        "addr:city": "Turkmenabat",
+        "addr:street": "S.A. Niýazow köçesi",
+        "building": "yes",
+        "name": "Amyderýa Myhmanhanasy",
+        "name:ru": "Гостиница Амударья",
+        "name:tk": "Amyderýa Myhmanhanasy",
+        "toilets:wheelchair": "yes",
+        "tourism": "hotel",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5720969,
+          39.1034028
+        ]
+      },
+      "id": "way/261604118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/264855270",
+        "addr:city": "Turkmenabat",
+        "addr:street": "Magtymguly Pyragy köçesi",
+        "building": "yes",
+        "building:levels": "5",
+        "name": "Türkmenabat Myhmanhanasy",
+        "name:ru": "Гостиница Туркменабат",
+        "name:tk": "Türkmenabat Myhmanhanasy",
+        "operator": "Turkmenabat Myhmanhanasy",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5840058,
+          39.0977267
+        ]
+      },
+      "id": "way/264855270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/269144033",
+        "building": "yes",
+        "name": "Bahram Eke",
+        "name:ru": "ночлежка",
+        "operator": "бахрам эке",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.4845277,
+          37.9183741
+        ]
+      },
+      "id": "way/269144033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/293805344",
+        "addr:city": "Turkmenbashy",
+        "addr:district": "Awaza etraby",
+        "addr:neighbourhood": "Awaza",
+        "building": "yes",
+        "name": "Ýelken Ýaht Kluby",
+        "name:en": "Yelken Yacht Club",
+        "name:tk": "Ýelken Ýaht Kluby",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8782245,
+          39.9457886
+        ]
+      },
+      "id": "way/293805344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/294548593",
+        "addr:city": "Turkmenbasy",
+        "building": "hotel",
+        "building:levels": "11",
+        "name": "Hasyl Hotel",
+        "name:en": "Hotel Hasyl",
+        "name:ru": "Отель Хасыл",
+        "name:tk": "Hasyl Myhmanhanasy",
+        "phone": "(+993-243) 57-595",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8410387,
+          39.9585906
+        ]
+      },
+      "id": "way/294548593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/294549993",
+        "addr:city": "Turkmenbashy",
+        "building": "yes",
+        "building:levels": "12",
+        "layer": "1",
+        "name": "Hazyna Hotel",
+        "name:tk": "Hazyna Myhmanhanasy",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8723343,
+          39.948453
+        ]
+      },
+      "id": "way/294549993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/300168212",
+        "addr:city": "Türkmenbashy",
+        "addr:street": "Azady köçesi",
+        "building": "yes",
+        "description": "rack rates: double room 52 manat local, 104 manat foreigner; single room 32 manat local, 64 manat foreigner; luxe 104 manat local, 208 manat foreigner",
+        "name": "Hazar Myhmanhanasy",
+        "name:en": "Hazar Hotel",
+        "name:ru": "Хазар",
+        "name:tk": "Hazar Myhmanhanasy",
+        "phone": "(+993-243) 2-46-33",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.9950986,
+          40.0054354
+        ]
+      },
+      "id": "way/300168212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/312713536",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "589",
+        "addr:street": "Bitarap Türkmenistan (2002) şaýoly",
+        "alt_name:en": "Lachyn Hotel",
+        "building": "yes",
+        "fax": "(+99 312) 23 46 05",
+        "name": "Laçyn myhmanhanasy",
+        "name:en": "Lacyn Hotel",
+        "name:ru": "гостиница Лачын (Сокол)",
+        "name:tk": "Laçyn myhmanhanasy",
+        "operator": "Türkmenhowaýollary",
+        "phone": "+993 12 23 46 61/62/63",
+        "source": "http://www.turkmenairlines.org/index.php/tm/hyzmatlarymyz/lacyn-myhmanhanasy.html",
+        "tourism": "hotel",
+        "website": "http://www.turkmenairlines.org/index.php/tm/hyzmatlarymyz/lacyn-myhmanhanasy.html",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3984892,
+          37.9633364
+        ]
+      },
+      "id": "way/312713536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/326757039",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "47",
+        "addr:street": "Arçabil (1939) şaýoly",
+        "building": "yes",
+        "name": "Altyn Suw",
+        "name:tk": "Altyn Süw",
+        "phone": "+993 12 488 419",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3512982,
+          37.8896714
+        ]
+      },
+      "id": "way/326757039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/326757040",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "49",
+        "addr:street": "Arçabil (1939) şaýoly",
+        "building": "yes",
+        "name": "Jeyhun",
+        "phone": "+993 12 489 010",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3504367,
+          37.8901114
+        ]
+      },
+      "id": "way/326757040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/326757057",
+        "addr:city": "Ashgabat",
+        "addr:street": "Arçabil (1939) şaýoly",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "Mizan Conference Center",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3473809,
+          37.8917948
+        ]
+      },
+      "id": "way/326757057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/326757063",
+        "addr:city": "Ashgabat",
+        "addr:street": "Arçabil (1939) şaýoly",
+        "building": "yes",
+        "name": "Serdar Hotel",
+        "phone": "+993 12 312 076",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3458572,
+          37.8925432
+        ]
+      },
+      "id": "way/326757063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/327521112",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "17",
+        "addr:street": "Bagtyýarlyk (2002/5) köçesi",
+        "architect": "Bouygues Turkmen",
+        "architect:wikidata": "Q124750456",
+        "builder": "Bouygues",
+        "building": "yes",
+        "building:levels": "24",
+        "description:en": "In shape of a cut diamond of a teardrop this five star Hotel of 155 rooms is located at the foothills of Kopetdag, near the highway. This hotel, the tallest in Turkmenistan, opened its doors in 2013.",
+        "email": "yyldyzhotel@gmail.com",
+        "fax": "+993-12-921407",
+        "internet_access": "yes",
+        "name": "Ýyldyz Oteli",
+        "name:en": "Yyldyz Hotel",
+        "name:fa": "هتل ییلدیز",
+        "name:fr": "Hôtel Yyldyz",
+        "name:ru": "гостиница Йылдыз",
+        "name:tk": "Ýyldyz Oteli",
+        "phone": "+993 12 390 900",
+        "start_date": "2013-10-15",
+        "tourism": "hotel",
+        "website": "https://www.yyldyzhotel.com/",
+        "wikidata": "Q15120372",
+        "wikimedia_commons": "Category:Yyldyz Hotel",
+        "wikipedia": "tr:Yıldız Otel",
+        "year_of_construction": "2011..2013",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3332417,
+          37.9294446
+        ]
+      },
+      "id": "way/327521112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/338113706",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "141/1",
+        "addr:street": "Magtymguly (2033) şaýoly",
+        "building:part": "yes",
+        "name": "Ak Altyn Hotel",
+        "name:en": "Ak Altyn Hotel",
+        "name:ru": "гостиница \"Белое золото\" (Ак Алтын)",
+        "name:tk": "Ak Altyn Hotel",
+        "note": "fax +993 12 363 494 email akaltyn@online.tm, ak-altyn.travel@rambler.ru",
+        "phone": "+993 12 36-37-00",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3646701,
+          37.952345
+        ]
+      },
+      "id": "way/338113706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/338835000",
+        "addr:city": "Dashoguz",
+        "addr:housenumber": "35a",
+        "addr:postcode": "746300",
+        "addr:street": "Al Horezmi köçesi",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Hotel Erik",
+        "note": "e-mail erikcompany@mail.ru",
+        "phone": "+993 322 50110",
+        "smoking": "no",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.9750373,
+          41.8350401
+        ]
+      },
+      "id": "way/338835000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/344250852",
+        "addr:city": "Mary",
+        "addr:housenumber": "20",
+        "addr:street": "Gowşut Han köçesi",
+        "building": "yes",
+        "name": "Marguş Oteli",
+        "name:en": "Margush Hotel",
+        "name:ru": "гостиница Маргуш",
+        "name:tk": "Marguş Oteli",
+        "phone": "(+993-522) 6-03-86",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.8537817,
+          37.5861139
+        ]
+      },
+      "id": "way/344250852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/355423179",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "139/1",
+        "addr:street": "Gorogly (2009) kocesi",
+        "building": "yes",
+        "email": "siyakhatour@mail.ru",
+        "name": "Syyahat Hotel",
+        "name:en": "Syyahat",
+        "name:ru": "Турист",
+        "name:simple": "former Hotel Turist (Tourist)",
+        "name:tk": "Syýahat Oteli",
+        "note": "Syyahat is the Turkmen word for travel or voyage.",
+        "phone": "(+993-12) 344 508, (+993-12) 34-41-19",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3495255,
+          37.9486643
+        ]
+      },
+      "id": "way/355423179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/355443789",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "33",
+        "addr:street": "Arçabil (1939) şaýoly",
+        "building": "yes",
+        "name": "Azatlyk Hotel",
+        "name:simple": "Independent Hotel",
+        "note": "fax +993 12 488 702",
+        "phone": "+993 12 488 701",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3616494,
+          37.8845626
+        ]
+      },
+      "id": "way/355443789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/355443790",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "31",
+        "addr:street": "Arçabil (1939) şaýoly",
+        "building": "yes",
+        "name": "Aziya Hotel",
+        "name:simple": "Asia Hotel",
+        "name:tk": "Aziýa Hotel",
+        "phone": "+993 12 480 180",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3623837,
+          37.8841389
+        ]
+      },
+      "id": "way/355443790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/355443791",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "29",
+        "addr:street": "Arçabil (1939) şaýoly",
+        "building": "yes",
+        "name": "Nebitci Hotel",
+        "name:simple": "Nebitchi Hotel",
+        "name:tk": "Nebitçi Hotel",
+        "note": "fax number +993 12 489 361",
+        "phone": "+993 12 489 362",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3632953,
+          37.8836248
+        ]
+      },
+      "id": "way/355443791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/355443792",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "27",
+        "addr:street": "Arçabil (1939) şaýoly",
+        "building": "yes",
+        "name": "Wass Hotel",
+        "note": "fax +993 12 488 156",
+        "phone": "+993 12 489 442",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3641662,
+          37.8832254
+        ]
+      },
+      "id": "way/355443792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/355444013",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "25",
+        "addr:street": "Arçabil (1939) şaýoly",
+        "building": "yes",
+        "name": "Rahat Hotel",
+        "phone": "+993 12 489 348",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3649351,
+          37.8827603
+        ]
+      },
+      "id": "way/355444013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/355444021",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "23",
+        "addr:street": "Arçabil (1939) şaýoly",
+        "building": "hotel",
+        "name": "Arkaç Hotel",
+        "name:tk": "Arkaç Hotel",
+        "phone": "+993 12 489 351",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3659287,
+          37.8822639
+        ]
+      },
+      "id": "way/355444021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/355444022",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "19",
+        "addr:street": "Arçabil (1939) şaýoly",
+        "building": "yes",
+        "name": "Mirap Hotel",
+        "name:tk": "Mirap Oteli",
+        "phone": "+993 12 488 147",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.368875,
+          37.8811801
+        ]
+      },
+      "id": "way/355444022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/355855534",
+        "addr:city": "Ashgabat",
+        "addr:street": "Baba Jepbarow (1993) köçesi",
+        "building": "yes",
+        "name": "Hotel Nogina",
+        "name:ru": "гостиница по ул.Ногина",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3874481,
+          37.9264483
+        ]
+      },
+      "id": "way/355855534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/355856244",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "78",
+        "addr:street": "Döwletmämed Azady (Engels, 2011) köçesi",
+        "building": "yes",
+        "name": "Hotel Dayhan",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.375983,
+          37.9429001
+        ]
+      },
+      "id": "way/355856244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/355986517",
+        "addr:city": "Ashgabat",
+        "addr:street": "Beýik Saparmyrat Türkmenbaşy (1966) şaýoly",
+        "building": "yes",
+        "email": "olimpiya.hotel@gmail.com",
+        "name": "Olimpiya Hotel",
+        "name:tk": "Olimpiýa Myhmahanasy",
+        "note": "under construction, projected to be ready for Asian Indoor and Martial Arts Games in 2017",
+        "operator": "Polimex",
+        "phone": "+9312462918/08",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3780703,
+          37.896881
+        ]
+      },
+      "id": "way/355986517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/356036145",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "45",
+        "addr:street": "Mäti Kösäýew (Mopra, 2023) köçesi",
+        "building": "yes",
+        "name": "Bezirgen Hotel",
+        "name:en": "Bezirgen Hotel",
+        "name:ru": "Безирген",
+        "name:tk": "Bezirgen Hotel",
+        "phone": "(+993-12) 34-06-44",
+        "stars": "1",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3557008,
+          37.9516259
+        ]
+      },
+      "id": "way/356036145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/365959223",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "73",
+        "addr:street": "Atatürk (1972) köçesi",
+        "builder": "Polimeks",
+        "building": "yes",
+        "email": "sporthoteltm@gmail.com",
+        "internet_access": "yes",
+        "name": "Sport Myhmanhanasy",
+        "name:en": "Sport Hotel",
+        "name:ru": "Спорт Отель",
+        "name:tk": "Sport Myhmahanasy",
+        "number": "+99312461956",
+        "phone": "+993 12 461956;+993 12 462056;",
+        "rooms": "800",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3717942,
+          37.8976662
+        ]
+      },
+      "id": "way/365959223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/368911655",
+        "addr:city": "Turkmenbashy",
+        "alt_name": "Kuvvat",
+        "building": "hotel",
+        "contact:fax": "(+993-343) 7-03-42",
+        "internet_access:fee": "no",
+        "layer": "1",
+        "name": "Kuwwat Hotel",
+        "name:ru": "Кувват",
+        "name:tk": "Kuwwat Myhmanhanasy",
+        "operator": "Ministry of Energy of Turkmenistan",
+        "phone": "(+993-243) 7-03-35, -36, -37, -38, -39",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8676203,
+          39.9481702
+        ]
+      },
+      "id": "way/368911655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/368915297",
+        "addr:city": "Turkmenbashy",
+        "building": "hotel",
+        "name": "Kerwen Hotel",
+        "name:tk": "Kerwen Myhmanhanasy",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8699224,
+          39.9482809
+        ]
+      },
+      "id": "way/368915297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/369222919",
+        "addr:city": "Turkmenbashy",
+        "landuse": "commercial",
+        "layer": "-1",
+        "name": "Şapak Hotel Complex",
+        "name:tk": "Şapak Myahmanhanasy",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.834871,
+          39.9710777
+        ]
+      },
+      "id": "way/369222919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/369224057",
+        "addr:city": "Turkmenbashy",
+        "building": "hotel",
+        "name": "Ahal",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8269269,
+          39.9843618
+        ]
+      },
+      "id": "way/369224057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/369224059",
+        "addr:city": "Turkmenbashy",
+        "building": "hotel",
+        "name": "Mary",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.829932,
+          39.9849802
+        ]
+      },
+      "id": "way/369224059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/369224061",
+        "addr:city": "Turkmenbashy",
+        "building": "hotel",
+        "name": "Lebap",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8308487,
+          39.9813102
+        ]
+      },
+      "id": "way/369224061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/370281979",
+        "addr:city": "Turkmenbashy",
+        "building": "hotel",
+        "name": "Nebitchi Hotel",
+        "name:en": "Nebitchi",
+        "name:ru": "Небитчи",
+        "name:tk": "Nebitçi Myhmanhanasy",
+        "name:tr": "Nebitçi",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8549967,
+          39.9500285
+        ]
+      },
+      "id": "way/370281979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/370282102",
+        "addr:city": "Turkmenbashy",
+        "building": "hotel",
+        "building:levels": "11",
+        "layer": "1",
+        "name": "Serdar Hotel",
+        "name:en": "Serdar Hotel",
+        "name:fr": "L'hôtel Serdar",
+        "name:ru": "Отель Сердар",
+        "name:tk": "Serdar Myhmanhanasy",
+        "tourism": "hotel",
+        "wikidata": "Q4417192",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8528308,
+          39.9509033
+        ]
+      },
+      "id": "way/370282102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/370282217",
+        "addr:city": "Turkmenbashy",
+        "building": "hotel",
+        "name": "Awaza Hotel",
+        "name:tk": "Awaza Myhmanhanasy",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8520502,
+          39.9522931
+        ]
+      },
+      "id": "way/370282217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/370282444",
+        "addr:city": "Turkmenbashy",
+        "building": "hotel",
+        "layer": "1",
+        "name": "Arzuw Hotel",
+        "name:tk": "Arzuw Myhmanhanasy",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8492528,
+          39.9555958
+        ]
+      },
+      "id": "way/370282444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/370282472",
+        "addr:city": "Turkmenbashy",
+        "building": "hotel",
+        "name": "Bereket Hotel",
+        "name:tk": "Bereket Myhmanhanasy",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8362259,
+          39.9589613
+        ]
+      },
+      "id": "way/370282472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/370282554",
+        "addr:city": "Turkmenbashy",
+        "building": "hotel",
+        "layer": "1",
+        "name": "Berkarar Hotel",
+        "name:tk": "Berkarar Myhmanhanasy",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8334542,
+          39.9612314
+        ]
+      },
+      "id": "way/370282554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/370282741",
+        "addr:city": "Turkmenbashy",
+        "building": "hotel",
+        "name": "Deniz Hotel",
+        "name:tk": "Deňiz Myhmanhanasy",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8317809,
+          39.9635797
+        ]
+      },
+      "id": "way/370282741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/370283314",
+        "addr:city": "Turkmenbashy",
+        "building": "hotel",
+        "building:levels": "12",
+        "name": "Merdana Hotel",
+        "name:en": "Merdana",
+        "name:tk": "Merdana Myhmanhanasy",
+        "phone": "(+993-243) 5-76-51",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.831015,
+          39.9658266
+        ]
+      },
+      "id": "way/370283314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/370283316",
+        "addr:city": "Turkmenbashy",
+        "building": "hotel",
+        "name": "Tajir Hotel",
+        "name:tk": "Täjir Myhmanhanasy",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8287897,
+          39.9696739
+        ]
+      },
+      "id": "way/370283316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/370283320",
+        "addr:city": "Turkmenbashy",
+        "building": "hotel",
+        "layer": "1",
+        "name": "Bagtyyar Hotel",
+        "name:tk": "Bagtyýar Oteli",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8280559,
+          39.973371
+        ]
+      },
+      "id": "way/370283320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/370283543",
+        "addr:city": "Turkmenbashy",
+        "building": "hotel",
+        "name": "Samekan Oteli",
+        "name:tk": "Samekan Oteli",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8274545,
+          39.9748736
+        ]
+      },
+      "id": "way/370283543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/370283774",
+        "addr:city": "Turkmenbashy",
+        "building": "hotel",
+        "building:levels": "14",
+        "internet_access": "wlan",
+        "layer": "1",
+        "name": "Hazar Oteli",
+        "name:en": "Hazar Hotel",
+        "name:tk": "Hazar Oteli",
+        "phone": "(+993-243) 57-801",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.824533,
+          39.9805538
+        ]
+      },
+      "id": "way/370283774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/370319850",
+        "addr:city": "Turkmenbashy",
+        "addr:street": "Şagadam köçesi",
+        "building": "yes",
+        "email": "hotel.charlak@gmail.com",
+        "internet_access": "wlan",
+        "layer": "1",
+        "name": "Çarlak Oteli",
+        "name:en": "Charlak Hotel",
+        "name:ru": "Отель Чайка Туркменбаши",
+        "name:tk": "Çarlak Oteli",
+        "phone": "(+993243) 50974",
+        "tourism": "hotel",
+        "website": "http://charlak.tm.com",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.9913262,
+          39.9984347
+        ]
+      },
+      "id": "way/370319850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/371745683",
+        "building": "yes",
+        "name": "Rahatlyk",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.8343472,
+          37.5698413
+        ]
+      },
+      "id": "way/371745683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/375074548",
+        "addr:city": "Dashoguz",
+        "addr:street": "Saparmyrat Türkmenbaşy şaýoly",
+        "building": "yes",
+        "building:levels": "4",
+        "name": "Şabat Hotel",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.9683699,
+          41.8344106
+        ]
+      },
+      "id": "way/375074548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/379518569",
+        "addr:city": "Bagtyýarlyk şäherçesi",
+        "addr:street": "M37",
+        "building": "yes",
+        "email": "manager@ak-yol.biz",
+        "internet_access": "yes",
+        "name": "Ak Ýol",
+        "name:en": "Ak Yol Hotel",
+        "name:ru": "Ак Йол",
+        "name:tk": "Ak Ýol",
+        "phone": "(+993-564) 7-06-03;7-06-02;7-06-08;7-06-01",
+        "restaurant": "yes",
+        "tourism": "hotel",
+        "website": "http://www.ak-yol.biz",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.7920769,
+          38.086483
+        ]
+      },
+      "id": "way/379518569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/385715613",
+        "addr:city": "Mary",
+        "addr:housenumber": "23",
+        "addr:street": "Mollanepes köçesi",
+        "building": "yes",
+        "layer": "1",
+        "name": "Mary Oteli",
+        "name:en": "Hotel Mary",
+        "name:ru": "гостиница Мары",
+        "name:tk": "Mary Oteli",
+        "phone": "(+993-522) 6-79-51",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.8459936,
+          37.5909922
+        ]
+      },
+      "id": "way/385715613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/392715542",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "17",
+        "addr:street": "Arçabil (1939) şaýoly",
+        "building": "yes",
+        "name": "Senagatçy Oteli",
+        "name:en": "Senagatchy Hotel",
+        "name:ru": "Сенагатчи Отели",
+        "name:simple": "Chandybil Hotel",
+        "name:tk": "Çandybil Oteli",
+        "phone": "+993-12 488-147, 489-014, 517-147",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3701972,
+          37.8808657
+        ]
+      },
+      "id": "way/392715542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426293794",
+        "addr:city": "Dashoguz",
+        "addr:housenumber": "38/1",
+        "addr:street": "Saparmyrat Türkmenbaşy şaýoly",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "Diýarbekir",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.9619785,
+          41.8359246
+        ]
+      },
+      "id": "way/426293794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426532173",
+        "building": "yes",
+        "name": "Gurgenç Myhmanhanasy",
+        "name:en": "Gurgench Hotel",
+        "name:ru": "Гостиница Гургенч",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.1691232,
+          42.3167229
+        ]
+      },
+      "id": "way/426532173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/427004654",
+        "addr:city": "Şatlyk obasy",
+        "addr:street": "Türkmenistan köçesi",
+        "alt_name": "Laçyn oteli",
+        "alt_name:en": "Lachyn Hotel",
+        "building": "yes",
+        "name": "Laçyn Myhmanhanasy",
+        "name:en": "Lachyn Hotel",
+        "name:ru": "гостиница Лачын",
+        "name:tk": "Laçyn Myhmanhanasy",
+        "note": "Room rate 40 manat per person",
+        "operator": "Türkmen Howa Ýollary",
+        "phone": "(+993-322) 9-18-00;(+993-322) 1-52-73",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.8313834,
+          41.7669169
+        ]
+      },
+      "id": "way/427004654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/427007203",
+        "building": "yes",
+        "name": "Guest House for Pilgrims",
+        "tourism": "guest_house",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.8121704,
+          41.568818
+        ]
+      },
+      "id": "way/427007203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/432980969",
+        "addr:city": "Bäherden",
+        "building": "yes",
+        "name": "Yyly Suw Hotel",
+        "name:en": "Yyly Suw Hotel",
+        "name:tk": "Ýyly Suw Myhmanhanasy",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.3885595,
+          38.3529013
+        ]
+      },
+      "id": "way/432980969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/441747680",
+        "addr:city": "Turkmenbashy",
+        "building": "hotel",
+        "layer": "1",
+        "name": "Gami Hotel",
+        "name:tk": "Gämi Oteli",
+        "phone": "(+993-243) 5-79-85",
+        "stars": "5",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8253701,
+          39.9791249
+        ]
+      },
+      "id": "way/441747680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/441749133",
+        "addr:city": "Turkmenbashy",
+        "building": "hotel",
+        "name": "Seyrana Hotel",
+        "name:tk": "Seýrana Myhmanhanasy",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8283756,
+          39.9712367
+        ]
+      },
+      "id": "way/441749133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/453642003",
+        "addr:housenumber": "29",
+        "building": "yes",
+        "internet_access": "no",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.7952079,
+          42.3812152
+        ]
+      },
+      "id": "way/453642003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/488848945",
+        "building": "yes",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.0314432,
+          37.9833614
+        ]
+      },
+      "id": "way/488848945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/496344877",
+        "addr:city": "Turkmenbashy",
+        "building": "hotel",
+        "building:levels": "5",
+        "name": "Daşoguz",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8325176,
+          39.9783888
+        ]
+      },
+      "id": "way/496344877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/513326814",
+        "building": "yes",
+        "name": "Gypjak Myhmanhanasy",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.2627236,
+          38.0275713
+        ]
+      },
+      "id": "way/513326814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/531228860",
+        "addr:city": "Atamyrat",
+        "building": "yes",
+        "name": "Ogulbek Myhmanhanasy",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.1875177,
+          37.8462724
+        ]
+      },
+      "id": "way/531228860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/531260808",
+        "addr:city": "Koýten obasy",
+        "alt_name": "Kugitang",
+        "building": "yes",
+        "name": "Koytendag",
+        "name:ru": "Кугитанг",
+        "operator": "Lebap Syýahat",
+        "tourism": "hostel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.4844743,
+          37.9194255
+        ]
+      },
+      "id": "way/531260808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/531260810",
+        "building": "yes",
+        "tourism": "hostel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.48455,
+          37.9196613
+        ]
+      },
+      "id": "way/531260810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/531260812",
+        "building": "yes",
+        "tourism": "hostel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.4851248,
+          37.9194923
+        ]
+      },
+      "id": "way/531260812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/543125030",
+        "addr:city": "Balkanabat",
+        "addr:street": "Atamyrat Annanyýaz şaýoly",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "Sport",
+        "name:ru": "Спорт",
+        "official_name": "Balkanabat sport toplumynyñ myhmanhanasy",
+        "official_name:en": "Balkanabat Sports Complex Hotel",
+        "official_name:ru": "Гостиница Балканабатского спортивного комплекса",
+        "official_name:tk": "Balkanabat sport toplumynyñ myhmanhanasy",
+        "operator": "State Committee for Sports",
+        "phone": "(+993-222) 7-80-38",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.350793,
+          39.5392516
+        ]
+      },
+      "id": "way/543125030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/551276639",
+        "addr:city": "Berkarar",
+        "addr:street": "M37",
+        "building": "yes",
+        "name": "Myhmanhana",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.1403069,
+          37.6449278
+        ]
+      },
+      "id": "way/551276639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/558290322",
+        "building": "yes",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4967633,
+          37.9802046
+        ]
+      },
+      "id": "way/558290322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/561760107",
+        "addr:city": "Mary",
+        "addr:street": "Galkynyş Köçesi",
+        "name": "Rahat",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.8341673,
+          37.5808695
+        ]
+      },
+      "id": "node/561760107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/566232001",
+        "addr:city": "Tejen",
+        "addr:street": "H. Babaýew köçesi",
+        "building": "yes",
+        "internet_access": "no",
+        "name": "Tejen Myhmanhanasy",
+        "name:en": "Tejen Hotel",
+        "name:ru": "гостиница Теджен",
+        "name:tk": "Tejen Myhmanhanasy",
+        "operator": "Tejen City Government",
+        "stars": "0",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5039178,
+          37.3777784
+        ]
+      },
+      "id": "way/566232001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/572218074",
+        "addr:city": "Ashgabat",
+        "addr:neighbourhood": "Buzmeyin",
+        "building": "yes",
+        "name": "Myhmanhana",
+        "operator": "Ashgabat Sports Committee",
+        "phone": "(+993-12) 33-40-63",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.1950367,
+          38.0470026
+        ]
+      },
+      "id": "way/572218074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/574562330",
+        "addr:city": "Turkmenabat",
+        "addr:street": "Şabende köçesi",
+        "building": "yes",
+        "email": "yupekyoly.tm@gmail.com",
+        "name": "Yupek Yoly",
+        "name:en": "Yupek Yoly (Silk Road)",
+        "name:ru": "Шелковый путь",
+        "name:tk": "Ýüpek Ýoly",
+        "phone": "(+993-422) 3-12-27;(+993-63) 90-74-48;(+993-62) 09-08-98",
+        "smoking": "no",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5845851,
+          39.0893349
+        ]
+      },
+      "id": "way/574562330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/575012794",
+        "addr:city": "Turkmenabat",
+        "addr:postcode": "746100",
+        "addr:street": "Arkadag şaýoly",
+        "addr:street:name": "Arkadag şaýoly",
+        "building": "hotel",
+        "contact:email": "turkmenabat.airport@online.tm",
+        "email": "hotel.turkmenabat@online.tm",
+        "internet_access": "wlan",
+        "name": "Myhmanhana",
+        "operator": "Turkmenabat International Airport",
+        "phone": "(+993-422] 9-46-81",
+        "rooms": "53",
+        "tourism": "hotel",
+        "website": "https://tia.gov.tm/hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5733587,
+          38.937942
+        ]
+      },
+      "id": "way/575012794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/575520730",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "11",
+        "addr:street": "Bagtyýarlyk (2002/5) köçesi",
+        "alt_name:ru": "Гостиница Ашгабат",
+        "building": "yes",
+        "email": "ashgabat_hotel@mail.ru",
+        "email_1": "ashgabat.otel@yandex.ru",
+        "fax": "+99312951374",
+        "internet_access": "no",
+        "name": "Ashgabat Hotel",
+        "name:en": "Ashgabat Hotel",
+        "name:ru": "Гостиница Ашхабад",
+        "operator": "Presidential Administration",
+        "phone": "+99312951371;+99312951370",
+        "smoking": "yes",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3448674,
+          37.9288708
+        ]
+      },
+      "id": "way/575520730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/586988763",
+        "addr:city": "Serdar",
+        "addr:street": "M37",
+        "building": "yes",
+        "name": "Chynar Hotel",
+        "name:en": "Chynar Hotel",
+        "name:ru": "Чынар",
+        "name:tk": "Çynar Myhmanhanasy",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.2757553,
+          38.9956553
+        ]
+      },
+      "id": "way/586988763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/588285942",
+        "building": "yes",
+        "building:levels": "2",
+        "internet_access": "no",
+        "payment:cash": "yes",
+        "tourism": "hostel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9215639,
+          35.9538406
+        ]
+      },
+      "id": "way/588285942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/588857966",
+        "addr:city": "Mary",
+        "addr:housenumber": "2",
+        "addr:street": "Ataköpek Mergen köçesi",
+        "building": "yes",
+        "email": "manager@yrsgal.biz",
+        "name": "Yrsgal",
+        "name:ru": "Ырсгал",
+        "operator": "Union of Industrialists and Entrepreneurs",
+        "phone": "(+993-522) 7-21-31",
+        "tourism": "hotel",
+        "website": "http://www.yrsgal.biz",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.8350018,
+          37.5924875
+        ]
+      },
+      "id": "way/588857966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/591353308",
+        "addr:city": "Turkmenbashy",
+        "building": "yes",
+        "fax": "(+993-243) 5-78-18",
+        "name": "Tolkun Ýaht Kluby",
+        "name:en": "Tolkun Yacht Club",
+        "name:tk": "Tolkun Ýaht Kluby",
+        "phone": "(+993-243) 5-78-14",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8221578,
+          39.9844746
+        ]
+      },
+      "id": "way/591353308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593141109",
+        "addr:city": "Dashoguz",
+        "addr:housenumber": "100",
+        "addr:street": "Ruhnama köçesi",
+        "building": "hotel",
+        "building:levels": "7",
+        "height": "0",
+        "internet_access": "no",
+        "name": "Daşoguz",
+        "name:en": "Dashoguz",
+        "name:ru": "Дашогуз",
+        "name:tk": "Daşoguz",
+        "operator": "Turkmen State Tourism Committee",
+        "phone": "(+993-322) 2-13-40, 2-13-02",
+        "rooms": "187",
+        "smoking": "outside",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.9290953,
+          41.8246276
+        ]
+      },
+      "id": "way/593141109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/598146361",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "101",
+        "addr:street": "Kemine (2035) kocesi",
+        "building": "yes",
+        "name": "Kuwwat Myhmanhanasy",
+        "name:en": "Kuwwat Hotel",
+        "name:ru": "гостиница Кувват",
+        "name:tk": "Kuwwat Myhmanhanasy",
+        "note": "Room rate 22 Turkmen manat per person per night",
+        "opening_hours": "24/7",
+        "phone": "(+993-12) 93-66-51",
+        "stars": "1",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.380796,
+          37.9473294
+        ]
+      },
+      "id": "way/598146361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/610477766",
+        "addr:street": "Murgap köçesi",
+        "building": "yes",
+        "name": "Merw Hotel",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.8331733,
+          37.5752025
+        ]
+      },
+      "id": "way/610477766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/621887342",
+        "addr:city": "Etrek",
+        "addr:street": "Türkmenbaşy şaýoly",
+        "building": "yes",
+        "internet_access": "no",
+        "name": "Myhmanhana",
+        "note": "closed and locked when visited on 30 August 2018; may not be in operation",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.7594021,
+          37.6613201
+        ]
+      },
+      "id": "way/621887342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/667551498",
+        "addr:city": "Mary",
+        "addr:housenumber": "58",
+        "addr:street": "Mollanepes köçesi",
+        "building": "yes",
+        "building:levels": "7",
+        "fixme": "need contact information for this hotel",
+        "name": "Hotel Sanjar",
+        "name:en": "Hotel Sanjar",
+        "name:tk": "Sanjar Myhmanhanasy",
+        "source": "https://www.mapillary.com/app/?pKey=3d_9XeRhjRrDtMljuEqPIA&focus=photo&lat=37.59465470000261&lng=61.8348381000009&z=17",
+        "stars": "2",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.835944,
+          37.5953296
+        ]
+      },
+      "id": "way/667551498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/667827459",
+        "building": "yes",
+        "fixme": "need contact information for this hotel, and its name",
+        "name": "Myhmanhana",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.8349202,
+          37.5968111
+        ]
+      },
+      "id": "way/667827459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/669375169",
+        "addr:city": "Ashgabat",
+        "addr:street": "Hoja Ahmet Ýasawy (2105) köçesi",
+        "building": "hotel",
+        "description": "eight family suites, 17 standard rooms, 47 deluxe rooms, and 15 super deluxe rooms, totaling 87 rooms and 102 beds",
+        "image": "https://ronesans.com/wp-content/uploads/2018/11/01_0004_1-2.jpg",
+        "name": "Garagum",
+        "name:ru": "Каракум",
+        "official_name": "Garagum Köpugurly Işewürlik Merkezli Myhmanhana",
+        "opening_date": "19 November 2021",
+        "rooms": "87",
+        "source": "https://rus.azathabar.com/a/28967158.html;Neytral'nyy Turkmenistan, 10 January 2018, page 1",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3842985,
+          37.9645541
+        ]
+      },
+      "id": "way/669375169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/763292286",
+        "addr:city": "Hazar",
+        "addr:postcode": "745030",
+        "addr:street": "39 Квартал",
+        "building": "yes",
+        "building:levels": "4",
+        "name": "Гостиница",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.1312111,
+          39.4103245
+        ]
+      },
+      "id": "way/763292286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/763292287",
+        "addr:city": "Hazar",
+        "addr:postcode": "745030",
+        "addr:street": "39 Квартал",
+        "building": "yes",
+        "building:levels": "4",
+        "name": "Гостиница",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.1306123,
+          39.4100647
+        ]
+      },
+      "id": "way/763292287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/790238823",
+        "addr:city": "Ashgabat",
+        "addr:street": "Maslahat (1937) köçesi",
+        "builder": "Bouygues",
+        "building": "hotel",
+        "image": "https://business.com.tm/images/uploads/cache/posts/ef4982874fccfbb21932482a13c2136517844-700x5002.jpg",
+        "name": "Arkadag Oteli",
+        "name:en": "Arkadag Hotel",
+        "name:fr": "Hôtel Arkadag",
+        "name:tk": "Arkadag Oteli",
+        "source": "https://turkmenportal.com/blog/26752/arhitekturnyi-ansambl-ashhabada-v-skorom-vremeni-ukrasit-feshenebelnyi-otel-arkadag;survey;streetlevel imagery;https://www.youtube.com/watch?v=Q4Uoi1dHpOk",
+        "start_date": "2021-06-29",
+        "tourism": "hotel",
+        "wikidata": "Q130744975",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.289299,
+          37.8927216
+        ]
+      },
+      "id": "way/790238823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/827846667",
+        "addr:city": "Ashgabat",
+        "addr:street": "Beýik Saparmyrat Türkmenbaşy (1966) şaýoly",
+        "building": "yes",
+        "internet_access": "yes",
+        "name": "Diwan Myhmanhanasy",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3858701,
+          37.9271721
+        ]
+      },
+      "id": "way/827846667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1069356116",
+        "addr:city": "Arkadag",
+        "addr:street": "Magtymguly Pyragy köçesi",
+        "building": "hotel",
+        "name": "Märkaw Myhmanhana",
+        "name:en": "Markaw Hotel",
+        "name:ru": "Гостиница Мяркав",
+        "name:tk": "Märkaw Myhmanhana",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.0824665,
+          38.0653525
+        ]
+      },
+      "id": "way/1069356116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1329605912",
+        "tourism": "guest_house",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8981692,
+          39.91432
+        ]
+      },
+      "id": "way/1329605912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2970062125",
+        "name": "Myhmanhana",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1568842,
+          37.6128095
+        ]
+      },
+      "id": "node/2970062125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3128342847",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.221716,
+          40.021851
+        ]
+      },
+      "id": "node/3128342847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3129758728",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.0457349,
+          39.5827604
+        ]
+      },
+      "id": "node/3129758728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3518402478",
+        "addr:city": "Mary",
+        "addr:street": "M37",
+        "amenity": "restaurant",
+        "cuisine": "barbecue;kebab;fish",
+        "name": "Seljuk Kafe-Otel",
+        "outdoor_seating": "yes",
+        "phone": "(+993-65) 47-18-83, (+993-559) 6-22-60;(+993-69) 53-00-56",
+        "rooms": "4",
+        "tourism": "motel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.2306578,
+          37.2352594
+        ]
+      },
+      "id": "node/3518402478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3682773545",
+        "addr:city": "Turkmenabat",
+        "addr:street": "Magtymguly Pyragy köçesi",
+        "name": "Hotel Gurluşyk",
+        "name:tk": "Hotel Gurluşyk",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5837797,
+          39.0970405
+        ]
+      },
+      "id": "node/3682773545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4419213291",
+        "name:ru": "2 квартал",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.127753,
+          39.4070011
+        ]
+      },
+      "id": "node/4419213291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4472320390",
+        "addr:housenumber": "38",
+        "addr:street": "Murgap street",
+        "email": "elvin1286@mail.ru",
+        "internet_access": "wlan",
+        "name:en": "Сарухановы",
+        "name:ru": "Дом. 38 Кв. 19",
+        "operator": "Саруханов Сарвер",
+        "phone": "8 (522) 64418",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.8313948,
+          37.5769446
+        ]
+      },
+      "id": "node/4472320390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4712948491",
+        "addr:postcode": "746100",
+        "addr:street": "Soltan-Sanjar",
+        "name:ru": "общежитие для военных",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5547441,
+          39.1065114
+        ]
+      },
+      "id": "node/4712948491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4736511722",
+        "name:ru": "Общежитие",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5650857,
+          39.1015107
+        ]
+      },
+      "id": "node/4736511722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4786606039",
+        "addr:city": "Turkmenbashy",
+        "name:ru": "дом",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.978879,
+          40.0034972
+        ]
+      },
+      "id": "node/4786606039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4826402222",
+        "addr:city": "Ýangala daýhan birleşigi",
+        "name": "Rahat Kakalary",
+        "name:ru": "Рахат Какалары",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.9390514,
+          38.115806
+        ]
+      },
+      "id": "node/4826402222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4849847222",
+        "addr:housenumber": "45",
+        "addr:postcode": "746100",
+        "name:ru": "45 дом",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5865268,
+          39.0514908
+        ]
+      },
+      "id": "node/4849847222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4928119840",
+        "addr:city": "Koýtendag",
+        "name": "Hotel Josgun",
+        "name:ru": "гостиница Джошгун",
+        "name:tk": "Joşgun Myhmanhanasy",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.0351155,
+          37.5155957
+        ]
+      },
+      "id": "node/4928119840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5189940123",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "91/93#2",
+        "addr:postcode": "744000",
+        "addr:street": "Kemine (2035) köçesi",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3831449,
+          37.946165
+        ]
+      },
+      "id": "node/5189940123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5240763238",
+        "name:ru": "Чабаны",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.1657521,
+          40.0633783
+        ]
+      },
+      "id": "node/5240763238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5240763239",
+        "name:ru": "Чабаны 2",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.1882439,
+          40.053328
+        ]
+      },
+      "id": "node/5240763239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5401094721",
+        "name:en": "Heles",
+        "name:ru": "Хелес",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.4052246,
+          39.3451562
+        ]
+      },
+      "id": "node/5401094721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5645722775",
+        "addr:city": "Turkmenbashy",
+        "addr:street": "M37",
+        "email": "hotelbeyikyupekyoly@gmail.com",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "Beýik Ýüpek Ýoly Myhmanhanasy",
+        "name:en": "Beyik Yupek Yoly Hotel",
+        "name:tk": "Beýik Ýüpek Ýoly Myhmanhanasy",
+        "opening_hours": "24/7",
+        "operator": "Turkmenbashy International Seaport",
+        "phone": "(+993-243) 49-6-10",
+        "tourism": "hotel",
+        "website": "https://port.com.tm/beyikyupekyoly/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.0207128,
+          40.0045783
+        ]
+      },
+      "id": "node/5645722775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5831490886",
+        "name:ru": "Дом",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3576189,
+          39.5243193
+        ]
+      },
+      "id": "node/5831490886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5985217985",
+        "addr:city": "Baýramaly",
+        "addr:housenumber": "4",
+        "addr:street": "Garaşsyzlyk köçesi",
+        "email": "nazar2009tm@mail.ru",
+        "operator": "N.M",
+        "phone": "+99362999315",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.1591602,
+          37.6200697
+        ]
+      },
+      "id": "node/5985217985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5997735386",
+        "name": "Yurts",
+        "name:en": "Yurts",
+        "name:fr": "Yourtes",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4433035,
+          40.2500567
+        ]
+      },
+      "id": "node/5997735386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6030186585",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.1673112,
+          42.3218297
+        ]
+      },
+      "id": "node/6030186585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6095967285",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.9612092,
+          38.2823748
+        ]
+      },
+      "id": "node/6095967285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6141568385",
+        "addr:housenumber": "46-26",
+        "addr:postcode": "745110",
+        "name:en": "Gumdag 46-26",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.6044853,
+          39.2266227
+        ]
+      },
+      "id": "node/6141568385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6399985627",
+        "addr:city": "Magtymguly",
+        "name": "Myhmanhana",
+        "name:tk": "Myhmanhana",
+        "operator": "Nurysh and Durli Atamyradov",
+        "phone": "(+993-248) 4-02-45",
+        "rooms": "7",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.2965095,
+          38.4280863
+        ]
+      },
+      "id": "node/6399985627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6835152388",
+        "addr:housenumber": "104",
+        "addr:street": "Bugdaýly köçesi",
+        "name:en": "Hostel",
+        "operator": "Bek",
+        "phone": "+99362884424",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.9429072,
+          41.8308656
+        ]
+      },
+      "id": "node/6835152388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6901997785",
+        "name:en": "Guest house",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.9126939,
+          41.8860057
+        ]
+      },
+      "id": "node/6901997785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6911603285",
+        "name:en": "Hakberdi Ahun zyýarathanasy",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.8106096,
+          39.4652272
+        ]
+      },
+      "id": "node/6911603285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6938892385",
+        "name": "Gökdepe Damba",
+        "name:en": "Геокдепе Дамба",
+        "name:tk": "Gökdepe Damba",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.7917908,
+          38.2463488
+        ]
+      },
+      "id": "node/6938892385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6949337786",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.821788,
+          37.586306
+        ]
+      },
+      "id": "node/6949337786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6949344985",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.8306527,
+          37.5942207
+        ]
+      },
+      "id": "node/6949344985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7108416385",
+        "addr:housenumber": "46-26",
+        "addr:postcode": "745110",
+        "name:en": "Mammettaganow Arazdurdy Home",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.604505,
+          39.2266266
+        ]
+      },
+      "id": "node/7108416385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7130690781",
+        "name:ru": "Жайхун",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.4086689,
+          41.1904535
+        ]
+      },
+      "id": "node/7130690781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7214060986",
+        "name:en": "Хата",
+        "name:ru": "Хата",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3707676,
+          39.5027924
+        ]
+      },
+      "id": "node/7214060986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8192692917",
+        "addr:housenumber": "14",
+        "addr:postcode": "745100",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3665741,
+          39.5116611
+        ]
+      },
+      "id": "node/8192692917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8192693117",
+        "addr:housenumber": "14",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3665937,
+          39.5117744
+        ]
+      },
+      "id": "node/8192693117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8574863417",
+        "name:en": "Şemşadyñ mamasy",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.512203,
+          39.2545097
+        ]
+      },
+      "id": "node/8574863417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8620245817",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.9170467,
+          38.0952523
+        ]
+      },
+      "id": "node/8620245817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8634636920",
+        "addr:housenumber": "34",
+        "addr:street": "B Muhammedow köçesi",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.9440713,
+          38.1192039
+        ]
+      },
+      "id": "node/8634636920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8911807669",
+        "addr:city": "Ashgabat",
+        "addr:street": "Atamyrat Nyýazow (2038) şaýoly",
+        "name": "Awtobus Menzili Oteli",
+        "phone": "(+993-12) 44-35-49",
+        "rooms": "50",
+        "tourism": "hotel",
+        "website": "https://awtoulag.gov.tm/en/item/76"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4045658,
+          38.0282643
+        ]
+      },
+      "id": "node/8911807669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8946370117",
+        "name:en": "Miesser",
+        "name:ru": "Мияссер",
+        "opening_hours": "24/7",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.2012528,
+          37.8424937
+        ]
+      },
+      "id": "node/8946370117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9878282217",
+        "name:en": "Muhammed Appartment",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4075443,
+          37.9129706
+        ]
+      },
+      "id": "node/9878282217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10230316817",
+        "addr:city": "Ashgabat",
+        "addr:street": "Hudaýberdi hajy köçesi",
+        "email": "kay060894@gmail.com",
+        "name": "Gurtly ÝJT",
+        "phone": "+99361476446",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3137812,
+          37.9802019
+        ]
+      },
+      "id": "node/10230316817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10704107905",
+        "addr:housenumber": "7",
+        "addr:street": "2 Квартал",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.1270225,
+          39.4074017
+        ]
+      },
+      "id": "node/10704107905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10857498812",
+        "name:en": "hotel housing working",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.2120003,
+          37.8363229
+        ]
+      },
+      "id": "node/10857498812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10948632405",
+        "addr:housenumber": "3",
+        "addr:street": "dostluk",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.4662548,
+          36.6970704
+        ]
+      },
+      "id": "node/10948632405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11034894310",
+        "alt_name": "Myhmanhana Airport Hotel",
+        "level": "3",
+        "name": "Lachin Transit Hotel",
+        "tourism": "hotel",
+        "website": "https://ashgabatairport.gov.tm/en/transit-hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3675091,
+          37.9839346
+        ]
+      },
+      "id": "node/11034894310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11395521970",
+        "name:ru": "Wepa",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.2573675,
+          38.9853146
+        ]
+      },
+      "id": "node/11395521970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11420984370",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4137056,
+          38.0038494
+        ]
+      },
+      "id": "node/11420984370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11423766169",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5681806,
+          41.5422349
+        ]
+      },
+      "id": "node/11423766169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11748122574",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.832839,
+          37.5922726
+        ]
+      },
+      "id": "node/11748122574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11824218493",
+        "name": "original Turkmen Guesthouse",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4953657,
+          38.7777842
+        ]
+      },
+      "id": "node/11824218493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12505276401",
+        "name": "Umytjan",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.3798581,
+          39.0793257
+        ]
+      },
+      "id": "node/12505276401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12566425701",
+        "addr:housenumber": "39",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3372257,
+          39.5216519
+        ]
+      },
+      "id": "node/12566425701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13945747501",
+        "name": "Ангарский проезд",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4174055,
+          37.9431326
+        ]
+      },
+      "id": "node/13945747501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13990435901",
+        "name": "49 Dom",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.18938,
+          38.0595538
+        ]
+      },
+      "id": "node/13990435901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13990436001",
+        "name": "50 Dom",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.1887738,
+          38.0598403
+        ]
+      },
+      "id": "node/13990436001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13990436201",
+        "name": "50  Dom",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4032545,
+          37.8857877
+        ]
+      },
+      "id": "node/13990436201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14099218701",
+        "name": "M.garlyýew koçe",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3590398,
+          37.9490942
+        ]
+      },
+      "id": "node/14099218701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14138732801",
+        "name": "Turkmensähra köçesi",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3127166,
+          37.9576782
+        ]
+      },
+      "id": "node/14138732801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14138781801",
+        "name": "Gýyby köçe jay-1",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4044391,
+          37.9373215
+        ]
+      },
+      "id": "node/14138781801"
+    }
+  ]
+}

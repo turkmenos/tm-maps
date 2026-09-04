@@ -1,0 +1,7255 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-09-01T10:14:48Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/227145085",
+        "addr:city": "Turkmenabat",
+        "addr:street": "Alty Garlyýew köçesi",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Ak Altyn",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5842279,
+          39.0561954
+        ]
+      },
+      "id": "way/227145085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/227634497",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "МУРАТ",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.393503,
+          39.0819186
+        ]
+      },
+      "id": "way/227634497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/228839373",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "датлый",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5873368,
+          39.0330787
+        ]
+      },
+      "id": "way/228839373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/247124248",
+        "amenity": "cafe",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.6663289,
+          37.6624415
+        ]
+      },
+      "id": "way/247124248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/252399101",
+        "amenity": "cafe",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.6598113,
+          37.6631818
+        ]
+      },
+      "id": "way/252399101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/253157766",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Naharhana",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.2124235,
+          36.529024
+        ]
+      },
+      "id": "way/253157766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262246951",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "ice_cream",
+        "internet_access": "no",
+        "name": "\"Maksatly\" kafesi",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.584379,
+          39.0420594
+        ]
+      },
+      "id": "way/262246951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262306734",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "regional",
+        "internet_access": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5729545,
+          39.0964233
+        ]
+      },
+      "id": "way/262306734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/264855274",
+        "addr:city": "Turkmenabat",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "regional",
+        "internet_access": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5841579,
+          39.0974241
+        ]
+      },
+      "id": "way/264855274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/264857166",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "pizza",
+        "internet_access": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5669256,
+          39.028802
+        ]
+      },
+      "id": "way/264857166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/265528751",
+        "addr:city": "Turkmenabat",
+        "addr:street": "NO 520",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "no",
+        "name": "ZATON",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5893985,
+          39.1083035
+        ]
+      },
+      "id": "way/265528751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/265674602",
+        "addr:city": "Turkmenabat",
+        "addr:street": "Bahar",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "regional",
+        "internet_access": "no",
+        "name": "Cafe Bahar",
+        "smoking": "separated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5843013,
+          39.044124
+        ]
+      },
+      "id": "way/265674602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/301054512",
+        "addr:city": "Ashgabat",
+        "addr:street": "Görogly (2009) köçesi",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Nusay Gala",
+        "name:ru": "Нусай Гала",
+        "name:tk": "Nusaý Gala",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3504109,
+          37.9471236
+        ]
+      },
+      "id": "way/301054512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/308729486",
+        "addr:city": "Ashgabat",
+        "addr:street": "Zelili köçesi",
+        "amenity": "cafe",
+        "building": "yes",
+        "internet_access": "wlan",
+        "name": "Dag Lezzeti",
+        "name:en": "Dag Lezzeti",
+        "name:ru": "Dag Lezzeti",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4002323,
+          37.9349809
+        ]
+      },
+      "id": "way/308729486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/358509104",
+        "addr:street": "M37",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "regional",
+        "name": "Naharhana",
+        "name:en": "Gala Kafe",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.9053478,
+          38.17365
+        ]
+      },
+      "id": "way/358509104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/388391137",
+        "addr:city": "Ashgabat",
+        "addr:street": "Berdi Kerbabaýew (2020) köçesi",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "fine_dining",
+        "delivery": "yes",
+        "internet_access": "yes",
+        "internet_access:fee": "yes",
+        "name": "May Kafe",
+        "name:en": "Gulshen Cafe",
+        "name:ru": "Кафе Гюлшен",
+        "name:tk": "Gülşen Kafe",
+        "note": "In Ylham Park on the corner of Azady and Kerbabayew",
+        "opening_hours": "Mo-Su 09:00-23:00",
+        "phone": "(+993-60) 12-45-25",
+        "source": "ground truth 23 July 2016, picked up a flyer from the cafe",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3776269,
+          37.9447691
+        ]
+      },
+      "id": "way/388391137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/391533086",
+        "addr:city": "Bereket",
+        "addr:street": "H. Babaýew köçesi",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "kebab",
+        "name": "Tolkun",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5258893,
+          39.2444938
+        ]
+      },
+      "id": "way/391533086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/392238261",
+        "addr:city": "Ashgabat",
+        "addr:street": "Nowaýy (2022) köçesi",
+        "amenity": "cafe",
+        "building": "yes",
+        "building:levels": "2",
+        "cuisine": "burger;pizza;coffee_shop",
+        "description": "Espresso bar with menu of burgers, pizzas, Turkish pide. Breakfast is served. Located in the Joşgun building in the park bounded by Nowayy, Mati Kosayew, Berdi Kerbabayew, and Azady. Staff speak English.",
+        "name": "Sha Coffee (Joşgun)",
+        "name:en": "Sha Cafe",
+        "name:ru": "Ша кофе",
+        "name:tk": "Şa kofe (Joşgun)",
+        "outdoor_seating": "no",
+        "phone": "(+993-12) 10-50-20",
+        "smoking": "no",
+        "website": "http://www.shacoffee.com",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3768707,
+          37.9438126
+        ]
+      },
+      "id": "way/392238261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398652052",
+        "addr:city": "Балканабат",
+        "amenity": "cafe",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3626574,
+          39.5196634
+        ]
+      },
+      "id": "way/398652052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/410130591",
+        "addr:city": "Ashgabat",
+        "addr:district": "Parahat 3",
+        "amenity": "cafe",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3930086,
+          37.9060517
+        ]
+      },
+      "id": "way/410130591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/425317761",
+        "addr:city": "Ashgabat",
+        "addr:street": "Atamyrat Nyyazow (2038) sayoly",
+        "amenity": "cafe",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Sumbar",
+        "name:ru": "Сумбар",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4056214,
+          37.9190867
+        ]
+      },
+      "id": "way/425317761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/427419735",
+        "addr:city": "Ashgabat",
+        "addr:district": "Howdan B",
+        "addr:street": "Howdan B",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Kafe Korpe",
+        "name:tk": "Kafe Körpe",
+        "opening_hours": "10:00-23:00",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4028348,
+          37.9116419
+        ]
+      },
+      "id": "way/427419735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/427421401",
+        "addr:city": "Ashgabat",
+        "addr:district": "Howdan B",
+        "addr:street": "Howdan B",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "regional",
+        "name": "Kafe Gurt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4018023,
+          37.9135791
+        ]
+      },
+      "id": "way/427421401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/430185929",
+        "addr:city": "Ashgabat",
+        "addr:district": "Howdan B",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Alem Jahan Kafe",
+        "name:tk": "Älem Jahan Kafe",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4035121,
+          37.9139374
+        ]
+      },
+      "id": "way/430185929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/452686576",
+        "addr:street": "M37",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "regional",
+        "name": "Kafe",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.7459616,
+          37.8303296
+        ]
+      },
+      "id": "way/452686576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/452929235",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "fitçi haus",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.6028353,
+          39.0737893
+        ]
+      },
+      "id": "way/452929235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/457378918",
+        "amenity": "cafe",
+        "building": "yes",
+        "internet_access": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.411894,
+          37.9142857
+        ]
+      },
+      "id": "way/457378918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/457378919",
+        "addr:street": "Atamyrat Nyýazow 4 geçelgesi",
+        "amenity": "cafe",
+        "cuisine": "tea;chicken;cake;asian;kebab;international;coffee_shop;grill;local",
+        "diet:vegetarian": "yes",
+        "name:en": "Aykamzyat",
+        "name:ru": "Айкамзят",
+        "opening_hours": "Mo-Su 17:00-23:00",
+        "phone": "+993 12 42 65 56",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.409472,
+          37.9144962
+        ]
+      },
+      "id": "way/457378919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/494839549",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "20/2",
+        "addr:street": "Aba Annaýew (2060) köçesi",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Medet",
+        "name:ru": "Медет",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3550555,
+          37.9529421
+        ]
+      },
+      "id": "way/494839549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/496249872",
+        "addr:city": "Türkmenbaşy",
+        "addr:housenumber": "49",
+        "addr:street": "Magtymguly şaýoly",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "regional;fish;turkish",
+        "name": "Zemin",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "smoking": "separated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.9826953,
+          40.0021179
+        ]
+      },
+      "id": "way/496249872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/517621250",
+        "addr:street": "M37",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Naharhana",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.9336303,
+          39.1052495
+        ]
+      },
+      "id": "way/517621250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/524468875",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Ak Ýol",
+        "name:ru": "кафе Ак ёл",
+        "name:tk": "Ak Ýol",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.9749287,
+          41.8491494
+        ]
+      },
+      "id": "way/524468875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/524470789",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Dawut",
+        "name:ru": "кафе Давут",
+        "name:tk": "Dawut",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.9880105,
+          41.8416383
+        ]
+      },
+      "id": "way/524470789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/566232837",
+        "addr:city": "Tejen",
+        "addr:street": "H. Babaýew köçesi",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Güneş Kafe",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5042287,
+          37.3778839
+        ]
+      },
+      "id": "way/566232837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/570661578",
+        "addr:city": "Ashgabat",
+        "addr:neighbourhood": "Bagyr",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Bagyr Restorany Kafe Bar",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.221542,
+          37.961428
+        ]
+      },
+      "id": "way/570661578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/570670813",
+        "addr:city": "Ashgabat",
+        "addr:neighbourhood": "Yanbash",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "teahouse",
+        "name": "Ýanbaş Çaýhana",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.2309432,
+          37.9348641
+        ]
+      },
+      "id": "way/570670813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/586975800",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Cafeteria",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.1743733,
+          39.6129255
+        ]
+      },
+      "id": "way/586975800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/589019671",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "regional",
+        "name": "Çaýhana",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.9364492,
+          37.6113481
+        ]
+      },
+      "id": "way/589019671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/599936857",
+        "amenity": "cafe",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.2936396,
+          38.7214068
+        ]
+      },
+      "id": "way/599936857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/621971025",
+        "addr:city": "Ekerem",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "regional",
+        "name": "Gülhana Çayhana",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.8626877,
+          38.0548831
+        ]
+      },
+      "id": "way/621971025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/622165342",
+        "addr:city": "Serdar",
+        "addr:street": "M37",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "regional",
+        "name": "Esret Kafesi",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.2513103,
+          39.0061721
+        ]
+      },
+      "id": "way/622165342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/622216508",
+        "addr:city": "Etrek",
+        "addr:street": "P-15",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Ak Ýol",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.7568912,
+          37.659242
+        ]
+      },
+      "id": "way/622216508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/643487013",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Dostluk Kafe",
+        "name:en": "Dostluk Kafe",
+        "name:tk": "Dostluk Kafe",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.3292785,
+          37.4692732
+        ]
+      },
+      "id": "way/643487013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/645523130",
+        "addr:street": "P-9",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "regional",
+        "name": "Zarpçy Kafe",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.7431212,
+          37.6054432
+        ]
+      },
+      "id": "way/645523130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/653946471",
+        "addr:city": "Yerbent",
+        "addr:street": "Aşgabat-Daşoguz awtomobil ýoly",
+        "amenity": "cafe",
+        "building": "yes",
+        "building:levels": "1",
+        "cuisine": "regional",
+        "name": "Kafe",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.5866336,
+          39.3117095
+        ]
+      },
+      "id": "way/653946471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/656409204",
+        "amenity": "cafe",
+        "building": "yes",
+        "building:levels": "1",
+        "cuisine": "Интернациональная",
+        "delivery": "no",
+        "internet_access": "no",
+        "name": "На Дне",
+        "opening_hours": "10:00-22:30",
+        "smoking": "yes",
+        "takeaway": "yes",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3900653,
+          37.9414948
+        ]
+      },
+      "id": "way/656409204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/657094125",
+        "addr:city": "Koýtendag",
+        "addr:street": "P-37",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Naharhana",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.0042136,
+          37.516396
+        ]
+      },
+      "id": "way/657094125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/670516793",
+        "addr:city": "Hazar",
+        "addr:street": "Квартал 32",
+        "amenity": "cafe",
+        "name": "Кафе-Бар",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.1268565,
+          39.4035674
+        ]
+      },
+      "id": "way/670516793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/671291620",
+        "addr:city": "Baherden",
+        "addr:street": "M37",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Lezzet Kafe",
+        "source": "https://www.mapillary.com/app/?pKey=tr0ao-alqkiIn4Z5i5HKHQ&focus=photo&lat=38.432425442187515&lng=57.41185717290026&z=17&x=0.4889381907398957&y=0.48105410632717693&zoom=0.2602739726027399",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.411333,
+          38.4334317
+        ]
+      },
+      "id": "way/671291620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/688877858",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "GARADAG",
+        "outdoor_seating": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3565156,
+          39.5112503
+        ]
+      },
+      "id": "way/688877858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/796564926",
+        "addr:street": "P-21",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Çemen Kafesi",
+        "name:en": "Chemen",
+        "name:tk": "Çemen Kafesi",
+        "source": "https://www.mapillary.com/app/?pKey=N7WO68u7ZRpFYrKko3x-8g&focus=photo&lat=42.3307396&lng=59.0735946&z=17",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.0740782,
+          42.3304856
+        ]
+      },
+      "id": "way/796564926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/821977682",
+        "addr:street": "M37",
+        "amenity": "cafe",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.1452199,
+          39.0450344
+        ]
+      },
+      "id": "way/821977682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/821995305",
+        "addr:city": "Serdar",
+        "addr:street": "Aşgabat-Türkmenbaşy magistraly",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Jana Naharhana",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.3035011,
+          38.9784093
+        ]
+      },
+      "id": "way/821995305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/857462628",
+        "addr:city": "Hazar",
+        "addr:housenumber": "3",
+        "addr:postcode": "745030",
+        "addr:street": "15 Kwartal",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Кафе \"Чарлак\"",
+        "outdoor_seating": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.1307502,
+          39.4024851
+        ]
+      },
+      "id": "way/857462628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/906250192",
+        "amenity": "cafe",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4299349,
+          37.9214486
+        ]
+      },
+      "id": "way/906250192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/957224403",
+        "addr:city": "Ashgabat",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "asian",
+        "name": "Tagam kafe",
+        "name:ru": "кафе Тагам",
+        "opening_hours": "08:00-22:00",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3978271,
+          37.92064
+        ]
+      },
+      "id": "way/957224403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/961920564",
+        "addr:city": "Turkmenbashy",
+        "addr:street": "Magtymguly şaýoly",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Jeren",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.9615477,
+          40.0032109
+        ]
+      },
+      "id": "way/961920564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1011703297",
+        "addr:street": "Kemine (2035) köçesi",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "asian",
+        "name": "Altyn -Paradise gardens",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3952731,
+          37.9407769
+        ]
+      },
+      "id": "way/1011703297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1063265347",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Али Баба",
+        "phone": "+99361257174",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3602062,
+          39.5182953
+        ]
+      },
+      "id": "way/1063265347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1134821664",
+        "addr:street": "Ashgabat - Turkmenabat Motoway",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "regional",
+        "internet_access": "wired",
+        "internet_access:fee": "yes",
+        "name": "Turkmen Awtoban",
+        "outdoor_seating": "yes",
+        "website": "www.turkmenawtoban.com",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.7012921,
+          38.07438
+        ]
+      },
+      "id": "way/1134821664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1134821672",
+        "addr:street": "Ashgabat - Turkmenabat Motoway",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "regional",
+        "internet_access": "wired",
+        "internet_access:fee": "yes",
+        "name": "Rest Area",
+        "outdoor_seating": "yes",
+        "website": "www.turkmenawtoban.com",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.6998198,
+          38.0728267
+        ]
+      },
+      "id": "way/1134821672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1319812445",
+        "addr:city": "Turkmenbashy",
+        "addr:street": "Mereşow köçesi",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Laçyn",
+        "name:en": "Lachin",
+        "name:ru": "Лачын",
+        "name:tk": "Laçyn",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.9950684,
+          40.0095645
+        ]
+      },
+      "id": "way/1319812445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1539669254",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "kebab",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "layer": "1",
+        "name": "Söýgi dagy kafesi (LyshTech)",
+        "opening_hours": "sunrise-sunset",
+        "outdoor_seating": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.0365185,
+          38.4898834
+        ]
+      },
+      "id": "way/1539669254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1930114170",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5845469,
+          39.0706819
+        ]
+      },
+      "id": "node/1930114170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1930365202",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.6034627,
+          39.0771572
+        ]
+      },
+      "id": "node/1930365202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2268114607",
+        "addr:city": "Tejen",
+        "addr:street": "S. Türkmenbaşy köçesi",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.506163,
+          37.3706999
+        ]
+      },
+      "id": "node/2268114607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2432727340",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.9493898,
+          40.0069294
+        ]
+      },
+      "id": "node/2432727340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2988006651",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "54",
+        "addr:street": "Magtymguly (2033) şaýoly",
+        "amenity": "cafe",
+        "name": "Garagum Kafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3991827,
+          37.9364057
+        ]
+      },
+      "id": "node/2988006651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3437722526",
+        "addr:city": "Ashgabat",
+        "addr:street": "Bilim (Prosweşçeniýa, 2062) köçesi",
+        "amenity": "cafe",
+        "name": "Jennet Cafe Bar",
+        "name:ru": "Кафе Бар Дженнет",
+        "name:tk": "Kafe Bar Jennet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3529504,
+          37.9516106
+        ]
+      },
+      "id": "node/3437722526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3451765267",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "140",
+        "addr:street": "Magtymguly (2033) sayoly",
+        "amenity": "cafe",
+        "cuisine": "regional",
+        "delivery": "yes",
+        "name": "Zumerret (Turquoise) Cafe",
+        "name:ru": "Кафе Зумеррет",
+        "name:tk": "Kafe Zumerret",
+        "phone": "(+993-12) 36-42-30, (+993-66) 32-77-79"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3602704,
+          37.9572455
+        ]
+      },
+      "id": "node/3451765267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3476539994",
+        "addr:city": "Ashgabat",
+        "addr:street": "Medeniýet (Reutow, 2027) köçesi",
+        "amenity": "cafe",
+        "name": "Tagamly Kafe",
+        "name:ru": "Кафе Тагамлы",
+        "name:tk": "Tagamly Kafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3622965,
+          37.9517549
+        ]
+      },
+      "id": "node/3476539994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3496308943",
+        "addr:housenumber": "48",
+        "addr:street": "Awrabat kocesi",
+        "amenity": "cafe",
+        "cuisine": "international;russian;italian_pizza",
+        "name": "Altyn Ada",
+        "name:en": "Altyn Ada",
+        "name:ru": "Алтын Ада",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "phone": "+99312457371"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3874971,
+          37.9073026
+        ]
+      },
+      "id": "node/3496308943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3498494172",
+        "addr:city": "Ashgabat",
+        "addr:housename": "Russian Bazaar",
+        "addr:street": "Dowletmamed Azady (Engels, 2011) kocesi",
+        "amenity": "cafe",
+        "name": "Cafeterias in Russian Bazaar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.380181,
+          37.9416334
+        ]
+      },
+      "id": "node/3498494172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3588049633",
+        "addr:city": "Gabakli",
+        "addr:street": "P35",
+        "amenity": "cafe",
+        "name": "Shohle Cafe",
+        "name:tk": "Şöhle Kafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.5328904,
+          39.7684965
+        ]
+      },
+      "id": "node/3588049633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3588055296",
+        "amenity": "cafe",
+        "cuisine": "regional",
+        "name": "Seydi Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9137059,
+          39.4818947
+        ]
+      },
+      "id": "node/3588055296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3588075221",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.3200238,
+          39.1845424
+        ]
+      },
+      "id": "node/3588075221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3588075222",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.3241119,
+          39.1836016
+        ]
+      },
+      "id": "node/3588075222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3588092848",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.33791,
+          39.1768215
+        ]
+      },
+      "id": "node/3588092848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3588135745",
+        "amenity": "cafe",
+        "mapillary": "176397257720278",
+        "name": "Güneş Kafesi",
+        "name:tk": "Güneş Kafesi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.6647833,
+          37.9639912
+        ]
+      },
+      "id": "node/3588135745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3635205624",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "50",
+        "addr:street": "Görogly (2009) köçesi",
+        "amenity": "cafe",
+        "name": "Grand Turkmen Hotel Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3776167,
+          37.9402028
+        ]
+      },
+      "id": "node/3635205624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3735903281",
+        "addr:city": "Ashgabat",
+        "addr:street": "Aba Annayew (2060) kocesi",
+        "amenity": "cafe",
+        "name": "Altyn Açar",
+        "phone": "+99312364555"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.358743,
+          37.9572496
+        ]
+      },
+      "id": "node/3735903281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3755628234",
+        "addr:city": "Ashgabat",
+        "amenity": "cafe",
+        "name": "Sayoly kofe",
+        "opening_hours": "12:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.382427,
+          37.9129021
+        ]
+      },
+      "id": "node/3755628234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3755708929",
+        "amenity": "cafe",
+        "name": "Cafeteria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.2092361,
+          38.0426954
+        ]
+      },
+      "id": "node/3755708929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3771690472",
+        "addr:city": "Ashgabat",
+        "addr:street": "Gurban Durdy (2060/10) kocesi",
+        "amenity": "cafe",
+        "name": "Altyntac Cafe",
+        "name:tk": "Altyntäç Kafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3490665,
+          37.9606968
+        ]
+      },
+      "id": "node/3771690472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3773235368",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.1858152,
+          38.0557024
+        ]
+      },
+      "id": "node/3773235368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3773235369",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.1913046,
+          38.0522459
+        ]
+      },
+      "id": "node/3773235369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3848883909",
+        "addr:city": "Ashgabat",
+        "addr:street": "Çary Baýryýew (Mežlauk, 2050) köçesi",
+        "amenity": "cafe",
+        "cuisine": "regional",
+        "name": "Altyn-Shafran",
+        "name:en": "Altyn-Shafran",
+        "name:ru": "Алтын-Шафран / Тумар",
+        "name:tk": "Altyn-Shafran",
+        "opening_hours": "10:00-23:00",
+        "phone": "+99312364161"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3659473,
+          37.9522157
+        ]
+      },
+      "id": "node/3848883909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3939057884",
+        "addr:city": "Ashgabat",
+        "addr:street": "Döwletmämed Azady (Engels, 2011) köçesi",
+        "amenity": "cafe",
+        "cuisine": "pastries",
+        "name": "Cafe Shokoladniza",
+        "opening_hours": "10:00-23:00",
+        "phone": "93-09-84"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.376062,
+          37.9431165
+        ]
+      },
+      "id": "node/3939057884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3939060866",
+        "addr:city": "Ashgabat",
+        "addr:street": "Beyik Saparmurat Turkmenbasy (1966) sayoly",
+        "amenity": "cafe",
+        "cuisine": "pizza",
+        "name": "Baghdad Cafe",
+        "opening_hours": "09:00-03:00",
+        "phone": "39-19-80"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3891252,
+          37.9359812
+        ]
+      },
+      "id": "node/3939060866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3954794935",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "40",
+        "addr:street": "Nowaýy (2022) köçesi",
+        "amenity": "cafe",
+        "cuisine": "european-italian",
+        "name": "Cafe Nazik",
+        "opening_hours": "10:00-23:00",
+        "phone": "93 19 96"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3764944,
+          37.9448522
+        ]
+      },
+      "id": "node/3954794935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3954802464",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3761939,
+          37.9428246
+        ]
+      },
+      "id": "node/3954802464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3954802466",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "83",
+        "addr:street": "Döwletmämed Azady (Engels, 2011) köçesi",
+        "amenity": "cafe",
+        "name": "Süýji Nygmatlary",
+        "opening_hours": "09:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3746315,
+          37.9436264
+        ]
+      },
+      "id": "node/3954802466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3954802467",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "113",
+        "addr:street": "Magtymguly (2033) şaýoly",
+        "amenity": "cafe",
+        "name": "Süýji dünýäsi",
+        "name:tk": "Süýji dünýäsi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3739547,
+          37.9492666
+        ]
+      },
+      "id": "node/3954802467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3954880139",
+        "addr:city": "Ashgabat",
+        "addr:street": "Aga Berdiýew (2087) köçesi",
+        "amenity": "cafe",
+        "name": "Gulalek Kafe",
+        "name:en": "Gulalek Kafe",
+        "name:ru": "Гулялек кафе"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.396879,
+          37.948153
+        ]
+      },
+      "id": "node/3954880139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974281931",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "46",
+        "addr:street": "Magtymguly (2033) sayoly",
+        "amenity": "cafe",
+        "cuisine": "pizza",
+        "name": "Altyn Açar",
+        "opening_hours": "08:00-23:00",
+        "phone": "270003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4029442,
+          37.9343635
+        ]
+      },
+      "id": "node/3974281931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3988344879",
+        "addr:street": "Owezberdi Kuliyew kocesi",
+        "amenity": "cafe",
+        "name": "Jennet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3909664,
+          37.9332139
+        ]
+      },
+      "id": "node/3988344879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4000790240",
+        "amenity": "cafe",
+        "cuisine": "regional",
+        "internet_access": "no",
+        "name": "Кафетерий",
+        "name:en": "Cafeteria",
+        "name:ru": "Кафетерий",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.9952856,
+          40.0042059
+        ]
+      },
+      "id": "node/4000790240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4007245809",
+        "addr:city": "Ashgabat",
+        "addr:street": "Ataturk (1972) kocesi",
+        "amenity": "cafe",
+        "contact:line": "@.berkarar",
+        "cuisine": "french_pastries",
+        "delivery": "yes",
+        "name": "La Tartine French Pastry Shop",
+        "name:ru": "Французская выпечка \"Лья Тартин\"",
+        "phone": "+993-65-651-413;46-80-18",
+        "takeaway": "yes",
+        "website": "http://www.latartine-tm.com",
+        "website:menu": "https://yodarestoran.page.link/latartine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3705822,
+          37.8950622
+        ]
+      },
+      "id": "node/4007245809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4022413843",
+        "addr:street": "M37",
+        "amenity": "cafe",
+        "name": "Oboy Cayhana",
+        "name:tk": "Oboý Çaýhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3002031,
+          39.2638395
+        ]
+      },
+      "id": "node/4022413843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4102156589",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "157",
+        "addr:street": "Atamyrat Nyýazow (2038) şaýoly",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "A Coffee",
+        "opening_hours": "Mo-Su 09:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3667463,
+          37.9362905
+        ]
+      },
+      "id": "node/4102156589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4106152692",
+        "addr:street": "Bitarap Türkmenistan şaýoly",
+        "amenity": "cafe",
+        "cuisine": "regional;local;coffee_shop;asian;steak_house;beef_bowl;pizza;fish_and_chips;chicken;kebab;barbecue",
+        "name": "Äager",
+        "name:en": "Yager",
+        "opening_hours": "Mo-Su 10:00-22:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5871149,
+          39.0493324
+        ]
+      },
+      "id": "node/4106152692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4118311689",
+        "addr:street": "Bahar mikroraýon",
+        "amenity": "cafe",
+        "cuisine": "oriental;breakfast;grill;pizza;fish_and_chips;chicken;kebab;turkish",
+        "name": "\"Bahar\" Cafe",
+        "opening_hours": "Mo-Su 10:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5843092,
+          39.0442791
+        ]
+      },
+      "id": "node/4118311689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4209829890",
+        "amenity": "cafe",
+        "cuisine": "regional",
+        "name": "Столовая",
+        "name:en": "Cafeteria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3382431,
+          37.9051259
+        ]
+      },
+      "id": "node/4209829890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4258462507",
+        "amenity": "cafe",
+        "cuisine": "european",
+        "internet_access": "no",
+        "name": "GaraDag",
+        "name:ru": "ГараДаг",
+        "opening_hours": "11:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3564362,
+          39.5113187
+        ]
+      },
+      "id": "node/4258462507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4279265989",
+        "addr:city": "Turkmenabat",
+        "addr:street": "Şabende köçesi",
+        "amenity": "cafe",
+        "name": "Altyn Agşam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5845373,
+          39.0887241
+        ]
+      },
+      "id": "node/4279265989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4279265990",
+        "addr:city": "Turkmenabat",
+        "addr:street": "Görogly koçesi",
+        "amenity": "cafe",
+        "name": "\"Şerbet\" konditer",
+        "name:en": "\"Sherbet\" sweet-shop",
+        "name:ru": "Кондитерская \"Шербет\"",
+        "phone": "422) 4-21-74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5835349,
+          39.0723464
+        ]
+      },
+      "id": "node/4279265990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4279265992",
+        "amenity": "cafe",
+        "name": "наргиза палов"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5846075,
+          39.0251617
+        ]
+      },
+      "id": "node/4279265992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4286126792",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "22",
+        "addr:street": "Aba Annaýew (2060) köçesi",
+        "amenity": "cafe",
+        "cuisine": "regional",
+        "name": "Şaşlyk",
+        "name:en": "Shashlyk",
+        "name:ru": "Шашлычная",
+        "operator": "Язгельди",
+        "phone": "(+993-65) 67-31-67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3544863,
+          37.9517227
+        ]
+      },
+      "id": "node/4286126792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4294668446",
+        "addr:city": "Balkanabat",
+        "addr:floor": "3",
+        "amenity": "cafe",
+        "name": "Tokgar",
+        "opening_hours": "09:00-23:00",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.36218,
+          39.5229767
+        ]
+      },
+      "id": "node/4294668446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4301452189",
+        "addr:housenumber": "64",
+        "amenity": "cafe",
+        "name": "Aladdin",
+        "name:ru": "Вкусные Пельмешки",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "shop": "beauty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3712565,
+          37.9414566
+        ]
+      },
+      "id": "node/4301452189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4316929991",
+        "addr:city": "Ashgabat",
+        "addr:street": "Döwletmämed Azady (Engels, 2011) köçesi",
+        "amenity": "cafe",
+        "cuisine": "regional",
+        "name": "Yunus Kafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3791809,
+          37.9424766
+        ]
+      },
+      "id": "node/4316929991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4321006748",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4904258,
+          38.7575418
+        ]
+      },
+      "id": "node/4321006748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4321006830",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.5918038,
+          39.3121331
+        ]
+      },
+      "id": "node/4321006830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4321113983",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.6844128,
+          41.7363693
+        ]
+      },
+      "id": "node/4321113983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4358508789",
+        "amenity": "cafe",
+        "name:ru": "Кафе Андрея"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3604129,
+          39.5181674
+        ]
+      },
+      "id": "node/4358508789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4367808898",
+        "addr:city": "Ashgabat",
+        "addr:street": "Atamyrat Nyýazow (2038) şaýoly",
+        "amenity": "cafe",
+        "cuisine": "oriental;breakfast;cake;coffee_shop;asian;steak_house;pizza;italian_pizza",
+        "internet_access": "wlan",
+        "name:en": "Umyt",
+        "name:ru": "Умыт",
+        "opening_hours": "Mo-Su 10:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4189511,
+          37.9187171
+        ]
+      },
+      "id": "node/4367808898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4381035795",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "115",
+        "addr:street": "Magtymguly (2033) sayoly",
+        "amenity": "cafe",
+        "cuisine": "mediterranean;coffee_shop;diner;international;italian_pizza;pasta;pizza;burger",
+        "delivery": "yes",
+        "email": "ashgadel@yandex.ru",
+        "internet_access": "wlan",
+        "name": "Aşgabat Coffee & Cafe",
+        "name:en": "Ashgabat Coffee & Cafe",
+        "note": "Happy Hour 10:00-16:00, 20% discount",
+        "opening_hours": "Mo-Su 10:00-23:00",
+        "operator": "Ashgadel",
+        "outdoor_seating": "yes",
+        "phone": "(+993-12) 93-69-26;(+993-63) 12-80-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3732065,
+          37.9492411
+        ]
+      },
+      "id": "node/4381035795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4384942449",
+        "addr:city": "Ashgabat",
+        "addr:street": "Döwletmämed Azady (Engels, 2011) köçesi",
+        "amenity": "cafe",
+        "name": "Sümmül Kafesi",
+        "name:tk": "Sümmül Kafesi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.369662,
+          37.9441074
+        ]
+      },
+      "id": "node/4384942449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4398454511",
+        "addr:city": "Daşoguz",
+        "addr:postcode": "746300",
+        "addr:street": "Saparmyrat Türkmenbaşy şaýoly",
+        "amenity": "cafe",
+        "cuisine": "american",
+        "name": "Мечта",
+        "name:en": "Mechta",
+        "opening_hours": "09:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.9532649,
+          41.8381387
+        ]
+      },
+      "id": "node/4398454511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4437759489",
+        "amenity": "cafe",
+        "name": "SYPRA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4214475,
+          37.9173763
+        ]
+      },
+      "id": "node/4437759489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4441535597",
+        "addr:city": "Ashgabat",
+        "addr:street": "Howdan W",
+        "amenity": "cafe",
+        "name": "Cafe Pele",
+        "name:ru": "Кафе Пеле"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3946853,
+          37.9200679
+        ]
+      },
+      "id": "node/4441535597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4441619990",
+        "addr:street": "Cary Bayryyew (Mezlauk, 2050) kocesi",
+        "amenity": "cafe",
+        "cuisine": "greek;russian;italian_pizza;local",
+        "name:en": "Kafe Sirk",
+        "name:ru": "Кафе Цирк",
+        "opening_hours": "Mo-Su 09:00-23:00",
+        "operator": "Kemal Talgatov",
+        "phone": "(+993-12) 36-46-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3669348,
+          37.9542453
+        ]
+      },
+      "id": "node/4441619990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4451431590",
+        "addr:street": "Anna Muhammedow (2109) kocesi",
+        "amenity": "cafe",
+        "cuisine": "asian",
+        "name:en": "Doner kafe",
+        "name:ru": "Кафе Донер",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "phone": "+99366550050"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4036809,
+          37.9546984
+        ]
+      },
+      "id": "node/4451431590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4470287090",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "192",
+        "addr:street": "Bitarap Turkmenistan (2002) sayoly",
+        "amenity": "cafe",
+        "name": "Balşeker",
+        "name:en": "Balsheker",
+        "name:tk": "Balşeker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3595547,
+          37.9197534
+        ]
+      },
+      "id": "node/4470287090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4492544690",
+        "addr:city": "Turkmenabat",
+        "addr:housenumber": "35",
+        "addr:street": "Omar Garaýew köçesi",
+        "amenity": "cafe",
+        "name": "Owadan Cafe",
+        "name:en": "Owadan Cafe",
+        "name:ru": "Овадан кафе",
+        "phone": "+99342234781"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5781946,
+          39.0929619
+        ]
+      },
+      "id": "node/4492544690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4508549168",
+        "amenity": "cafe",
+        "cuisine": "regional",
+        "name": "Bereketli kafesi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.3280189,
+          39.179151
+        ]
+      },
+      "id": "node/4508549168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4531489690",
+        "addr:housenumber": "3",
+        "addr:postcode": "745030",
+        "addr:street": "квартал 15",
+        "amenity": "cafe",
+        "name": "Kafe Çarlak",
+        "name:en": "Charlak Cafe",
+        "name:ru": "Кафе \"Чарлак\"",
+        "name:tk": "Kafe Çarlak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.1307397,
+          39.4025547
+        ]
+      },
+      "id": "node/4531489690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4551256896",
+        "addr:city": "Ashgabat",
+        "addr:street": "Atamyrat Nyýazow (2038) şaýoly",
+        "amenity": "cafe",
+        "cuisine": "local;regional",
+        "internet_access": "wlan",
+        "name": "Joşgun Kafe",
+        "name:en": "Joshgun",
+        "name:ru": "Джошгун",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "phone": "+99369040752"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3787249,
+          37.9606909
+        ]
+      },
+      "id": "node/4551256896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4589203707",
+        "addr:city": "Balkanabat",
+        "addr:street": "Gurtgeldi Annaýew köçesi",
+        "amenity": "cafe",
+        "cuisine": "regional",
+        "name": "Kafe Balkan",
+        "name:en": "Kafe Balkan",
+        "name:ru": "Кафе \"Балкан\"",
+        "opening_hours": "Mo-Su 12:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3596363,
+          39.5054654
+        ]
+      },
+      "id": "node/4589203707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4595953426",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "112",
+        "addr:street": "Oguzhan (1957) köçesi",
+        "amenity": "cafe",
+        "cuisine": "regional",
+        "description": "Top floor of Bagtyyarlyk Shopping Center",
+        "internet_access": "wlan",
+        "name": "Nur Cafe",
+        "outdoor_seating": "no",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3686952,
+          37.9171512
+        ]
+      },
+      "id": "node/4595953426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4595953427",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "112",
+        "addr:street": "Oguzhan (1957) köçesi",
+        "amenity": "cafe",
+        "name": "Şa Sona",
+        "name:ru": "Ша Сона",
+        "name:tk": "Şa Sona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3679725,
+          37.9170964
+        ]
+      },
+      "id": "node/4595953427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4596902827",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "182",
+        "addr:postcode": "744005",
+        "addr:street": "Nurmuhammet Andalyb (1958) kocesi",
+        "amenity": "cafe",
+        "cuisine": "italian;french;russian",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Diamond Pub",
+        "opening_hours": "10:00 - 23:00",
+        "phone": "(+993-12) 94-50-38",
+        "smoking": "outside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3974194,
+          37.9356756
+        ]
+      },
+      "id": "node/4596902827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4651180894",
+        "addr:housenumber": "425104",
+        "addr:street": "1nji Oguzhan gecelgesi",
+        "amenity": "cafe",
+        "cuisine": "italian",
+        "name": "Döwletli Kafe",
+        "name:en": "DOWLETLI kafe",
+        "opening_hours": "24/7",
+        "phone": "425104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4119294,
+          37.9142985
+        ]
+      },
+      "id": "node/4651180894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4654387891",
+        "addr:city": "Kerki",
+        "addr:street": "S. Nyýazow köçesi",
+        "amenity": "cafe",
+        "cuisine": "asian",
+        "internet_access": "wlan",
+        "name": "Altyn Asyr Kafe",
+        "name:en": "Altyn Asyr Kafe",
+        "opening_hours": "Mo-Sa 09:00-21:00",
+        "phone": "+993 64452166"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.2118368,
+          37.8354959
+        ]
+      },
+      "id": "node/4654387891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4688133091",
+        "amenity": "cafe",
+        "cuisine": "russian",
+        "name": "Jeren",
+        "name:en": "Djeren",
+        "name:ru": "Джерен"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4216441,
+          37.9144556
+        ]
+      },
+      "id": "node/4688133091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4700590689",
+        "addr:street": "Atamyrat Nyýazow 2 geçelgesi",
+        "amenity": "cafe",
+        "name": "Horjun",
+        "name:en": "horjun",
+        "name:ru": "Хорджун"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4220606,
+          37.9169418
+        ]
+      },
+      "id": "node/4700590689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4739429325",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.0005775,
+          40.0103635
+        ]
+      },
+      "id": "node/4739429325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4740298626",
+        "addr:city": "Balkanabat",
+        "addr:street": "M37",
+        "amenity": "cafe",
+        "cuisine": "kebab;russian;regional;international",
+        "name": "Uly Balkan",
+        "name:en": "Uly Balkan",
+        "name:ru": "Большой Балкан",
+        "name:tk": "Uly Balkan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3562898,
+          39.5043252
+        ]
+      },
+      "id": "node/4740298626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4740300122",
+        "amenity": "cafe",
+        "name:en": "Altyn Balyk",
+        "name:ru": "Алтын Балык"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.8484392,
+          39.9423172
+        ]
+      },
+      "id": "node/4740300122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4778027724",
+        "addr:city": "Ashgabat",
+        "addr:street": "Kulyyew (2127) kocesi",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.396335,
+          37.9748895
+        ]
+      },
+      "id": "node/4778027724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4819779106",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "80",
+        "addr:street": "Atatürk (1972) köçesi",
+        "amenity": "cafe",
+        "cuisine": "coffee",
+        "name": "Sha Coffee",
+        "name:ru": "Ша Кофе",
+        "name:tk": "Şa Kofe",
+        "website": "http://shakofe.com/",
+        "website:menu": "https://yodarestoran.page.link/shacoffee",
+        "website_1": "https://www.tripadvisor.com/Restaurant_Review-g293966-d11773895-Reviews-Sha_Coffee-Ashgabat_Ahal_Province.html",
+        "website_2": "https://yodarestoran.page.link/shacoffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.36892,
+          37.8938636
+        ]
+      },
+      "id": "node/4819779106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4833062321",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "404",
+        "addr:street": "Atamyrat Nyýazow (2038) şaýoly",
+        "amenity": "cafe",
+        "cuisine": "regional;turkish",
+        "delivery": "yes",
+        "name": "Alys Aý Kafe-Bar",
+        "name:en": "Alys Ay Cafe Bar",
+        "outdoor_seating": "yes",
+        "phone": "(+993-12) 73-95-81, (+993-62) 20-88-22;(+993-61) 20-20-06;(+993-64) 00-40-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4027158,
+          38.005378
+        ]
+      },
+      "id": "node/4833062321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4838434823",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "84",
+        "addr:street": "Atamyrat Nyyazow (2038) sayoly",
+        "amenity": "cafe",
+        "name": "Altyn Asyr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4120582,
+          37.9179788
+        ]
+      },
+      "id": "node/4838434823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4864030421",
+        "addr:city": "Ashgabat",
+        "addr:neighbourhood": "Bagyr",
+        "addr:street": "Artyk Jallyýew köçesi",
+        "amenity": "cafe",
+        "name": "Altyn kopri",
+        "name:en": "Altyn kopri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.2148326,
+          37.9686287
+        ]
+      },
+      "id": "node/4864030421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4864030621",
+        "addr:city": "Ashgabat",
+        "addr:neighbourhood": "Bagyr",
+        "addr:street": "Gokdepe gara yoly",
+        "amenity": "cafe",
+        "name": "Nusaý",
+        "name:en": "Nusay",
+        "name:ru": "Нусай",
+        "name:tk": "Nusaý"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.2221962,
+          37.9611042
+        ]
+      },
+      "id": "node/4864030621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4864166021",
+        "addr:city": "Ashgabat",
+        "addr:street": "Parahat 5",
+        "amenity": "cafe",
+        "name": "Şyhadtar Cafe",
+        "name:en": "Şyhadtar Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4018299,
+          37.9089185
+        ]
+      },
+      "id": "node/4864166021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4867705285",
+        "amenity": "cafe",
+        "cuisine": "oriental;kebab",
+        "name:en": "Bägül",
+        "name:ru": "Бягуль"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.95394,
+          38.1738897
+        ]
+      },
+      "id": "node/4867705285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4879591523",
+        "addr:street": "Ruhnama koçesi",
+        "amenity": "cafe",
+        "cuisine": "asian",
+        "name:en": "Lachyn",
+        "name:ru": "Лачын",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "operator": "Акбап",
+        "phone": "22087"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.9464692,
+          41.833728
+        ]
+      },
+      "id": "node/4879591523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4890028821",
+        "amenity": "cafe",
+        "cuisine": "local",
+        "name": "Ak öýli",
+        "name:en": "Ak oyli",
+        "name:ru": "Ак ойли",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "phone": "+99365555512"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4248032,
+          37.9444962
+        ]
+      },
+      "id": "node/4890028821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4909984423",
+        "addr:city": "Ashgabat",
+        "addr:street": "Hudaýberdiýewler köçesi",
+        "amenity": "cafe",
+        "name": "Gara öyli",
+        "name:ru": "Гара ойли",
+        "name:tk": "Gara öyli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.2393023,
+          37.9795284
+        ]
+      },
+      "id": "node/4909984423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4917223121",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "68",
+        "addr:street": "Taslama",
+        "amenity": "cafe",
+        "cuisine": "oriental;kebab;coffee_shop;seafood;international;pizza;regional;beef_bowl;fish_and_chips;russian;fish;steak_house;tea;deli;grill;chicken;friture;barbecue;asian",
+        "diet:vegetarian": "yes",
+        "fixme": "phone number seems wrong",
+        "name:en": "Dostluk kafe",
+        "name:ru": "Достлук Кафе",
+        "opening_hours": "Mo-Su 10:00-23:00",
+        "phone": "+993 309293"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3340569,
+          37.9653758
+        ]
+      },
+      "id": "node/4917223121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4968767925",
+        "amenity": "cafe",
+        "name:en": "Nygmat Kafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3973137,
+          37.9142141
+        ]
+      },
+      "id": "node/4968767925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5045848222",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "112",
+        "addr:street": "Oguzhan (1957) köçesi",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "email": "coffeestationtm@gmail.com",
+        "facebook": "coffeestationtm",
+        "internet_access": "wlan",
+        "name": "Coffee Station",
+        "name:en": "Coffee Station",
+        "opening_hours": "Mo-Su 09:00-23:00",
+        "outdoor_seating": "no",
+        "phone": "99312956099",
+        "smoking": "no",
+        "website": "https://instagram.com/coffeestationtm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.368434,
+          37.9168787
+        ]
+      },
+      "id": "node/5045848222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5050752569",
+        "addr:city": "Yarajy",
+        "addr:street": "M37",
+        "amenity": "cafe",
+        "name": "Kumuşdepe Naharhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.6602483,
+          38.2858553
+        ]
+      },
+      "id": "node/5050752569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5050902939",
+        "addr:street": "M37",
+        "amenity": "cafe",
+        "name": "Çaýhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.2327946,
+          39.0127622
+        ]
+      },
+      "id": "node/5050902939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5084714221",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3526931,
+          39.5276789
+        ]
+      },
+      "id": "node/5084714221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5106588422",
+        "amenity": "cafe",
+        "name:en": "Jeyran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.9616498,
+          40.0031531
+        ]
+      },
+      "id": "node/5106588422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5134398507",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "55",
+        "addr:street": "Bitarap Turkmenistan",
+        "amenity": "cafe",
+        "cuisine": "international;pizza;regional",
+        "internet_access": "no",
+        "mobile": "+99362981069",
+        "name": "Bitaraplyk Cafe 1",
+        "outdoor_seating": "yes",
+        "phone": "+99312981069"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3301635,
+          37.8824299
+        ]
+      },
+      "id": "node/5134398507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5153402038",
+        "addr:street": "M37",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.5671435,
+          37.4199562
+        ]
+      },
+      "id": "node/5153402038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5156908623",
+        "addr:city": "Atamyrat",
+        "amenity": "cafe",
+        "name": "Kafe-Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.1877912,
+          37.8461738
+        ]
+      },
+      "id": "node/5156908623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5157014915",
+        "amenity": "cafe",
+        "name": "Naharhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.3312203,
+          37.833534
+        ]
+      },
+      "id": "node/5157014915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5157014916",
+        "amenity": "cafe",
+        "name": "Oazis Kafesi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.3509063,
+          37.7864324
+        ]
+      },
+      "id": "node/5157014916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5157127959",
+        "addr:city": "Mugry",
+        "amenity": "cafe",
+        "name": "Naharhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.751766,
+          37.597622
+        ]
+      },
+      "id": "node/5157127959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5157223396",
+        "addr:street": "Ihtiýar şaýoly",
+        "amenity": "cafe",
+        "name": "Naharhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.4451709,
+          37.869796
+        ]
+      },
+      "id": "node/5157223396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5157223412",
+        "amenity": "cafe",
+        "name": "Naharhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.4764534,
+          37.911412
+        ]
+      },
+      "id": "node/5157223412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5157223885",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.48463,
+          37.9188794
+        ]
+      },
+      "id": "node/5157223885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5157223886",
+        "amenity": "cafe",
+        "name": "Çaýhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.4873979,
+          37.9206891
+        ]
+      },
+      "id": "node/5157223886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5157380198",
+        "addr:city": "Koýten obasy",
+        "amenity": "cafe",
+        "name": "Çynar Kafe",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.4833935,
+          37.9191541
+        ]
+      },
+      "id": "node/5157380198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5169130721",
+        "amenity": "cafe",
+        "name:en": "Dowletli",
+        "name:ru": "Довлетли"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5766375,
+          39.0910718
+        ]
+      },
+      "id": "node/5169130721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5213712126",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "191",
+        "addr:postcode": "744000",
+        "addr:street": "Magtymguly (2033) şaýoly",
+        "amenity": "cafe",
+        "cuisine": "sandwich;breakfast;international;cake;tea;coffee_shop;pasta;pizza;chicken;italian_pizza",
+        "name": "Kafe 30",
+        "name:en": "Kafe 30",
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "phone": "+99312344447"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3508939,
+          37.957803
+        ]
+      },
+      "id": "node/5213712126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5213892022",
+        "addr:city": "Ashgabat",
+        "addr:street": "Görogly (2009) köçesi",
+        "amenity": "cafe",
+        "name:en": "Altyn karaoke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3356037,
+          37.9519284
+        ]
+      },
+      "id": "node/5213892022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5242362824",
+        "amenity": "cafe",
+        "name:en": "Erikli kafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4318827,
+          37.9063216
+        ]
+      },
+      "id": "node/5242362824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5259637321",
+        "addr:housenumber": "6",
+        "addr:street": "Nowruz köçesi",
+        "amenity": "cafe",
+        "name:en": "Aziya",
+        "name:ru": "кафе Азия"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.984118,
+          40.0130638
+        ]
+      },
+      "id": "node/5259637321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5269922721",
+        "amenity": "cafe",
+        "name:ru": "Фитчи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.37765,
+          39.503018
+        ]
+      },
+      "id": "node/5269922721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5272981024",
+        "amenity": "cafe",
+        "name:en": "SimSim",
+        "name:ru": "СимСим"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5935881,
+          39.0778476
+        ]
+      },
+      "id": "node/5272981024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5286631521",
+        "addr:street": "проспект Ахал",
+        "amenity": "cafe",
+        "name:en": "Bereket",
+        "name:ru": "Берекет"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.1519385,
+          38.0548158
+        ]
+      },
+      "id": "node/5286631521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5286671321",
+        "amenity": "cafe",
+        "name": "DOSTLYK кафе"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.1545355,
+          38.0597679
+        ]
+      },
+      "id": "node/5286671321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5289770824",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "53",
+        "addr:street": "Görogly (2009) köçesi",
+        "amenity": "cafe",
+        "cuisine": "local",
+        "delivery": "yes",
+        "internet_access": "wlan",
+        "name": "Ammar",
+        "name:en": "Ammar (\"the barn\")",
+        "name:ru": "Аммар",
+        "opening_hours": "Mo-Su 09:00-23:00",
+        "payment:cash": "yes",
+        "phone": "+99312273927",
+        "website": "https://yodarestoran.page.link/ammarkafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.402517,
+          37.9293751
+        ]
+      },
+      "id": "node/5289770824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5321816121",
+        "addr:city": "Ashgabat",
+        "amenity": "cafe",
+        "name:en": "Aisha cafe",
+        "name:ru": "Аиша кафе",
+        "phone": "942929"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3894882,
+          37.9450389
+        ]
+      },
+      "id": "node/5321816121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5358478023",
+        "addr:city": "Tejen",
+        "addr:street": "Ezizhan köçesi",
+        "amenity": "cafe",
+        "cuisine": "chicken;fish_and_chips;kebab;tea;coffee_shop;local",
+        "name": "Menzil",
+        "name:en": "Menzil",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "operator": "Chary aga",
+        "phone": "+99313544127"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5008415,
+          37.3838588
+        ]
+      },
+      "id": "node/5358478023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5375922823",
+        "amenity": "cafe",
+        "name:en": "Nesibe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.9840591,
+          40.0141716
+        ]
+      },
+      "id": "node/5375922823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5385162921",
+        "addr:city": "Ashgabat",
+        "addr:street": "Magtymguly (2033) şaýoly",
+        "amenity": "cafe",
+        "name:en": "Tomus",
+        "name:ru": "Томус"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3799593,
+          37.9460708
+        ]
+      },
+      "id": "node/5385162921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5451864075",
+        "addr:city": "Tejen",
+        "addr:street": "M37",
+        "amenity": "cafe",
+        "name": "Ak-Ýol Kafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5188958,
+          37.3749476
+        ]
+      },
+      "id": "node/5451864075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5481946625",
+        "amenity": "cafe",
+        "cuisine": "asian;breakfast;tea;regional;local",
+        "name": "Çaýhana",
+        "name:en": "Tea House",
+        "name:ja": "チャイハネ(地獄の門各種相談可)",
+        "opening_hours": "Mo-Su 08:00-00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4073078,
+          40.2072181
+        ]
+      },
+      "id": "node/5481946625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5491750823",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "80",
+        "addr:street": "Atatürk (1972) köçesi",
+        "amenity": "cafe",
+        "name": "Espresso",
+        "name:en": "Espresso",
+        "name:ru": "Espresso",
+        "opening_hours": "Mo-Su 09:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3701481,
+          37.8941353
+        ]
+      },
+      "id": "node/5491750823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5498904821",
+        "amenity": "cafe",
+        "name:ru": "Столовая"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.5408883,
+          37.9977414
+        ]
+      },
+      "id": "node/5498904821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5550115023",
+        "addr:city": "Farap",
+        "addr:street": "P38",
+        "amenity": "cafe",
+        "name": "Kafe",
+        "name:en": "Cafe",
+        "name:ru": "Кафе"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.6146564,
+          39.1787799
+        ]
+      },
+      "id": "node/5550115023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5600372828",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3936886,
+          37.943319
+        ]
+      },
+      "id": "node/5600372828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5604896522",
+        "addr:city": "Turkmenabat",
+        "addr:street": "S.A. Nyýazow köçesi",
+        "amenity": "cafe",
+        "name": "Duşuşyk",
+        "name:en": "Dushushyk",
+        "name:ru": "Душушык",
+        "name:tk": "Duşuşyk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5746385,
+          39.0939204
+        ]
+      },
+      "id": "node/5604896522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5606961622",
+        "amenity": "cafe",
+        "cuisine": "fish;fish_and_chips;kebab",
+        "name:en": "Balykchy",
+        "name:ru": "Балыкчы",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "phone": "+99365676484"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.9547302,
+          38.1740782
+        ]
+      },
+      "id": "node/5606961622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5615183623",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "80",
+        "addr:street": "Atatürk (1972) köçesi",
+        "amenity": "cafe",
+        "cuisine": "burger",
+        "diet:vegan": "yes",
+        "internet_access": "wlan",
+        "name": "Zeytun",
+        "name:en": "Zeytun healthy food",
+        "name:ru": "Зейтун здоровое питание",
+        "opening_hours": "Mo-Su 09:00-23:00",
+        "phone": "+99312469666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3690744,
+          37.8932597
+        ]
+      },
+      "id": "node/5615183623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5618883421",
+        "addr:city": "Mary",
+        "amenity": "cafe",
+        "name": "Ak Burgut",
+        "name:en": "Ak Burgut",
+        "name:ru": "Белый Орёл"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.8469466,
+          37.588818
+        ]
+      },
+      "id": "node/5618883421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5622673021",
+        "addr:city": "Duşak",
+        "addr:street": "M37",
+        "amenity": "cafe",
+        "cuisine": "regional",
+        "internet_access": "no",
+        "name": "Melike Naharhana",
+        "name:en": "Melike Naharhana",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.0219215,
+          37.2067007
+        ]
+      },
+      "id": "node/5622673021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5650986121",
+        "amenity": "cafe",
+        "cuisine": "fish_and_chips;kebab;local",
+        "name:en": "Okean Balyk",
+        "phone": "+99362024418"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.8980754,
+          37.565492
+        ]
+      },
+      "id": "node/5650986121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5652137181",
+        "addr:city": "Görogly",
+        "amenity": "cafe",
+        "name": "Ýedi Ýýldyz",
+        "name:en": "Yedi Yyldyz",
+        "name:tk": "Ýedi Ýýldyz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.8983815,
+          41.6520122
+        ]
+      },
+      "id": "node/5652137181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5652137183",
+        "addr:city": "Görogly",
+        "amenity": "cafe",
+        "cuisine": "regional",
+        "name": "Fitçi",
+        "name:en": "Fitchi",
+        "name:tk": "Fitçi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.9110886,
+          41.652496
+        ]
+      },
+      "id": "node/5652137183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5652137185",
+        "amenity": "cafe",
+        "name:en": "Ak ÿol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.9226891,
+          41.6471762
+        ]
+      },
+      "id": "node/5652137185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5654137021",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.5180058,
+          37.90961
+        ]
+      },
+      "id": "node/5654137021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5658728021",
+        "addr:city": "Dashoguz",
+        "addr:street": "Gurbansoltan Eje köçesi",
+        "amenity": "cafe",
+        "name": "Aşgabat Kafe Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.9574084,
+          41.8352238
+        ]
+      },
+      "id": "node/5658728021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5658784068",
+        "addr:city": "Dashoguz",
+        "addr:street": "Magtymguly köçesi",
+        "amenity": "cafe",
+        "cuisine": "regional",
+        "name": "Berk Kafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.9778193,
+          41.8384119
+        ]
+      },
+      "id": "node/5658784068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5679118621",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.0362821,
+          38.4899947
+        ]
+      },
+      "id": "node/5679118621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5698451422",
+        "addr:city": "Serhetabad",
+        "amenity": "cafe",
+        "cuisine": "regional",
+        "name": "Yyldyrym Kafe",
+        "name:en": "Yyldyrym Kafe",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.3446655,
+          35.2825796
+        ]
+      },
+      "id": "node/5698451422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5779385253",
+        "amenity": "cafe",
+        "name:ru": "Столовая"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4915145,
+          37.9987037
+        ]
+      },
+      "id": "node/5779385253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5792248954",
+        "addr:city": "Ashgabat",
+        "addr:street": "Baba Jepbarow (1993) köçesi",
+        "amenity": "cafe",
+        "name": "Nogina",
+        "name:en": "Nogina",
+        "name:ru": "Ногина"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3871889,
+          37.9265409
+        ]
+      },
+      "id": "node/5792248954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5799396057",
+        "addr:city": "Artyk",
+        "addr:street": "Artyk Gümrük Posty Ýoly",
+        "amenity": "cafe",
+        "cuisine": "regional",
+        "name": "Naharhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.3241908,
+          37.5650618
+        ]
+      },
+      "id": "node/5799396057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5807307041",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "13",
+        "addr:street": "Çary Baýryýew (Mežlauk, 2050) köçesi",
+        "amenity": "cafe",
+        "cuisine": "european",
+        "name": "Üzüm Cafe",
+        "note": "No alcohol served",
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "phone": "(+993-12) 36-05-00",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3657696,
+          37.9519918
+        ]
+      },
+      "id": "node/5807307041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5875564328",
+        "amenity": "cafe",
+        "name": "Naharhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.8404175,
+          38.0615002
+        ]
+      },
+      "id": "node/5875564328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5892018686",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3616858,
+          39.5208122
+        ]
+      },
+      "id": "node/5892018686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5892026085",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3477704,
+          39.5317341
+        ]
+      },
+      "id": "node/5892026085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5919135585",
+        "amenity": "cafe",
+        "name:en": "Disco Ak-Altyn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.6309614,
+          41.8792409
+        ]
+      },
+      "id": "node/5919135585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5919172885",
+        "amenity": "cafe",
+        "name": "N Andalyp",
+        "name:en": "N Andalyp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.6335659,
+          41.8641216
+        ]
+      },
+      "id": "node/5919172885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5930785886",
+        "addr:city": "Sarahs",
+        "amenity": "cafe",
+        "cuisine": "regional",
+        "description": "Basic shashlyk and kebap restaurant.",
+        "internet_access": "no",
+        "name": "Ýurta Kare",
+        "name:en": "Yurta Cafe",
+        "name:tk": "Ýurta Kare",
+        "outdoor_seating": "yes",
+        "smoking": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.2216345,
+          36.5399414
+        ]
+      },
+      "id": "node/5930785886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5951121492",
+        "amenity": "cafe",
+        "name:en": "Bugday cafe",
+        "name:ru": "Бугдай кафе"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.9709938,
+          40.0001147
+        ]
+      },
+      "id": "node/5951121492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5987890886",
+        "addr:city": "Balkanabat",
+        "amenity": "cafe",
+        "name": "Şapak",
+        "name:tk": "Şapak",
+        "opening_hours": "Mo-Su 08:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3472843,
+          39.5168898
+        ]
+      },
+      "id": "node/5987890886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6031358087",
+        "amenity": "cafe",
+        "name:en": "Tejen Ak Oyli Cafe",
+        "name:ru": "Гара ой",
+        "opening_hours": "Mo-Su 08:30-22:00",
+        "phone": "865139075"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5185608,
+          37.376822
+        ]
+      },
+      "id": "node/6031358087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6038661816",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "217",
+        "addr:street": "Oguzhan (1957) köçesi",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "internet_access:ssid": "TM-WiFi",
+        "name": "Internet Cafe",
+        "opening_hours": "24/7",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3458316,
+          37.9125426
+        ]
+      },
+      "id": "node/6038661816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6038661823",
+        "amenity": "cafe",
+        "name": "Cafeteria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3524634,
+          37.9120504
+        ]
+      },
+      "id": "node/6038661823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6038661829",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3522255,
+          37.9128097
+        ]
+      },
+      "id": "node/6038661829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6052984003",
+        "amenity": "cafe",
+        "name:en": "Alem",
+        "name:ru": "Алем",
+        "name:tr": "Älem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3499178,
+          39.5150587
+        ]
+      },
+      "id": "node/6052984003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6052984316",
+        "amenity": "cafe",
+        "name:en": "Zevs",
+        "name:ru": "Зевс"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3500355,
+          39.5154094
+        ]
+      },
+      "id": "node/6052984316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6067835394",
+        "amenity": "cafe",
+        "cuisine": "regional",
+        "name": "Kafe Naharhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.7429005,
+          37.6054759
+        ]
+      },
+      "id": "node/6067835394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6105666885",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop;cake;breakfast",
+        "email": "info@bazetticoffee.com",
+        "internet_access": "wlan",
+        "name": "Bazetti",
+        "opening_hours": "Mo-Su 08:30-22:00",
+        "phone": "+99312216104",
+        "website": "https://www.bazetticoffee.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3475204,
+          37.9020037
+        ]
+      },
+      "id": "node/6105666885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6112956786",
+        "addr:city": "Ashgabat",
+        "addr:street": "Oguzhan (1957) köçesi",
+        "amenity": "cafe",
+        "cuisine": "burger;pizza;asian;sandwich",
+        "name": "Altyn açar",
+        "name:en": "Altyn Achar",
+        "name:ru": "Алтын Ачар",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "website": "altynachar.com.tm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4076715,
+          37.909637
+        ]
+      },
+      "id": "node/6112956786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6130401188",
+        "addr:city": "Mary",
+        "addr:street": "Aşgabat köçesi",
+        "amenity": "cafe",
+        "cuisine": "turkish",
+        "internet_access": "wlan",
+        "name": "Aladdin Coffee & Food",
+        "name:en": "Aladdin Coffee & Food",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "outdoor_seating": "no",
+        "phone": "(+993-522) 6-00-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.8432608,
+          37.5883557
+        ]
+      },
+      "id": "node/6130401188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6180117385",
+        "addr:city": "Dashoguz",
+        "addr:street": "Al Horezmi (Şagadam) köçesi",
+        "amenity": "cafe",
+        "name": "Ak Bugdaý",
+        "name:en": "Ak Bugday",
+        "name:ru": "Ак Бугдай"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.9322515,
+          41.8468348
+        ]
+      },
+      "id": "node/6180117385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6237068096",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "69",
+        "addr:postcode": "744000",
+        "addr:street": "Parahat 5",
+        "addr:unit": "41",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "email": "tmlezzetti@gmail.com",
+        "internet_access": "wlan",
+        "name": "Lezzetti Coffee",
+        "name:en": "Lezzetti Coffee",
+        "opening_hours": "Mo-Su 08:30-20:30",
+        "phone": "+99365723027"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4041822,
+          37.9093591
+        ]
+      },
+      "id": "node/6237068096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6249348785",
+        "addr:housenumber": "48",
+        "addr:postcode": "744000",
+        "addr:street": "Ýaşlar (1953) köçesi",
+        "amenity": "cafe",
+        "cuisine": "italian_pizza;japanese",
+        "email": "iltm@mail.ru",
+        "internet_access": "wlan",
+        "name:en": "Pizza#1",
+        "name:ru": "Пицца#1",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "operator": "Iltm",
+        "phone": "+99362079640",
+        "website": "https://pizza112.business.site/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3874617,
+          37.9067304
+        ]
+      },
+      "id": "node/6249348785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6261204386",
+        "addr:street": "Alisher Novaiy",
+        "amenity": "cafe",
+        "cuisine": "pizza",
+        "delivery": "yes",
+        "name": "Kopetdag Pizza",
+        "name:en": "Kopetdag Pizza",
+        "name:ru": "Копетдаг Пицца",
+        "name:tk": "Köpetdag Pizza",
+        "opening_hours": "10:00 - 22:00",
+        "phone": "927070",
+        "website": "https://yodarestoran.page.link/kopetdagpizza",
+        "website:menu": "https://yodarestoran.page.link/kopetdagpizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3744406,
+          37.9379486
+        ]
+      },
+      "id": "node/6261204386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6284260486",
+        "amenity": "cafe",
+        "name:en": "Gyzylgül Naharhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.1536699,
+          38.5406176
+        ]
+      },
+      "id": "node/6284260486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6305481548",
+        "addr:city": "Dashoguz",
+        "addr:housenumber": "6",
+        "addr:street": "Al Horezmi (Şagadam) köçesi",
+        "amenity": "cafe",
+        "cuisine": "regional;kebab",
+        "name": "Nur",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "phone": "(+993-65) 45-11-40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.924248,
+          41.8513855
+        ]
+      },
+      "id": "node/6305481548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6324771585",
+        "amenity": "cafe",
+        "name:en": "Naharhana No. 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3488233,
+          38.1224249
+        ]
+      },
+      "id": "node/6324771585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6364086398",
+        "amenity": "cafe",
+        "name": "Peder Kafesi",
+        "name:tk": "Peder Kafesi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.2923913,
+          38.5090355
+        ]
+      },
+      "id": "node/6364086398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6364179386",
+        "amenity": "cafe",
+        "name:en": "Burdalyk Kafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.3799819,
+          38.4518411
+        ]
+      },
+      "id": "node/6364179386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6364358887",
+        "addr:city": "Hojambaz",
+        "addr:street": "Hojambaz-Ata köçesi",
+        "amenity": "cafe",
+        "cuisine": "regional",
+        "name": "Naharhana No. 1",
+        "name:tk": "Naharhana No. 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.0038506,
+          38.1167367
+        ]
+      },
+      "id": "node/6364358887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6394761673",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.1525465,
+          42.3284238
+        ]
+      },
+      "id": "node/6394761673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6400362191",
+        "amenity": "cafe",
+        "name": "Домашняя Кухня",
+        "name:en": "Home kitchen",
+        "name:tk": "Öý Naharlary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.1582005,
+          42.3319331
+        ]
+      },
+      "id": "node/6400362191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6408259987",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "1",
+        "addr:street": "Täjir (DOSAAF) geçelgesi",
+        "amenity": "cafe",
+        "cuisine": "malaysian;friture;asian;beef_bowl;korean;chinese;noodles;chicken;vietnamese;curry;thai",
+        "name": "Panasian Food Project",
+        "name:en": "Panasian Food Project",
+        "opening_hours": "Mo-Su 10:00-21:00",
+        "phone": "+99363325572",
+        "website": "http://panasianfood.tk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3842195,
+          37.9153628
+        ]
+      },
+      "id": "node/6408259987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6431134686",
+        "amenity": "cafe",
+        "name:en": "Kafe",
+        "name:ru": "Kafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.8609628,
+          42.3830044
+        ]
+      },
+      "id": "node/6431134686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6431135086",
+        "amenity": "cafe",
+        "name:en": "Bereketli kafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.3796974,
+          42.0548939
+        ]
+      },
+      "id": "node/6431135086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6438096385",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name:en": "Kafe",
+        "name:ru": "Кафе",
+        "opening_hours": "24/7",
+        "phone": "+99363309054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.1572488,
+          42.335439
+        ]
+      },
+      "id": "node/6438096385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6488515285",
+        "addr:street": "Lukman Hekim köçesi",
+        "amenity": "cafe",
+        "phone": "+99361668800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.181536,
+          38.0641581
+        ]
+      },
+      "id": "node/6488515285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6518653355",
+        "addr:street": "Aşgabat-Daşoguz awtomobil ýoly",
+        "amenity": "cafe",
+        "cuisine": "regional",
+        "name": "Naharhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3577114,
+          40.4861973
+        ]
+      },
+      "id": "node/6518653355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6522760185",
+        "addr:city": "Gökdepe",
+        "addr:street": "Annamyrat Annagurbanow köçesi",
+        "amenity": "cafe",
+        "cuisine": "fish",
+        "name": "Altyn Balyk",
+        "name:tk": "Altyn Balyk",
+        "phone": "+99365116222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.9553169,
+          38.1741816
+        ]
+      },
+      "id": "node/6522760185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6527927485",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name:en": "Dor loft",
+        "name:ru": "Дор лофт!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.9691256,
+          39.999929
+        ]
+      },
+      "id": "node/6527927485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6565592585",
+        "amenity": "cafe",
+        "name:en": "Gara Altyn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3501409,
+          39.5225814
+        ]
+      },
+      "id": "node/6565592585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6593643987",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3864982,
+          40.2474803
+        ]
+      },
+      "id": "node/6593643987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6627857088",
+        "addr:street": "M37",
+        "amenity": "cafe",
+        "name:en": "Cafe Çuwallar",
+        "name:ru": "кафе Çuwallar",
+        "phone": "+99364123444"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.6218905,
+          37.3647823
+        ]
+      },
+      "id": "node/6627857088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6627857089",
+        "amenity": "cafe",
+        "name:en": "Döwletli cafe",
+        "name:ru": "кафе Dowletli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.8546143,
+          37.5936927
+        ]
+      },
+      "id": "node/6627857089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6642685485",
+        "addr:street": "Aşgabat köçesi",
+        "amenity": "cafe",
+        "name:en": "Palawçy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.8263551,
+          37.590055
+        ]
+      },
+      "id": "node/6642685485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716791586",
+        "addr:city": "Ashgabat",
+        "addr:street": "Magtymguly (2033) şaýoly",
+        "amenity": "cafe",
+        "cuisine": "turkish_pastry",
+        "name": "Simitci",
+        "name:en": "Simitci",
+        "phone": "+99362822312"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3897974,
+          37.940795
+        ]
+      },
+      "id": "node/6716791586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6931442385",
+        "amenity": "cafe",
+        "name": "Coffee Plus",
+        "name:en": "Coffee Plus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3892795,
+          37.9406148
+        ]
+      },
+      "id": "node/6931442385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6939268285",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name:en": "Tigirli Coffee",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3805835,
+          37.9419933
+        ]
+      },
+      "id": "node/6939268285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6949215987",
+        "addr:city": "Ashgabat",
+        "addr:street": "Köşi 14-nji (Atabaýew, 2067) geçelgesi",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3436616,
+          37.9718181
+        ]
+      },
+      "id": "node/6949215987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6961062685",
+        "addr:city": "Mary",
+        "addr:street": "Türkmenistan köçesi",
+        "amenity": "cafe",
+        "name": "Sanjar",
+        "name:en": "Sanjar",
+        "name:ru": "Санджар",
+        "source": "https://www.mapillary.com/app/?pKey=3d_9XeRhjRrDtMljuEqPIA&focus=photo&lat=37.59465470000261&lng=61.8348381000009&z=17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.8354635,
+          37.5952703
+        ]
+      },
+      "id": "node/6961062685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6969812085",
+        "addr:street": "P-36",
+        "amenity": "cafe",
+        "cuisine": "kebab",
+        "name": "Kose Guýy",
+        "name:ru": "косе гуйы",
+        "name:tk": "Kose Guýy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.4627648,
+          38.2292607
+        ]
+      },
+      "id": "node/6969812085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6978622185",
+        "addr:postcode": "746100",
+        "amenity": "cafe",
+        "cuisine": "russian;hot_dog;regional;local;cake;italian_pizza",
+        "email": "avtotm11@yandex.ru",
+        "internet_access": "wlan",
+        "name:en": "Children's Cafe",
+        "name:ru": "Детское кафе",
+        "opening_hours": "Mo-Sa 09:00-22:00; Su 15:00-18:00",
+        "operator": "Компания «АВТОТРАНС»",
+        "phone": "+99342239664"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5838669,
+          39.0893617
+        ]
+      },
+      "id": "node/6978622185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7005638485",
+        "amenity": "cafe",
+        "name:en": "Doner kafe Sewastopol",
+        "name:ru": "Севастополь донер кафе",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "phone": "+993 64 050708"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.389996,
+          37.928235
+        ]
+      },
+      "id": "node/7005638485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7044032386",
+        "addr:street": "Döwletmämed Azady (Engels, 2011) köçesi",
+        "amenity": "cafe",
+        "cuisine": "cake;coffee_shop",
+        "delivery": "yes",
+        "name:en": "Tigirli Coffee",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 09:00-18:00",
+        "phone": "+99365721514"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3805646,
+          37.9419925
+        ]
+      },
+      "id": "node/7044032386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7047276885",
+        "addr:street": "Nazar",
+        "amenity": "cafe",
+        "cuisine": "chicken;pizza;regional;oriental;kebab",
+        "name:en": "Türkmen Tagam",
+        "name:ru": "Туркмен Тагам",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "operator": "Палван Одаев (Palwan Ödäýew)",
+        "phone": "+99361212125,+99362212125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5749871,
+          39.0627287
+        ]
+      },
+      "id": "node/7047276885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7089522785",
+        "addr:street": "Nazar",
+        "amenity": "cafe",
+        "cuisine": "chicken;pizza;regional;oriental;kebab;coffee_shop",
+        "name:en": "Türkmen Tagam",
+        "name:ru": "Туркмен Тагам",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "operator": "Pälwan Ödäýew",
+        "phone": "+99361212125,+99362212125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5750855,
+          39.0627986
+        ]
+      },
+      "id": "node/7089522785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7092846886",
+        "amenity": "cafe",
+        "name:en": "No name"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3994476,
+          37.936644
+        ]
+      },
+      "id": "node/7092846886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7103681487",
+        "amenity": "cafe",
+        "name:ru": "Шашлык ,Луле,Супы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.5064748,
+          36.5922759
+        ]
+      },
+      "id": "node/7103681487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7111485785",
+        "amenity": "cafe",
+        "name:en": "Jülge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3778385,
+          37.9510115
+        ]
+      },
+      "id": "node/7111485785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7120122289",
+        "addr:city": "Jendi geňeşligi",
+        "addr:street": "P-38",
+        "amenity": "cafe",
+        "cuisine": "regional",
+        "name": "Kafe Dostluk",
+        "name:tk": "Kafe Dostluk",
+        "source": "https://www.mapillary.com/app/?pKey=0-WQWB3sSncsOWF44GFgYg&focus=photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.6841542,
+          39.1303327
+        ]
+      },
+      "id": "node/7120122289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7130731318",
+        "addr:city": "Gazojak",
+        "amenity": "cafe",
+        "name": "Şadurdy",
+        "name:ru": "Садурди",
+        "name:tk": "Şadurdy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.4019751,
+          41.1916286
+        ]
+      },
+      "id": "node/7130731318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7177318985",
+        "addr:street": "R. Mowlýanow köçesi",
+        "amenity": "cafe",
+        "name:en": "Kafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.2034456,
+          37.8392251
+        ]
+      },
+      "id": "node/7177318985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7198659985",
+        "amenity": "cafe",
+        "name:ru": "Шашлычная",
+        "phone": "+99363090203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3758014,
+          37.9508569
+        ]
+      },
+      "id": "node/7198659985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7205243785",
+        "amenity": "cafe",
+        "name:en": "Gara öÿ Basim Palwan",
+        "name:ru": "Gara öÿ Basim Palwan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.9388249,
+          38.0312693
+        ]
+      },
+      "id": "node/7205243785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7207608585",
+        "amenity": "cafe",
+        "name:en": "Bereketli",
+        "name:ru": "Bereketli кафе"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5845108,
+          39.0442699
+        ]
+      },
+      "id": "node/7207608585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7273636185",
+        "amenity": "cafe",
+        "name:ru": "Bekre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.9974531,
+          40.0066815
+        ]
+      },
+      "id": "node/7273636185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7345507285",
+        "addr:city": "Surh geňeşligi",
+        "addr:street": "P-36",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Toý saçagy",
+        "name:en": "Toý saçagy",
+        "name:tk": "Toý saçagy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.9193385,
+          38.0451095
+        ]
+      },
+      "id": "node/7345507285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7386375985",
+        "addr:street": "S. Nyýazow köçesi",
+        "amenity": "cafe",
+        "name:en": "Steak house",
+        "name:ru": "Стейк хаус",
+        "opening_hours": "Mo-Su 09:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.2027051,
+          37.841889
+        ]
+      },
+      "id": "node/7386375985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7419792485",
+        "addr:street": "S. Nyýazow köçesi",
+        "amenity": "cafe",
+        "name:en": "Steak house",
+        "name:ru": "Стейк хаус",
+        "opening_hours": "Mo-Su 09:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.2029236,
+          37.8418285
+        ]
+      },
+      "id": "node/7419792485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7499999985",
+        "amenity": "cafe",
+        "name:en": "Kafe Kožman",
+        "name:ru": "Кафе Кожман"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.0713257,
+          40.0676964
+        ]
+      },
+      "id": "node/7499999985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7641956185",
+        "addr:street": "Demirgazyk köçesi",
+        "amenity": "cafe",
+        "name:en": "Cafe",
+        "name:ru": "Кафе",
+        "opening_hours": "Mo-Su 07:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.6085412,
+          39.1657104
+        ]
+      },
+      "id": "node/7641956185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7641956385",
+        "addr:street": "Miras köçesi",
+        "amenity": "cafe",
+        "cuisine": "local",
+        "name:en": "Cafe",
+        "name:ru": "Кафе",
+        "opening_hours": "Mo-Su 09:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.6020037,
+          39.1687919
+        ]
+      },
+      "id": "node/7641956385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7642141987",
+        "addr:street": "Kukaýew (2081, Uspenskiý) köçesi",
+        "amenity": "cafe",
+        "name:en": "Galkynyş Uspen kafe",
+        "opening_hours": "24/7",
+        "phone": "+99365716171"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3996847,
+          37.9449538
+        ]
+      },
+      "id": "node/7642141987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7672346816",
+        "addr:city": "Tejen",
+        "addr:street": "S. Türkmenbaşy köçesi",
+        "amenity": "cafe",
+        "cuisine": "regional",
+        "mapillary": "803727250576566",
+        "name": "Ak-Ýol Kafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5176731,
+          37.3742826
+        ]
+      },
+      "id": "node/7672346816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7726391385",
+        "addr:street": "Parahat 2",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Şabaz",
+        "name:en": "Shabaz café",
+        "name:ru": "Шабаз кафе",
+        "outdoor_seating": "yes",
+        "phone": "+99361999898",
+        "website": "https://yodarestoran.page.link/shabaz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3848054,
+          37.8998307
+        ]
+      },
+      "id": "node/7726391385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7729092001",
+        "amenity": "cafe",
+        "name": "Eşretli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4071715,
+          37.8984705
+        ]
+      },
+      "id": "node/7729092001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7772975685",
+        "amenity": "cafe",
+        "name:en": "Aladdin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.584371,
+          39.0420581
+        ]
+      },
+      "id": "node/7772975685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7774236785",
+        "addr:street": "Magtymguly (2033) şaýoly",
+        "amenity": "cafe",
+        "name:en": "Magnolia",
+        "name:ru": "Магнолия",
+        "opening_hours": "Mo-Su 10:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3476641,
+          37.9573693
+        ]
+      },
+      "id": "node/7774236785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7836971485",
+        "addr:street": "P-35",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name:en": "\"HAN\" kafe",
+        "phone": "+99344632234"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.2052041,
+          39.2398251
+        ]
+      },
+      "id": "node/7836971485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7951179387",
+        "addr:housenumber": "64-A2",
+        "addr:postcode": "745000",
+        "addr:street": "Azady köçesi",
+        "amenity": "cafe",
+        "name:en": "Chynarly Cafe",
+        "name:ru": "Чынарлы Кафэ",
+        "name:tr": "Çınarlı Kafe",
+        "opening_hours": "24/7",
+        "phone": "+99364283311"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.9807271,
+          40.0154792
+        ]
+      },
+      "id": "node/7951179387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8377296317",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name:en": "Fastfood",
+        "name:ru": "Фастфуд"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4239697,
+          37.9144126
+        ]
+      },
+      "id": "node/8377296317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8516156118",
+        "addr:housenumber": "23",
+        "addr:street": "Kosmonawtlar köçesi",
+        "amenity": "cafe",
+        "cuisine": "burger",
+        "internet_access": "wlan",
+        "name:en": "Güýç döner",
+        "name:ru": "Güýç döner",
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "phone": "+99365130501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4695972,
+          37.9126044
+        ]
+      },
+      "id": "node/8516156118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8767963817",
+        "amenity": "cafe",
+        "name:en": "Nalana",
+        "name:ru": "Налана"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3983094,
+          37.9151139
+        ]
+      },
+      "id": "node/8767963817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8777518617",
+        "amenity": "cafe",
+        "name:en": "Gowurlan balyk Naharhanasy",
+        "name:ru": "Рыбожарка",
+        "opening_hours": "Mo-Su 09:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.5796665,
+          39.0698936
+        ]
+      },
+      "id": "node/8777518617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8779679917",
+        "addr:housenumber": "139",
+        "addr:postcode": "744000",
+        "addr:street": "Görogly (2009) köçesi",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop;italian_pizza;turkish",
+        "name": "Bazilik",
+        "name:ru": "Базилик",
+        "opening_hours": "Mo-Su 09:00-23:00",
+        "phone": "344520"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3494215,
+          37.9485292
+        ]
+      },
+      "id": "node/8779679917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8781159517",
+        "amenity": "cafe",
+        "name:en": "Tuncha kafe",
+        "name:ru": "кафе Тунча"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4312127,
+          37.9348889
+        ]
+      },
+      "id": "node/8781159517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8827055017",
+        "amenity": "cafe",
+        "name:ru": "Павильен"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3469481,
+          37.9420205
+        ]
+      },
+      "id": "node/8827055017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8864530782",
+        "amenity": "cafe",
+        "cuisine": "pizza;burger;regional;asian;sandwich;coffee_shop",
+        "name": "Nescafe Karaoke-Bar",
+        "name:ru": "Нескафе Караоке-бар",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.8739526,
+          37.5905156
+        ]
+      },
+      "id": "node/8864530782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8926417817",
+        "amenity": "cafe",
+        "name": "Kośi",
+        "name:en": "Koshi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3430685,
+          37.972081
+        ]
+      },
+      "id": "node/8926417817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9181729317",
+        "amenity": "cafe",
+        "name:en": "Kemine Coffee",
+        "name:ru": "Кемине Кофе",
+        "opening_hours": "Mo-Su 07:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3724341,
+          37.9521515
+        ]
+      },
+      "id": "node/9181729317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9684428617",
+        "addr:housenumber": "21 А",
+        "addr:street": "Gündogar köçesi",
+        "amenity": "cafe",
+        "name:en": "Dana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.150617,
+          38.0603022
+        ]
+      },
+      "id": "node/9684428617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9713021817",
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "bar": "yes",
+        "delivery": "yes",
+        "name:en": "Kinza Caffe",
+        "name:ru": "Кинза кафе",
+        "opening_hours": "Mo-Su 10:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3892373,
+          37.9411311
+        ]
+      },
+      "id": "node/9713021817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9806739664",
+        "amenity": "cafe",
+        "cuisine": "regional;fast_food",
+        "name": "Canteen",
+        "name:en": "Canteen",
+        "name:tk": "Naharhana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3922918,
+          37.8742046
+        ]
+      },
+      "id": "node/9806739664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9891737919",
+        "amenity": "cafe",
+        "name": "Ayna's coffee, Kaka city",
+        "opening_hours": "PH,Mo-Su 09:00-23:00+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.6150562,
+          37.3461954
+        ]
+      },
+      "id": "node/9891737919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9891749517",
+        "amenity": "cafe",
+        "name": "A Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3397115,
+          37.9411219
+        ]
+      },
+      "id": "node/9891749517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899764222",
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "delivery": "yes",
+        "name": "Overbrinks - Oguzkent",
+        "name:ru": "Overbrinks - Огузкент",
+        "phone": "+99362333605",
+        "takeaway": "yes",
+        "website": "https://yodarestoran.page.link/overbrinks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3713556,
+          37.9285402
+        ]
+      },
+      "id": "node/9899764222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899764224",
+        "amenity": "cafe",
+        "delivery": "yes",
+        "name": "Overbrinks - City Pub",
+        "phone": "+99361966884",
+        "website": "https://yodarestoran.page.link/overbrinks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3759136,
+          37.9413928
+        ]
+      },
+      "id": "node/9899764224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9912950217",
+        "amenity": "cafe",
+        "name": "Хаза"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4195497,
+          37.9219459
+        ]
+      },
+      "id": "node/9912950217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9948775917",
+        "addr:street": "Мир 3 улица Молодёжная",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name:en": "Lemon Cafeteri",
+        "name:ru": "Lemon Cafeteri",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+99365556112"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3942099,
+          37.9061017
+        ]
+      },
+      "id": "node/9948775917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10120581818",
+        "addr:street": "Parahat 7/3 ýaşaýyş toplumy, jaý 10",
+        "amenity": "cafe",
+        "phone": "865883113,865881331"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.412755,
+          37.8971092
+        ]
+      },
+      "id": "node/10120581818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10177557917",
+        "amenity": "cafe",
+        "internet_access": "wlan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.2949575,
+          37.9321184
+        ]
+      },
+      "id": "node/10177557917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10207164621",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4954319,
+          37.8973671
+        ]
+      },
+      "id": "node/10207164621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10238196609",
+        "amenity": "cafe",
+        "name": "Uspen No.1",
+        "opening_hours": "Mo-Su 09:00-23:00",
+        "website": "https://yodarestoran.page.link/uspen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4093562,
+          37.9818133
+        ]
+      },
+      "id": "node/10238196609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10290021009",
+        "amenity": "cafe",
+        "name": "Кошмар"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.1884536,
+          38.0343104
+        ]
+      },
+      "id": "node/10290021009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10302393309",
+        "amenity": "cafe",
+        "cuisine": "turkish",
+        "name": "Kfeli",
+        "name:en": "Koftel",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "phone": "100256"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3948079,
+          37.9042767
+        ]
+      },
+      "id": "node/10302393309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10564374010",
+        "addr:street": "Garaşsyzlyk (1986) şaýoly",
+        "amenity": "cafe",
+        "name:en": "Avo Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.366628,
+          37.9115442
+        ]
+      },
+      "id": "node/10564374010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10587231310",
+        "amenity": "cafe",
+        "name:en": "Ayperi KRW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.9625821,
+          40.0005724
+        ]
+      },
+      "id": "node/10587231310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10607039830",
+        "addr:city": "Balkanabat",
+        "addr:postcode": "745100",
+        "amenity": "cafe",
+        "internet_access": "no",
+        "name": "Mono"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3528317,
+          39.5186477
+        ]
+      },
+      "id": "node/10607039830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10737679305",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "25",
+        "addr:street": "Gurbannazar Ezizow köçesi",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Boston Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3583575,
+          37.9171719
+        ]
+      },
+      "id": "node/10737679305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10831365505",
+        "addr:housenumber": "13",
+        "amenity": "cafe",
+        "name": "Mr. Döner",
+        "name:en": "Mr. Döner",
+        "phone": "+99360100088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3639165,
+          37.9182953
+        ]
+      },
+      "id": "node/10831365505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10840072305",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3668923,
+          37.9272877
+        ]
+      },
+      "id": "node/10840072305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10857969692",
+        "addr:street": "Alty Garlyýew (Surikow, 1932) köçesi",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop;sandwich",
+        "name": "Baý Kofe",
+        "name:en": "Bay Coffee",
+        "name:ru": "Бай Кофе",
+        "name:tk": "Baý Kofe",
+        "opening_hours": "07:30 - 22:00",
+        "outdoor_seating": "yes",
+        "website": "https://yodarestoran.page.link/baykofe",
+        "website:menu": "https://yodarestoran.page.link/baykofe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4085431,
+          37.9290575
+        ]
+      },
+      "id": "node/10857969692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10951500305",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.9302485,
+          42.0743814
+        ]
+      },
+      "id": "node/10951500305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10969094305",
+        "addr:housenumber": "27/1",
+        "addr:street": "Ahal köçesi",
+        "amenity": "cafe",
+        "email": "dorpizzatm@gmail.com",
+        "name:en": "Cafe Dor Pizza",
+        "name:ru": "Кафе Dor Pizza",
+        "opening_hours": "Su-Fr 09:00-18:00",
+        "phone": "+99361333421",
+        "website": "https://dostawka.bar/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4875559,
+          37.8979565
+        ]
+      },
+      "id": "node/10969094305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10971771495",
+        "addr:city": "Ashgabat",
+        "addr:housenumber": "44/1",
+        "addr:postcode": "744000",
+        "addr:street": "Atamyrat Nyýazow (2038) şaýoly",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop;tea",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "UNO coffee & tea",
+        "opening_hours": "8:00 - 22:00",
+        "outdoor_seating": "yes",
+        "phone": "+99361395577",
+        "website": "https://instagram.com/unocoffee.tea?igshid=MzRlODBiNWFlZA=="
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.396148,
+          37.9201734
+        ]
+      },
+      "id": "node/10971771495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11152996305",
+        "addr:housenumber": "152",
+        "addr:street": "Magtymguly (2033) şaýoly",
+        "amenity": "cafe",
+        "cuisine": "diner;grill;kebab;pizza",
+        "name": "Арзув",
+        "name:en": "ARZUW",
+        "name:ru": "Арзув",
+        "phone": "+99312340807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.348772,
+          37.957769
+        ]
+      },
+      "id": "node/11152996305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11246715137",
+        "addr:city": "Ashgabat",
+        "addr:street": "Ata Döwletow (Lomonosow) geçelgesi",
+        "amenity": "cafe",
+        "cuisine": "cake;coffee_shop;italian_pizza;turkish",
+        "name": "Hurma",
+        "name:en": "Hurma",
+        "name:ru": "Хурма",
+        "phone": "+993 61 400001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4239379,
+          37.9402026
+        ]
+      },
+      "id": "node/11246715137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11340750369",
+        "addr:street": "Bitarap Türkmenistan (2002) şaýoly",
+        "amenity": "cafe",
+        "name:en": "Lavka cafe",
+        "name:ru": "Лавка кафе"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3861168,
+          37.945851
+        ]
+      },
+      "id": "node/11340750369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11383726169",
+        "amenity": "cafe",
+        "name:en": "Cafe Rahat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3465839,
+          37.9408401
+        ]
+      },
+      "id": "node/11383726169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11399472669",
+        "amenity": "cafe",
+        "name:en": "SIMIT Dünýäsi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4066574,
+          37.9097272
+        ]
+      },
+      "id": "node/11399472669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11527217270",
+        "addr:street": "Beýik Saparmyrat Türkmenbaşy (1966) şaýoly",
+        "amenity": "cafe",
+        "name": "Kerwendoner",
+        "name:ru": "Kerwendoner",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "phone": "+99361505065"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3840669,
+          37.918749
+        ]
+      },
+      "id": "node/11527217270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11574115869",
+        "addr:street": "Oguzhan (1957) köçesi",
+        "amenity": "cafe",
+        "cuisine": "asian;beef_bowl;breakfast;burger;chicken;coffee_shop;fish_and_chips",
+        "name:en": "Mr.Doner",
+        "phone": "100088   100099",
+        "website": "http://mr.doner.pikir.biz/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3638758,
+          37.917781
+        ]
+      },
+      "id": "node/11574115869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11601358170",
+        "addr:street": "Parahat köçesi",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop;tea",
+        "email": "abbasow1993@gmail.com",
+        "name:en": "MS Koffe",
+        "name:ru": "МС Кофе",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "phone": "+99363552200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.2204834,
+          37.9635045
+        ]
+      },
+      "id": "node/11601358170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11619098469",
+        "addr:street": "Dostluk köçesi",
+        "amenity": "cafe",
+        "cuisine": "american;arab;argentinian;asian;austrian;bagel;balkan",
+        "internet_access": "wlan",
+        "name": "Casablanca club kafe bar restaurant",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "phone": "+99362335050"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.8762367,
+          37.5883491
+        ]
+      },
+      "id": "node/11619098469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11619147170",
+        "addr:street": "Atamyrat Nyýazow şaýoly",
+        "amenity": "cafe",
+        "name": "JEÝHUN Кафе",
+        "phone": "+99362148428"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.869776,
+          37.5873371
+        ]
+      },
+      "id": "node/11619147170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11619200769",
+        "addr:street": "Görogly köçe",
+        "amenity": "cafe",
+        "name": "Кафе 30+",
+        "phone": "+99363520151"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.8673965,
+          37.5835047
+        ]
+      },
+      "id": "node/11619200769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11654603304",
+        "addr:street": "Magtymguly (2033) sayoly",
+        "amenity": "cafe",
+        "name": "Awaza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3541455,
+          37.9582217
+        ]
+      },
+      "id": "node/11654603304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11722138869",
+        "addr:city": "Saparmyrat Turkmenbaşy şaherçesi",
+        "amenity": "cafe",
+        "cuisine": "asian;kebab",
+        "email": "ahmetsoyegov@gmail.com",
+        "name": "Kafe Bilýard",
+        "name:tk": "Kafe Bilýard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.8334881,
+          37.5119698
+        ]
+      },
+      "id": "node/11722138869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11748087569",
+        "addr:street": "Medeniýet (Reutow, 2027) köçesi",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name:en": "T-Craft coffee",
+        "opening_hours": "Su-Sa 07:00-23:00",
+        "phone": "109091",
+        "website": "https://www.instagram.com/t_craft_coffee?igsh=MTZvOG56d2diZm45dg=="
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3573152,
+          37.9552395
+        ]
+      },
+      "id": "node/11748087569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11748087570",
+        "addr:street": "Medeniýet (Reutow, 2027) köçesi",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name:en": "T Craft coffee",
+        "opening_hours": "Su-Sa 07:00-23:00",
+        "phone": "109091",
+        "website": "https://www.instagram.com/t_craft_coffee?igsh=MTZvOG56d2diZm45dg=="
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3574495,
+          37.9546158
+        ]
+      },
+      "id": "node/11748087570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11751503869",
+        "addr:postcode": "744000",
+        "amenity": "cafe",
+        "cuisine": "barbecue",
+        "name:en": "yalkym kebap delivery dostawka",
+        "name:ru": "ялкым доставка шашлыков",
+        "phone": "+99365673167"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3543645,
+          37.9517474
+        ]
+      },
+      "id": "node/11751503869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11766736669",
+        "amenity": "cafe",
+        "name:en": "BALYALJAK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.2547015,
+          38.0376808
+        ]
+      },
+      "id": "node/11766736669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11839395069",
+        "addr:street": "Beýik Saparmyrat Türkmenbaşy (1966) şaýoly",
+        "amenity": "cafe",
+        "name:ru": "Kerwen doner",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "phone": "+99362944040"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3838773,
+          37.9187461
+        ]
+      },
+      "id": "node/11839395069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11903504769",
+        "amenity": "cafe",
+        "cuisine": "breakfast;cake;coffee_shop;donut;sandwich;savory_pancakes",
+        "email": "lacrema@icloud.com",
+        "name": "La Crema",
+        "name:en": "La Crema",
+        "opening_hours": "8:00-23:00",
+        "outdoor_seating": "yes",
+        "phone": "+99371131311",
+        "website": "https://www.instagram.com/lacrema_pastry?igsh=cmt3cDkxajAxc3Jm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3719124,
+          37.939355
+        ]
+      },
+      "id": "node/11903504769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11933612469",
+        "amenity": "cafe",
+        "name:ru": "Айпери"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3889879,
+          37.9274052
+        ]
+      },
+      "id": "node/11933612469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11954233969",
+        "addr:postcode": "744000",
+        "amenity": "cafe",
+        "cuisine": "american;breakfast;burger;coffee_shop",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Park",
+        "name:en": "Park",
+        "name:ru": "Парк",
+        "opening_hours": "Su-Sa 08:00-22:00",
+        "outdoor_seating": "yes",
+        "phone": "227007",
+        "website": "https://www.instagram.com/cafepark_tm/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3831955,
+          37.9178082
+        ]
+      },
+      "id": "node/11954233969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12050517569",
+        "addr:street": "Howdan B",
+        "amenity": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3999176,
+          37.9116778
+        ]
+      },
+      "id": "node/12050517569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12070520941",
+        "addr:street": "Galkynyş,54",
+        "amenity": "cafe",
+        "name": "Täç coffee",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "131390"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.40352,
+          37.9249148
+        ]
+      },
+      "id": "node/12070520941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12128333901",
+        "addr:street": "Parahat 4",
+        "amenity": "cafe",
+        "name": "Какао"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3941365,
+          37.8976636
+        ]
+      },
+      "id": "node/12128333901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12309775301",
+        "amenity": "cafe",
+        "name:en": "Gusto Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3895622,
+          37.9431039
+        ]
+      },
+      "id": "node/12309775301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12320882601",
+        "amenity": "cafe",
+        "contact:instagram": "page_kofe",
+        "cuisine": "breakfast;cake;coffee_shop;ice_cream",
+        "internet_access": "wlan",
+        "name": "PAGE Coffee",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+99361473373"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3592609,
+          37.9502433
+        ]
+      },
+      "id": "node/12320882601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12398526701",
+        "amenity": "cafe",
+        "name:en": "ADA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3828398,
+          37.9039947
+        ]
+      },
+      "id": "node/12398526701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12595277802",
+        "amenity": "cafe",
+        "name": "AURUM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3606685,
+          37.9179314
+        ]
+      },
+      "id": "node/12595277802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12595284801",
+        "addr:street": "Görogly (2009) köçesi",
+        "amenity": "cafe",
+        "cuisine": "sushi",
+        "name": "Yelken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3640356,
+          37.9430665
+        ]
+      },
+      "id": "node/12595284801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12725952701",
+        "addr:street": "Parahat 3/1",
+        "amenity": "cafe",
+        "name": "Mokko"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.393462,
+          37.9041714
+        ]
+      },
+      "id": "node/12725952701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12857943401",
+        "amenity": "cafe",
+        "name": "Kakao",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "phone": "+99364359786"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3941242,
+          37.8977638
+        ]
+      },
+      "id": "node/12857943401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12866137901",
+        "addr:street": "Baba Jepbarow (1993) köçesi",
+        "amenity": "cafe",
+        "cuisine": "barbecue;chicken;coffee_shop;friture;international;kebab;local",
+        "email": "guneshgarden@gmail.com",
+        "name": "Güneş Garden",
+        "name:en": "Gunesh Garden",
+        "name:ru": "Гунеш Гарден",
+        "name:tr": "Güneş Garden",
+        "opening_hours": "Mo-Su 10:00-23:00",
+        "phone": "556618"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3874242,
+          37.9267111
+        ]
+      },
+      "id": "node/12866137901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12926329905",
+        "amenity": "cafe",
+        "name": "Nesil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3711851,
+          37.8915532
+        ]
+      },
+      "id": "node/12926329905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13013493101",
+        "addr:street": "Döwletmämed Azady (Engels, 2011) köçesi",
+        "amenity": "cafe",
+        "name": "Peykam ПЕЙКАМ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3611062,
+          37.9448439
+        ]
+      },
+      "id": "node/13013493101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13014848201",
+        "amenity": "cafe",
+        "name:en": "Coffee Point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4006384,
+          37.9138944
+        ]
+      },
+      "id": "node/13014848201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13055198600",
+        "amenity": "cafe",
+        "name": "Aý peri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3888177,
+          37.9275497
+        ]
+      },
+      "id": "node/13055198600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13195696501",
+        "amenity": "cafe",
+        "name:en": "Gökdere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4025513,
+          37.9175001
+        ]
+      },
+      "id": "node/13195696501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13247788901",
+        "addr:housenumber": "156а",
+        "addr:street": "Кемине (2035) улица",
+        "amenity": "cafe",
+        "name": "Bazetti Kemine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3800275,
+          37.9481463
+        ]
+      },
+      "id": "node/13247788901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13261950801",
+        "amenity": "cafe",
+        "cuisine": "international;local",
+        "diet:vegetarian": "yes",
+        "name:en": "Diyar",
+        "name:ru": "Дияр"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.1529089,
+          42.3327724
+        ]
+      },
+      "id": "node/13261950801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13271515404",
+        "amenity": "cafe",
+        "name:en": "Nova Lounge Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4002913,
+          37.9331779
+        ]
+      },
+      "id": "node/13271515404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13329705501",
+        "addr:housenumber": "№11",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "name:en": "Bazetti Gurtly",
+        "phone": "+993 12 97-98-33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3338854,
+          37.9812721
+        ]
+      },
+      "id": "node/13329705501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13350617901",
+        "addr:housenumber": "11",
+        "amenity": "cafe",
+        "name": "BAZETTI",
+        "name:en": "BAZETTI",
+        "phone": "+99312979833"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3338642,
+          37.9813016
+        ]
+      },
+      "id": "node/13350617901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13441959801",
+        "amenity": "cafe",
+        "name": "Yalkym dostawka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.294732,
+          37.9909477
+        ]
+      },
+      "id": "node/13441959801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13528855782",
+        "addr:city": "Aşgabat",
+        "addr:postcode": "744000",
+        "addr:street": "Мир 3 улица Молодёжная",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name:en": "Plant mama",
+        "name:ru": "Plant mama",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3940869,
+          37.9061096
+        ]
+      },
+      "id": "node/13528855782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13536363001",
+        "addr:housenumber": "73А",
+        "addr:street": "Beýik Saparmyrat Türkmenbaşy (1966) şaýoly",
+        "amenity": "cafe",
+        "cuisine": "american;breakfast;burger;cake;chicken;coffee_shop;hotdog",
+        "internet_access": "wlan",
+        "name:en": "Park",
+        "name:ru": "Парк",
+        "opening_hours": "Su-Sa 08:00-22:00",
+        "phone": "227007",
+        "website": "https://www.instagram.com/cafepark_tm?igsh=ZXo2M2p5Z3BoMTVn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3831828,
+          37.917815
+        ]
+      },
+      "id": "node/13536363001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13644586301",
+        "addr:street": "Aga Berdiýew (2087) köçesi",
+        "amenity": "cafe",
+        "name:en": "Cafe “Galkynysh”",
+        "name:ru": "Кафе «Галкыныш»",
+        "opening_hours": "Su-Sa 08:00-23:00",
+        "phone": "+99365716171"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3971833,
+          37.9458046
+        ]
+      },
+      "id": "node/13644586301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13671342801",
+        "amenity": "cafe",
+        "name:en": "HAMYR Pro",
+        "phone": "+99361238668"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4143197,
+          37.9364202
+        ]
+      },
+      "id": "node/13671342801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13678350001",
+        "amenity": "cafe",
+        "name:en": "Şa Lezzet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3504093,
+          37.9485935
+        ]
+      },
+      "id": "node/13678350001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13713695882",
+        "addr:city": "Ashgabat",
+        "addr:street": "Juma Halmyradow (1985) köçesi",
+        "amenity": "cafe",
+        "cuisine": "samsa;samsa_oyi;uzbek_samsa;alat_samsa;petir_samsa",
+        "name": "Samsa Öýi",
+        "opening_hours": "Mo-Su 08:30-23:00",
+        "outdoor_seating": "yes",
+        "phone": "+99371894004",
+        "website": "https://www.instagram.com/samsa_oyi/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.395808,
+          37.9183248
+        ]
+      },
+      "id": "node/13713695882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13864765301",
+        "addr:housenumber": "61",
+        "addr:street": "Atatürk (1972) köçesi",
+        "amenity": "cafe",
+        "cuisine": "american",
+        "internet_access": "wlan",
+        "name:en": "MEGA Burger",
+        "name:ru": "MEGA Burger",
+        "opening_hours": "Mo-Su 10:00-22:30",
+        "phone": "+99312484545"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3721811,
+          37.9030993
+        ]
+      },
+      "id": "node/13864765301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13909295802",
+        "amenity": "cafe",
+        "name": "Saçak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3959175,
+          37.9182681
+        ]
+      },
+      "id": "node/13909295802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13909296901",
+        "amenity": "cafe",
+        "name": "Somsa öýi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3958384,
+          37.9182791
+        ]
+      },
+      "id": "node/13909296901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13909895901",
+        "amenity": "cafe",
+        "name:en": "Doner",
+        "name:ru": "Донер кафе"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.8260713,
+          37.5976996
+        ]
+      },
+      "id": "node/13909895901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13925328001",
+        "addr:housenumber": "260",
+        "addr:street": "Atamyrat Nyýazow (2038) şaýoly",
+        "amenity": "cafe",
+        "name": "ТАВЕРНА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3663883,
+          37.9484729
+        ]
+      },
+      "id": "node/13925328001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13980662601",
+        "amenity": "cafe",
+        "name": "Kafe LIMONRA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3540172,
+          37.9608211
+        ]
+      },
+      "id": "node/13980662601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14057655901",
+        "amenity": "cafe",
+        "name:ru": "Айша"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3674376,
+          37.9548046
+        ]
+      },
+      "id": "node/14057655901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/14123740801",
+        "amenity": "cafe",
+        "name:en": "Lezzetli palaw",
+        "phone": "+99365864568, +99361457717"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.6033595,
+          39.0108249
+        ]
+      },
+      "id": "node/14123740801"
+    }
+  ]
+}
